@@ -1,0 +1,1323 @@
+index,type,amount,id_hex,name,detail
+0,item,10,0x2000,"Potion",
+1,sp,2,0x0064,"100 SP",
+2,gil,10,0x012C,"300 Gil",
+3,item,1,0xC089,"Libra",1* ATK+1
+4,item,1,0xC024,"Curaga",1* SPR+1
+5,item,1,0xC02C,"Drain",1* HP+1
+6,item,1,0xC042,"Graviga",1* MAG+1
+7,item,1,0x5001,"Iron Bangle",
+8,item,1,0x5002,"Titanium Bangle",
+9,item,1,0x5003,"Carbon Bangle",
+10,item,1,0x5004,"Platinum Bangle",
+11,item,1,0x5012,"Kaiser Knuckles",
+12,item,1,0x501A,"Royal Crown",
+13,item,1,0x5016,"Shinra Beta+",
+14,item,1,0x501E,"Crystal Orb",
+15,item,5,0x2006,"Elixir",
+16,item,10,0x2006,"Elixir",
+17,item,1,0x2007,"Phoenix Down",
+18,item,3,0x2007,"Phoenix Down",
+19,item,1,0x301A,"Gold Rolling Pin",
+20,item,3,0x301A,"Gold Rolling Pin",
+21,item,5,0x301A,"Gold Rolling Pin",
+22,item,1,0x5049,"Ribbon",
+23,item,1,0x5000,"Bronze Bangle",
+24,item,1,0x504B,"Cursed Ring",
+25,item,1,0x502D,"Fire Armlet",
+26,item,1,0x2007,"Phoenix Down",
+27,item,1,0x5013,"Bulletproof Vest",
+28,item,1,0x2006,"Elixir",
+29,item,1,0x2004,"Soma",
+30,item,1,0x2000,"Potion",
+31,item,1,0x2003,"Ether",
+32,item,1,0x2001,"Hi-Potion",
+33,item,1,0x2003,"Ether",
+34,item,1,0x2000,"Potion",
+35,item,1,0x2001,"Hi-Potion",
+36,item,1,0x2004,"Soma",
+37,item,1,0x2006,"Elixir",
+38,item,1,0x2004,"Soma",
+39,item,1,0x5017,"Earrings",
+40,item,1,0x2006,"Elixir",
+41,item,1,0x2002,"X-Potion",
+42,item,1,0x2006,"Elixir",
+43,item,1,0x2002,"X-Potion",
+44,item,1,0x5013,"Bulletproof Vest",
+45,item,1,0xC00F,"Fire",2* MAG+3
+46,item,1,0x301B,"Ifrit Materia",
+47,item,1,0x4002,"Thunder",
+48,item,1,0x2002,"X-Potion",
+49,item,1,0x2001,"Hi-Potion",
+50,item,1,0x2005,"Remedy",
+51,item,1,0x2001,"Hi-Potion",
+52,item,1,0xC077,"MP Up",1* MP+1
+53,item,1,0x2002,"X-Potion",
+54,item,1,0x5005,"Bronze Armlet",
+55,item,1,0x2003,"Ether",
+56,item,1,0x2004,"Soma",
+57,item,1,0x2002,"X-Potion",
+58,item,1,0x2006,"Elixir",
+59,item,1,0x2007,"Phoenix Down",
+60,item,1,0x2004,"Soma",
+61,item,1,0x2003,"Ether",
+62,item,1,0x2000,"Potion",
+63,item,2,0x2003,"Ether",
+64,item,2,0x2000,"Potion",
+65,gil,1,0x0005,"5 Gil",
+66,gil,1,0x01F4,"500 Gil",
+67,item,1,0x2006,"Elixir",
+68,item,1,0x2005,"Remedy",
+69,item,1,0x2002,"X-Potion",
+70,item,1,0x2005,"Remedy",
+71,item,1,0x5014,"Shinra Alpha",
+72,item,1,0x2002,"X-Potion",
+73,item,1,0xC032,"Silence",1* MAG+1
+74,item,1,0x2001,"Hi-Potion",
+75,item,1,0x2007,"Phoenix Down",
+76,item,1,0x2005,"Remedy",
+77,item,1,0x5001,"Iron Bangle",
+78,item,1,0x2001,"Hi-Potion",
+79,item,1,0xC010,"Thunder",2* MAG+3
+80,item,1,0x3003,"SPR Mako Stone",
+81,item,1,0x501B,"Amulet",
+82,item,1,0x2002,"X-Potion",
+83,item,1,0x2000,"Potion",
+84,item,1,0x5000,"Bronze Bangle",
+85,item,1,0x5043,"Star Pendant",
+86,item,1,0xC017,"Fire",1* MAG+1
+87,item,1,0xC018,"Blizzard",1* MAG+1
+88,item,1,0x2003,"Ether",
+89,gil,10,0x01F4,"500 Gil",
+90,item,1,0x501B,"Amulet",
+91,item,1,0x5017,"Earrings",
+92,item,1,0x302A,"Research Dept. QMC Address",
+93,item,1,0x5014,"Shinra Alpha",
+94,item,1,0x2001,"Hi-Potion",
+95,item,1,0x5018,"Circlet",
+96,item,1,0xC083,"MAG Up",1* MAG+1
+97,item,2,0x2001,"Hi-Potion",
+98,item,1,0x2006,"Elixir",
+99,item,1,0x500A,"Chocobo Armlet",
+100,item,1,0x2004,"Soma",
+101,item,1,0x2001,"Hi-Potion",
+102,item,1,0x5025,"Force Bracelet",
+103,item,1,0x2006,"Elixir",
+104,item,1,0x2001,"Hi-Potion",
+105,item,1,0x5028,"Four Slots",
+106,item,1,0x2004,"Soma",
+107,item,1,0x2006,"Elixir",
+108,item,1,0x2001,"Hi-Potion",
+109,item,1,0x5043,"Star Pendant",
+110,item,1,0x2005,"Remedy",
+111,item,1,0xC031,"Poison",1* MAG+1
+112,item,1,0x2000,"Potion",
+113,item,1,0x2004,"Soma",
+114,item,1,0x502D,"Fire Armlet",
+115,item,1,0xC02A,"MBarrier",1* SPR+0
+116,item,1,0x2000,"Potion",
+117,item,1,0x2004,"Soma",
+118,item,1,0x2001,"Hi-Potion",
+119,item,1,0x3020,"Chocobo Feather",
+120,item,1,0x2002,"X-Potion",
+121,item,1,0x2003,"Ether",
+122,item,1,0x2000,"Potion",
+123,item,1,0xC089,"Libra",1* ATK+1
+124,item,1,0x3001,"VIT Mako Stone",
+125,item,1,0x2003,"Ether",
+126,item,1,0x2002,"X-Potion",
+127,item,1,0x5046,"Headband",
+128,item,1,0x5034,"Lightning Ring",
+129,item,1,0x2003,"Ether",
+130,item,1,0xC074,"HP Up",1* HP+1
+131,item,1,0x2006,"Elixir",
+132,item,1,0x2000,"Potion",
+133,item,1,0x501F,"Muscle Belt",
+134,item,1,0x2002,"X-Potion",
+135,item,1,0x2001,"Hi-Potion",
+136,item,1,0xC080,"VIT Up",1* VIT+1
+137,item,1,0x2003,"Ether",
+138,item,1,0x5022,"Mythril Gloves",
+139,item,1,0x2004,"Soma",
+140,item,1,0x2000,"Potion",
+141,item,1,0x2000,"Potion",
+142,item,1,0x500F,"Wrist Band",
+143,item,1,0xC07A,"AP Up",1* AP+1
+144,item,2,0x2003,"Ether",
+145,item,1,0x2002,"X-Potion",
+146,item,1,0x2005,"Remedy",
+147,item,1,0x5000,"Bronze Bangle",
+148,item,1,0x5013,"Bulletproof Vest",
+149,item,1,0x5005,"Bronze Armlet",
+150,item,1,0x3019,"Tissue",
+151,item,1,0x2004,"Soma",
+152,item,1,0x2000,"Potion",
+153,item,1,0x2001,"Hi-Potion",
+154,item,1,0x2002,"X-Potion",
+155,item,1,0xC019,"Fire",1* MAG+0
+156,item,1,0xC01A,"Blizzard",1* MAG+0
+157,item,1,0xC01B,"Thunder",1* MAG+0
+158,item,1,0xC074,"HP Up",1* HP+1
+159,item,1,0xC07D,"ATK Up",1* ATK+1
+160,item,1,0xC032,"Silence",1* MAG+1
+161,item,1,0x2003,"Ether",
+162,item,1,0xC07D,"ATK Up",1* ATK+1
+163,gil,1,0x07D0,"2000 Gil",
+164,item,1,0xC022,"Cure",1* SPR+1
+165,gil,1,0x01F4,"500 Gil",
+166,item,1,0x2000,"Potion",
+167,item,1,0xC01A,"Blizzard",1* MAG+0
+168,item,1,0xC074,"HP Up",1* HP+1
+169,gil,1,0x0002,"2 Gil",
+170,item,1,0x2001,"Hi-Potion",
+171,item,1,0x2005,"Remedy",
+172,item,1,0xC019,"Fire",1* MAG+0
+173,item,1,0x2000,"Potion",
+174,item,1,0x2001,"Hi-Potion",
+175,gil,1,0x0BB8,"3000 Gil",
+176,item,1,0xC01B,"Thunder",1* MAG+0
+177,item,1,0x2004,"Soma",
+178,item,1,0x3044,"Jail Cell Key",
+179,item,1,0x2004,"Soma",
+180,item,1,0x2001,"Hi-Potion",
+181,item,1,0x2005,"Remedy",
+182,item,1,0x4053,"Steal",
+183,item,1,0x2007,"Phoenix Down",
+184,item,2,0x2004,"Soma",
+185,item,3,0x2001,"Hi-Potion",
+186,item,1,0x2001,"Hi-Potion",
+187,item,1,0x3002,"MAG Mako Stone",
+188,item,1,0x2001,"Hi-Potion",
+189,item,1,0x2000,"Potion",
+190,item,1,0x2005,"Remedy",
+191,item,1,0x5031,"Ice Armlet",
+192,item,1,0xC04B,"Jump",1* ATK+0
+193,item,1,0x5018,"Circlet",
+194,item,1,0xC074,"HP Up",1* HP+1
+195,item,1,0xC029,"Barrier",1* SPR+0
+196,item,1,0xC01A,"Blizzard",1* MAG+0
+197,item,1,0x2001,"Hi-Potion",
+198,item,1,0x2001,"Hi-Potion",
+199,item,1,0x2004,"Soma",
+200,item,1,0x2005,"Remedy",
+201,item,1,0x3037,"Item Fusion Tome",
+202,item,1,0xC01B,"Thunder",1* MAG+0
+203,item,1,0x501F,"Muscle Belt",
+204,item,1,0xC02C,"Drain",1* HP+1
+205,item,1,0x2004,"Soma",
+206,item,1,0x500A,"Chocobo Armlet",
+207,item,1,0x2007,"Phoenix Down",
+208,item,1,0x301C,"Bahamut Materia",
+209,item,1,0x5043,"Star Pendant",
+210,item,1,0xC01B,"Thunder",1* MAG+0
+211,item,1,0x2005,"Remedy",
+212,item,1,0xC027,"Esuna",1* SPR+0
+213,item,1,0x2004,"Soma",
+214,item,1,0x5029,"Mystile",
+215,item,1,0xC050,"Assault Twister",1* ATK+0
+216,item,1,0xC01A,"Blizzard",1* MAG+0
+217,item,1,0x5006,"Silver Armlet",
+218,item,1,0xC07D,"ATK Up",1* ATK+1
+219,item,1,0x2001,"Hi-Potion",
+220,item,1,0xC08E,"Dash",1* AP+2
+221,item,1,0xC04B,"Jump",1* ATK+0
+222,item,1,0x502C,"Fire Ring",
+223,item,1,0x2005,"Remedy",
+224,item,1,0xC07A,"AP Up",1* AP+1
+225,item,1,0x504B,"Cursed Ring",
+226,item,1,0x5020,"Champion Belt",
+227,item,1,0x4003,"Fira",
+228,item,1,0x3026,"Sec.8 Materia Shop Address",
+229,item,1,0xC055,"Power Attack",1* ATK+0
+230,item,1,0xC033,"Stop",1* MAG+1
+231,item,1,0xC028,"Dispel",1* SPR+0
+232,item,1,0x5047,"Sprint Shoes",
+233,item,1,0x5048,"Pearl Necklace",
+234,item,1,0x2002,"X-Potion",
+235,item,1,0x5045,"Gris-Gris Bag",
+236,gil,1,0x0BB8,"3000 Gil",
+237,item,1,0xC077,"MP Up",1* MP+1
+238,item,1,0xC01D,"Blizzara",1* MAG+1
+239,item,1,0x2003,"Ether",
+240,item,1,0x2001,"Hi-Potion",
+241,item,1,0x5010,"Power Wrist",
+242,item,1,0xC028,"Dispel",1* SPR+0
+243,item,1,0x2003,"Ether",
+244,item,1,0x5035,"Lightning Armlet",
+245,item,1,0x5025,"Force Bracelet",
+246,item,1,0x2002,"X-Potion",
+247,item,1,0x5031,"Ice Armlet",
+248,item,1,0x5048,"Pearl Necklace",
+249,item,1,0x2006,"Elixir",
+250,item,1,0x2004,"Soma",
+251,item,1,0x3015,"Fat Chocobo Feather",
+252,item,1,0x5010,"Power Wrist",
+253,item,1,0x5047,"Sprint Shoes",
+254,item,1,0x5023,"Diamond Gloves",
+255,item,1,0x5042,"Safety Bit",
+256,item,1,0x2002,"X-Potion",
+257,item,1,0x5044,"White Cape",
+258,item,1,0x3021,"Cactus Thorn",
+259,item,1,0xC033,"Stop",1* MAG+1
+260,item,1,0xC02F,"Osmose",1* MP+1
+261,item,1,0x2003,"Ether",
+262,item,1,0xC075,"HP Up+",1* HP+2
+263,item,1,0x3023,"Cait Sith's Megaphone",
+264,item,1,0x5006,"Silver Armlet",
+265,item,2,0x3012,"Dark Matter",
+266,item,1,0x2002,"X-Potion",
+267,item,1,0x5020,"Champion Belt",
+268,item,1,0xC052,"Poison Twister",1* ATK+1
+269,item,1,0xC026,"Regen",1* SPR+1
+270,item,1,0xC083,"MAG Up",1* MAG+1
+271,item,1,0x5045,"Gris-Gris Bag",
+272,item,1,0x2006,"Elixir",
+273,item,1,0x2001,"Hi-Potion",
+274,item,1,0x2002,"X-Potion",
+275,item,1,0x5022,"Mythril Gloves",
+276,item,1,0x3035,"Keychain",
+277,item,1,0x2002,"X-Potion",
+278,item,1,0xC032,"Silence",1* MAG+1
+279,item,1,0x3011,"Adamantite",
+280,item,2,0x3010,"Hero Drink",
+281,item,1,0x2001,"Hi-Potion",
+282,item,1,0x2003,"Ether",
+283,item,1,0x5044,"White Cape",
+284,item,2,0x3015,"Fat Chocobo Feather",
+285,item,1,0x5057,"Feather Cap",
+286,item,1,0x2005,"Remedy",
+287,item,1,0x5040,"System Shock",
+288,item,1,0xC029,"Barrier",1* SPR+0
+289,item,1,0x2006,"Elixir",
+290,item,1,0x2000,"Potion",
+291,item,1,0x503F,"Mute Shock",
+292,item,1,0x2006,"Elixir",
+293,item,1,0x3011,"Adamantite",
+294,item,1,0xC02D,"Drainra",1* HP+1
+295,item,1,0x503E,"Venom Shock",
+296,item,1,0xC050,"Assault Twister",1* ATK+0
+297,item,1,0x5028,"Four Slots",
+298,item,1,0xC02C,"Drain",1* HP+1
+299,item,1,0x5030,"Ice Ring",
+300,item,1,0x2006,"Elixir",
+301,item,1,0x2003,"Ether",
+302,item,1,0xC01B,"Thunder",1* MAG+0
+303,item,1,0x5010,"Power Wrist",
+304,item,1,0x5029,"Mystile",
+305,item,1,0xC086,"SPR Up",1* SPR+1
+306,item,1,0x503E,"Venom Shock",
+307,item,1,0x2002,"X-Potion",
+308,item,1,0x3014,"Gysahl Greens",
+309,item,1,0x2004,"Soma",
+310,item,1,0x5035,"Lightning Armlet",
+311,item,1,0xC083,"MAG Up",1* MAG+1
+312,item,1,0x2002,"X-Potion",
+313,item,1,0x2003,"Ether",
+314,item,1,0x2001,"Hi-Potion",
+315,item,1,0x3005,"HP Mako Stone",
+316,item,1,0x2007,"Phoenix Down",
+317,item,1,0xC084,"MAG Up+",1* MAG+2
+318,item,1,0x3027,"Sec.5 Materia Shop Address",
+319,gil,1,0x1388,"5000 Gil",
+320,item,1,0x2001,"Hi-Potion",
+321,item,1,0x5005,"Bronze Armlet",
+322,item,5,0x2002,"X-Potion",
+323,item,1,0x502D,"Fire Armlet",
+324,item,1,0x5001,"Iron Bangle",
+325,item,1,0x4013,"Drain",
+326,item,1,0x500A,"Chocobo Armlet",
+327,item,1,0x5047,"Sprint Shoes",
+328,item,1,0xC027,"Esuna",1* SPR+0
+329,item,1,0xC031,"Poison",1* MAG+1
+330,item,1,0xC032,"Silence",1* MAG+1
+331,item,1,0xC05A,"Silence Blade",1* ATK+0
+332,item,1,0xC041,"Gravity",1* MAG+0
+333,item,1,0xC026,"Regen",1* SPR+1
+334,item,1,0x3000,"ATK Mako Stone",
+335,item,1,0x3017,"Zeio Nut",
+336,item,1,0xC050,"Assault Twister",1* ATK+0
+337,item,1,0x2001,"Hi-Potion",
+338,item,1,0x5048,"Pearl Necklace",
+339,sp,10,0x07D0,"2000 SP",
+340,item,1,0xC079,"MP Up++",1* MP+3
+341,item,1,0x5005,"Bronze Armlet",
+342,item,1,0xC01C,"Fira",1* MAG+1
+343,item,2,0x3016,"Lunar Harp",
+344,item,1,0x2001,"Hi-Potion",
+345,item,1,0x5028,"Four Slots",
+346,item,1,0xC01E,"Thundara",1* MAG+1
+347,item,1,0x2006,"Elixir",
+348,item,1,0x5036,"Thunder Armlet",
+349,item,1,0xC075,"HP Up+",1* HP+2
+350,item,1,0x2006,"Elixir",
+351,item,2,0x3016,"Lunar Harp",
+352,item,1,0x2001,"Hi-Potion",
+353,item,1,0x2002,"X-Potion",
+354,item,1,0x2007,"Phoenix Down",
+355,item,1,0xC034,"Death",1* MAG+0
+356,item,1,0xC02D,"Drainra",1* HP+1
+357,item,1,0x2006,"Elixir",
+358,item,1,0xC056,"Vital Slash",1* ATK+0
+359,item,1,0x3024,"Moogle's Amulet",
+360,item,1,0x2006,"Elixir",
+361,item,1,0x2002,"X-Potion",
+362,item,1,0xC01E,"Thundara",1* MAG+1
+363,item,1,0xC061,"Fire Blade",1* MAG+1
+364,item,1,0x2002,"X-Potion",
+365,item,1,0xC01D,"Blizzara",1* MAG+1
+366,item,1,0x2006,"Elixir",
+367,item,1,0x5022,"Mythril Gloves",
+368,item,1,0x5032,"Frost Armlet",
+369,item,1,0x2006,"Elixir",
+370,item,1,0x2002,"X-Potion",
+371,item,1,0xC023,"Cura",1* SPR+1
+372,item,1,0x5005,"Bronze Armlet",
+373,item,1,0xC060,"Thundara Blade",1* MAG+1
+374,item,1,0x5006,"Silver Armlet",
+375,item,1,0xC01C,"Fira",1* MAG+1
+376,item,1,0x2004,"Soma",
+377,item,20,0x2006,"Elixir",
+378,item,1,0x502D,"Fire Armlet",
+379,item,1,0x2001,"Hi-Potion",
+380,item,1,0x301E,"Odin Materia",
+381,item,1,0x5026,"Diamond Bracelet",
+382,item,1,0x2002,"X-Potion",
+383,item,1,0x500B,"Mountain Chocobo Armlet",
+384,item,1,0x2006,"Elixir",
+385,item,1,0x302C,"The Happy Turtle Address",
+386,item,1,0x2002,"X-Potion",
+387,item,1,0x5029,"Mystile",
+388,item,1,0x2002,"X-Potion",
+389,item,1,0x2007,"Phoenix Down",
+390,item,1,0x3022,"Tonberry's Knife",
+391,item,1,0x2007,"Phoenix Down",
+392,item,1,0x2002,"X-Potion",
+393,item,1,0x2001,"Hi-Potion",
+394,item,1,0x2000,"Potion",
+395,item,1,0xC059,"Poison Blade",1* ATK+0
+396,item,1,0x3028,"Sec.6 Accessory Shop Address",
+397,item,1,0x3038,"Craftsman Monthly",
+398,item,1,0x3039,"Walnut Wood",
+399,item,1,0x303A,"Premium Tires",
+400,item,1,0x303B,"Mythril Tools",
+401,item,1,0x303C,"Shinra Lunch Cart Specs",
+402,item,1,0x303D,"Shinra Ceramic",
+403,item,1,0x303E,"Shinra Treads",
+404,item,1,0x303F,"Shinra Solder",
+405,item,1,0x3040,"How to Build a Wagon",
+406,item,1,0x3041,"Old Lumber",
+407,item,1,0x3042,"Worn Tires",
+408,item,1,0x3043,"Used Tools",
+409,item,1,0x301F,"Phoenix Materia",
+410,gil,1,0x07D0,"2000 Gil",
+411,item,1,0x5042,"Safety Bit",
+412,item,1,0x2003,"Ether",
+413,item,1,0xC02B,"Wall",1* SPR+0
+414,item,1,0xC07F,"ATK Up++",1* ATK+3
+415,item,1,0x502C,"Fire Ring",
+416,item,1,0x5044,"White Cape",
+417,item,1,0x300D,"HP Stone",
+418,item,1,0x2006,"Elixir",
+419,item,1,0x2001,"Hi-Potion",
+420,item,1,0x2006,"Elixir",
+421,item,1,0x501C,"Talisman",
+422,item,1,0x2002,"X-Potion",
+423,item,1,0x2004,"Soma",
+424,item,1,0xC00D,"Vital Slash",5* ATK+15
+425,gil,1,0x1388,"5000 Gil",
+426,item,1,0x5034,"Lightning Ring",
+427,item,1,0x3048,"SOLDIER Outfit",
+428,item,1,0x2006,"Elixir",
+429,item,1,0x5006,"Silver Armlet",
+430,item,1,0x500B,"Mountain Chocobo Armlet",
+431,item,1,0xC01F,"Firaga",1* MAG+1
+432,item,1,0xC084,"MAG Up+",1* MAG+2
+433,item,1,0x2007,"Phoenix Down",
+434,item,3,0x300B,"Mind Stone",
+435,item,1,0x5045,"Gris-Gris Bag",
+436,item,1,0x5010,"Power Wrist",
+437,item,1,0x2006,"Elixir",
+438,item,1,0x5002,"Titanium Bangle",
+439,item,1,0xC078,"MP Up+",1* MP+2
+440,item,2,0x3016,"Lunar Harp",
+441,item,1,0x3012,"Dark Matter",
+442,item,1,0x3013,"Mythril",
+443,item,2,0x3010,"Hero Drink",
+444,item,8,0x300F,"AP Stone",
+445,item,8,0x300A,"Magic Stone",
+446,item,8,0x300E,"MP Stone",
+447,item,8,0x300B,"Mind Stone",
+448,item,1,0x5038,"Dragon Armlet",
+449,item,1,0xC020,"Blizzaga",1* MAG+1
+450,item,1,0xC021,"Thundaga",1* MAG+1
+451,item,1,0x3010,"Hero Drink",
+452,item,1,0xC01F,"Firaga",1* MAG+1
+453,item,1,0xC024,"Curaga",1* SPR+1
+454,item,1,0xC07E,"ATK Up+",1* ATK+2
+455,item,1,0x3004,"LCK Mako Stone",
+456,item,1,0x5056,"Doc's Code",
+457,item,1,0xC028,"Dispel",1* SPR+0
+458,item,1,0xC05B,"Stop Blade",1* ATK+0
+459,item,1,0xC07B,"AP Up+",1* AP+2
+460,item,1,0x501F,"Muscle Belt",
+461,item,1,0x5002,"Titanium Bangle",
+462,item,1,0x5035,"Lightning Armlet",
+463,item,1,0xC01C,"Fira",1* MAG+1
+464,item,1,0xC027,"Esuna",1* SPR+0
+465,item,1,0x5029,"Mystile",
+466,item,1,0x2002,"X-Potion",
+467,item,1,0xC01D,"Blizzara",1* MAG+1
+468,item,1,0x2001,"Hi-Potion",
+469,item,1,0x5047,"Sprint Shoes",
+470,gil,10,0x03E8,"1000 Gil",
+471,item,1,0x3047,"Dresser Key",
+472,item,1,0x5015,"Shinra Beta",
+473,item,1,0x4006,"Firaga",
+474,item,1,0x5038,"Dragon Armlet",
+475,item,1,0xC041,"Gravity",1* MAG+0
+476,item,1,0xC08E,"Dash",1* AP+2
+477,item,1,0xC021,"Thundaga",1* MAG+1
+478,item,1,0xC01E,"Thundara",1* MAG+1
+479,item,1,0xC01D,"Blizzara",1* MAG+1
+480,item,1,0x2001,"Hi-Potion",
+481,item,1,0xC041,"Gravity",1* MAG+0
+482,item,1,0x5023,"Diamond Gloves",
+483,item,1,0xC08B,"Status Ward",1* SPR+5
+484,item,1,0x2004,"Soma",
+485,item,1,0x500C,"River Chocobo Armlet",
+486,item,1,0x5026,"Diamond Bracelet",
+487,item,1,0xC081,"VIT Up+",1* VIT+2
+488,item,1,0x2002,"X-Potion",
+489,item,1,0xC04A,"Darkness",1* HP+2
+490,item,8,0x300D,"HP Stone",
+491,item,8,0x3009,"Guard Stone",
+492,item,8,0x300C,"Luck Stone",
+493,item,1,0x5022,"Mythril Gloves",
+494,item,1,0x3036,"Backpack",
+495,item,2,0x3015,"Fat Chocobo Feather",
+496,item,2,0x3010,"Hero Drink",
+497,item,1,0x2002,"X-Potion",
+498,item,1,0xC07B,"AP Up+",1* AP+2
+499,item,1,0x5007,"Gold Armlet",
+500,sp,10,0x07D0,"2000 SP",
+501,item,1,0x2001,"Hi-Potion",
+502,item,1,0xC08D,"Elemental Ward",1* SPR+5
+503,gil,1,0x1770,"6000 Gil",
+504,item,1,0x5019,"Hypno Crown",
+505,item,1,0x3002,"MAG Mako Stone",
+506,gil,1,0x07D0,"2000 Gil",
+507,item,1,0xC030,"Osmoga",1* MP+1
+508,item,1,0x3017,"Zeio Nut",
+509,item,1,0x2006,"Elixir",
+510,item,1,0x2005,"Remedy",
+511,item,1,0x2001,"Hi-Potion",
+512,item,1,0x2002,"X-Potion",
+513,item,1,0x2006,"Elixir",
+514,item,1,0xC070,"Goblin Punch",1* ATK+1
+515,item,1,0x5046,"Headband",
+516,item,1,0x302B,"Research Dept. QMC+ Address",
+517,item,1,0x2005,"Remedy",
+518,item,1,0x5021,"Black Belt",
+519,item,1,0x503D,"Mortal Shock",
+520,item,1,0x2001,"Hi-Potion",
+521,item,1,0x500B,"Mountain Chocobo Armlet",
+522,item,1,0xC042,"Graviga",1* MAG+1
+523,item,1,0xC033,"Stop",1* MAG+1
+524,item,1,0x2006,"Elixir",
+525,item,1,0x5024,"Crystal Gloves",
+526,item,1,0x2006,"Elixir",
+527,item,1,0x2002,"X-Potion",
+528,item,1,0xC08C,"Elemental Strike",1* MAG+5
+529,item,1,0x2001,"Hi-Potion",
+530,item,1,0xC084,"MAG Up+",1* MAG+2
+531,item,1,0x5005,"Bronze Armlet",
+532,item,2,0x3011,"Adamantite",
+533,item,2,0x300B,"Mind Stone",
+534,item,3,0x3009,"Guard Stone",
+535,item,2,0x3008,"Power Stone",
+536,item,1,0x502F,"Blaze Armlet",
+537,item,1,0x5001,"Iron Bangle",
+538,item,1,0xC087,"SPR Up+",1* SPR+2
+539,item,1,0xC024,"Curaga",1* SPR+1
+540,item,1,0x2001,"Hi-Potion",
+541,item,1,0x5031,"Ice Armlet",
+542,item,1,0x5011,"Hyper Wrist",
+543,item,1,0xC051,"Assault Twister+",1* ATK+1
+544,item,1,0x5030,"Ice Ring",
+545,item,1,0x5020,"Champion Belt",
+546,item,1,0x2006,"Elixir",
+547,item,1,0x5041,"Paralyzing Shock",
+548,item,1,0x3051,"Laboratory Key",
+549,item,1,0x3052,"Iron Bars Key",
+550,item,1,0x3053,"Light Materia",
+551,item,1,0x3054,"Heaven Materia",
+552,item,1,0x3055,"Ground Materia",
+553,item,1,0x3056,"Star Materia",
+554,item,1,0x3057,"Life Materia",
+555,item,1,0x3058,"Being Materia",
+556,item,1,0x3059,"Sabbath Materia",
+557,item,1,0x500C,"River Chocobo Armlet",
+558,item,1,0x2006,"Elixir",
+559,item,1,0xC042,"Graviga",1* MAG+1
+560,item,1,0xC05D,"Dispel Blade",1* MAG+3
+561,item,1,0x2007,"Phoenix Down",
+562,item,1,0x5045,"Gris-Gris Bag",
+563,item,1,0xC07E,"ATK Up+",1* ATK+2
+564,item,1,0xC076,"HP Up++",1* HP+3
+565,item,1,0xC084,"MAG Up+",1* MAG+2
+566,item,1,0x5006,"Silver Armlet",
+567,item,1,0x2002,"X-Potion",
+568,item,1,0xC06D,"Mug",1* AP+2
+569,item,1,0xC024,"Curaga",1* SPR+1
+570,item,1,0x5027,"Crystal Bracelet",
+571,item,1,0x5019,"Hypno Crown",
+572,item,1,0x5005,"Bronze Armlet",
+573,item,1,0xC042,"Graviga",1* MAG+1
+574,item,1,0x502C,"Fire Ring",
+575,item,1,0x502A,"Aegis Armlet",
+576,item,1,0x5023,"Diamond Gloves",
+577,item,1,0xC041,"Gravity",1* MAG+0
+578,item,1,0x5015,"Shinra Beta",
+579,item,1,0x5050,"Twisted Headband",
+580,item,1,0xC085,"MAG Up++",1* MAG+3
+581,item,1,0xC076,"HP Up++",1* HP+3
+582,item,3,0x3012,"Dark Matter",
+583,item,1,0x2002,"X-Potion",
+584,item,1,0x5028,"Four Slots",
+585,item,1,0xC07F,"ATK Up++",1* ATK+3
+586,item,1,0x5002,"Titanium Bangle",
+587,item,1,0x2000,"Potion",
+588,item,1,0x5006,"Silver Armlet",
+589,item,1,0xC05C,"Death Blade",1* ATK+1
+590,item,1,0xC020,"Blizzaga",1* MAG+1
+591,item,1,0x2001,"Hi-Potion",
+592,item,1,0xC082,"VIT Up++",1* VIT+3
+593,item,1,0xC087,"SPR Up+",1* SPR+2
+594,item,1,0x501F,"Muscle Belt",
+595,item,1,0x2001,"Hi-Potion",
+596,item,1,0xC07C,"AP Up++",1* AP+3
+597,item,1,0x5025,"Force Bracelet",
+598,item,1,0x2002,"X-Potion",
+599,item,1,0x505E,"Black Cowl",
+600,item,1,0x2006,"Elixir",
+601,item,1,0xC064,"Firaga Blade",1* MAG+2
+602,item,1,0xC065,"Blizzaga Blade",1* MAG+2
+603,item,1,0x3013,"Mythril",
+604,item,1,0x5024,"Crystal Gloves",
+605,item,2,0x3015,"Fat Chocobo Feather",
+606,item,1,0xC02A,"MBarrier",1* SPR+0
+607,item,1,0x3015,"Fat Chocobo Feather",
+608,item,1,0x5023,"Diamond Gloves",
+609,item,1,0x3014,"Gysahl Greens",
+610,item,1,0xC066,"Thundaga Blade",1* MAG+2
+611,item,1,0xC07C,"AP Up++",1* AP+3
+612,item,1,0x5001,"Iron Bangle",
+613,item,1,0xC08E,"Dash",1* AP+2
+614,item,1,0x2002,"X-Potion",
+615,item,1,0xC08A,"Status Strike",1* MAG+5
+616,item,1,0xC06D,"Mug",1* AP+2
+617,item,1,0xC02B,"Wall",1* SPR+0
+618,item,1,0x5032,"Frost Armlet",
+619,item,1,0xC082,"VIT Up++",1* VIT+3
+620,item,1,0x5011,"Hyper Wrist",
+621,item,2,0x3015,"Fat Chocobo Feather",
+622,item,1,0xC043,"Quake",1* MAG+1
+623,item,1,0xC034,"Death",1* MAG+0
+624,item,1,0xC06C,"Steal",1* AP+1
+625,item,1,0x5029,"Mystile",
+626,item,1,0x5050,"Twisted Headband",
+627,item,1,0xC02E,"Drainga",1* HP+1
+628,item,1,0x5026,"Diamond Bracelet",
+629,item,1,0x5007,"Gold Armlet",
+630,item,1,0xC088,"SPR Up++",1* SPR+3
+631,item,1,0x2006,"Elixir",
+632,item,1,0xC041,"Gravity",1* MAG+0
+633,item,1,0x5047,"Sprint Shoes",
+634,item,1,0x5020,"Champion Belt",
+635,item,1,0x2006,"Elixir",
+636,item,1,0x2002,"X-Potion",
+637,item,1,0x5033,"Snow Armlet",
+638,item,1,0xC02E,"Drainga",1* HP+1
+639,item,1,0x501D,"Tarot Cards",
+640,item,1,0xC03F,"Hell Blizzaga",1* MAG+1
+641,item,1,0x302E,"Gongaga Trading Address",
+642,item,1,0x3012,"Dark Matter",
+643,item,1,0xC082,"VIT Up++",1* VIT+3
+644,item,1,0xC06C,"Steal",1* AP+1
+645,item,1,0xC040,"Hell Thundaga",1* MAG+1
+646,item,1,0x3015,"Fat Chocobo Feather",
+647,item,1,0x5007,"Gold Armlet",
+648,item,1,0x502E,"Flame Armlet",
+649,item,1,0x3011,"Adamantite",
+650,item,1,0x3013,"Mythril",
+651,item,2,0x3010,"Hero Drink",
+652,item,4,0x3015,"Fat Chocobo Feather",
+653,item,1,0x5034,"Lightning Ring",
+654,item,1,0xC050,"Assault Twister",1* ATK+0
+655,item,1,0xC029,"Barrier",1* SPR+0
+656,item,1,0x500B,"Mountain Chocobo Armlet",
+657,item,1,0xC02E,"Drainga",1* HP+1
+658,item,1,0x5008,"Rune Armlet",
+659,item,1,0x5006,"Silver Armlet",
+660,item,1,0xC02A,"MBarrier",1* SPR+0
+661,item,1,0xC030,"Osmoga",1* MP+1
+662,item,1,0x5045,"Gris-Gris Bag",
+663,item,1,0x2001,"Hi-Potion",
+664,item,1,0xC079,"MP Up++",1* MP+3
+665,item,1,0x5055,"Brigand's Gloves",
+666,item,1,0xC02E,"Drainga",1* HP+1
+667,item,1,0x500C,"River Chocobo Armlet",
+668,item,1,0x2002,"X-Potion",
+669,item,1,0x5037,"Bolt Armlet",
+670,item,1,0xC057,"Exploder Blade",1* ATK+0
+671,item,1,0x5001,"Iron Bangle",
+672,item,1,0x2002,"X-Potion",
+673,item,1,0x500D,"Sea Chocobo Armlet",
+674,gil,1,0x1388,"5000 Gil",
+675,item,1,0xC067,"Drain Blade",1* HP+1
+676,item,1,0x302D,"Wutai Secret Shop Address",
+677,item,1,0x500C,"River Chocobo Armlet",
+678,item,1,0x301A,"Gold Rolling Pin",
+679,item,1,0x301A,"Gold Rolling Pin",
+680,item,2,0x3010,"Hero Drink",
+681,item,1,0xC088,"SPR Up++",1* SPR+3
+682,item,1,0xC079,"MP Up++",1* MP+3
+683,item,1,0xC085,"MAG Up++",1* MAG+3
+684,item,1,0xC06A,"Osmose Blade",1* MP+1
+685,item,1,0x5019,"Hypno Crown",
+686,item,1,0x3010,"Hero Drink",
+687,item,3,0x3013,"Mythril",
+688,item,1,0x2001,"Hi-Potion",
+689,item,1,0x3014,"Gysahl Greens",
+690,item,1,0x502A,"Aegis Armlet",
+691,item,1,0xC067,"Drain Blade",1* HP+1
+692,item,1,0x2006,"Elixir",
+693,item,1,0xC076,"HP Up++",1* HP+3
+694,item,1,0x500B,"Mountain Chocobo Armlet",
+695,item,1,0x3013,"Mythril",
+696,item,1,0x5015,"Shinra Beta",
+697,item,1,0x3011,"Adamantite",
+698,item,1,0x2007,"Phoenix Down",
+699,item,1,0x5027,"Crystal Bracelet",
+700,item,1,0xC04C,"High Jump",1* ATK+1
+701,item,1,0x5046,"Headband",
+702,item,1,0xC07F,"ATK Up++",1* ATK+3
+703,item,1,0x2006,"Elixir",
+704,item,1,0x5025,"Force Bracelet",
+705,item,1,0x2002,"X-Potion",
+706,item,1,0xC03E,"Hell Firaga",1* MAG+1
+707,item,1,0x3013,"Mythril",
+708,item,1,0x5020,"Champion Belt",
+709,item,1,0x505D,"Gold Hairpin",
+710,item,1,0xC066,"Thundaga Blade",1* MAG+2
+711,item,1,0x5022,"Mythril Gloves",
+712,item,1,0xC04E,"Silence Aerial",1* ATK+1
+713,item,1,0x5047,"Sprint Shoes",
+714,item,1,0x3010,"Hero Drink",
+715,item,3,0x3013,"Mythril",
+716,item,1,0xC04D,"Poison Aerial",1* ATK+1
+717,item,1,0x502F,"Blaze Armlet",
+718,item,1,0xC02B,"Wall",1* SPR+0
+719,item,1,0xC044,"Tri-Thundaga",1* MP+2
+720,item,1,0x3011,"Adamantite",
+721,item,1,0xC051,"Assault Twister+",1* ATK+1
+722,item,1,0x2002,"X-Potion",
+723,item,1,0xC04C,"High Jump",1* ATK+1
+724,item,1,0x500D,"Sea Chocobo Armlet",
+725,item,1,0x5036,"Thunder Armlet",
+726,item,1,0xC040,"Hell Thundaga",1* MAG+1
+727,item,1,0x5009,"Mythril Armlet",
+728,item,1,0xC030,"Osmoga",1* MP+1
+729,item,1,0xC02A,"MBarrier",1* SPR+0
+730,item,1,0xC043,"Quake",1* MAG+1
+731,item,1,0x500C,"River Chocobo Armlet",
+732,item,1,0xC029,"Barrier",1* SPR+0
+733,item,1,0xC02E,"Drainga",1* HP+1
+734,item,1,0x5032,"Frost Armlet",
+735,item,1,0xC043,"Quake",1* MAG+1
+736,item,1,0xC02B,"Wall",1* SPR+0
+737,item,1,0xC03F,"Hell Blizzaga",1* MAG+1
+738,item,1,0xC065,"Blizzaga Blade",1* MAG+2
+739,item,1,0xC04A,"Darkness",1* HP+2
+740,item,1,0xC03E,"Hell Firaga",1* MAG+1
+741,item,1,0x5006,"Silver Armlet",
+742,item,1,0xC064,"Firaga Blade",1* MAG+2
+743,item,1,0xC042,"Graviga",1* MAG+1
+744,item,1,0x5003,"Carbon Bangle",
+745,item,1,0x301D,"Bahamut Fury Materia",
+746,item,1,0x5015,"Shinra Beta",
+747,item,1,0x5019,"Hypno Crown",
+748,item,1,0x501D,"Tarot Cards",
+749,item,1,0x5033,"Snow Armlet",
+750,item,1,0x5026,"Diamond Bracelet",
+751,item,1,0xC040,"Hell Thundaga",1* MAG+1
+752,item,1,0x2000,"Potion",
+753,item,1,0xC058,"Blast Wave",1* ATK+1
+754,item,1,0xC059,"Poison Blade",1* ATK+0
+755,item,1,0x2001,"Hi-Potion",
+756,item,1,0xC056,"Vital Slash",1* ATK+0
+757,item,1,0x502F,"Blaze Armlet",
+758,item,1,0xC03F,"Hell Blizzaga",1* MAG+1
+759,item,1,0x5008,"Rune Armlet",
+760,item,2,0x3016,"Lunar Harp",
+761,item,1,0xC085,"MAG Up++",1* MAG+3
+762,item,1,0xC042,"Graviga",1* MAG+1
+763,item,1,0x5021,"Black Belt",
+764,item,1,0x3014,"Gysahl Greens",
+765,item,1,0xC03E,"Hell Firaga",1* MAG+1
+766,item,1,0xC052,"Poison Twister",1* ATK+1
+767,item,1,0xC054,"Death Twister",1* ATK+1
+768,item,1,0x500C,"River Chocobo Armlet",
+769,item,1,0xC02E,"Drainga",1* HP+1
+770,item,1,0xC088,"SPR Up++",1* SPR+3
+771,item,1,0xC057,"Exploder Blade",1* ATK+0
+772,item,1,0x301A,"Gold Rolling Pin",
+773,item,5,0x3011,"Adamantite",
+774,item,1,0x5037,"Bolt Armlet",
+775,item,1,0xC05B,"Stop Blade",1* ATK+0
+776,item,3,0x3012,"Dark Matter",
+777,item,1,0x3029,"Sec.7 Shop Address",
+778,item,1,0x5024,"Crystal Gloves",
+779,item,1,0xC02B,"Wall",1* SPR+0
+780,item,1,0xC053,"Stop Twister",1* ATK+1
+781,item,1,0x2006,"Elixir",
+782,item,1,0xC026,"Regen",1* SPR+1
+783,item,1,0xC07C,"AP Up++",1* AP+3
+784,item,1,0x5004,"Platinum Bangle",
+785,item,1,0x301A,"Gold Rolling Pin",
+786,item,1,0xC08A,"Status Strike",1* MAG+5
+787,item,1,0x2006,"Elixir",
+788,item,1,0xC055,"Power Attack",1* ATK+0
+789,item,1,0xC045,"Tri-Fire",1* MP+2
+790,item,1,0xC042,"Graviga",1* MAG+1
+791,item,1,0x5020,"Champion Belt",
+792,item,1,0x5063,"Adaman Bangle",
+793,item,1,0xC06F,"Iron Fist",1* ATK+1
+794,item,1,0x2006,"Elixir",
+795,item,1,0x502E,"Flame Armlet",
+796,item,1,0xC044,"Tri-Thundaga",1* MP+2
+797,item,1,0xC06E,"Gil Toss",1* ATK+1
+798,item,1,0x2002,"X-Potion",
+799,item,1,0x2007,"Phoenix Down",
+800,item,1,0x5019,"Hypno Crown",
+801,item,1,0x2006,"Elixir",
+802,item,1,0x500C,"River Chocobo Armlet",
+803,item,2,0x3010,"Hero Drink",
+804,item,1,0x2002,"X-Potion",
+805,item,1,0x5004,"Platinum Bangle",
+806,item,1,0x3010,"Hero Drink",
+807,sp,10,0x1388,"5000 SP",
+808,item,1,0xC045,"Tri-Fire",1* MP+2
+809,item,3,0x3015,"Fat Chocobo Feather",
+810,item,1,0x2002,"X-Potion",
+811,item,1,0x5026,"Diamond Bracelet",
+812,item,1,0xC05C,"Death Blade",1* ATK+1
+813,item,3,0x3010,"Hero Drink",
+814,item,1,0xC02B,"Wall",1* SPR+0
+815,item,2,0x3015,"Fat Chocobo Feather",
+816,item,1,0x5004,"Platinum Bangle",
+817,item,1,0x5023,"Diamond Gloves",
+818,item,1,0x2002,"X-Potion",
+819,item,1,0x3011,"Adamantite",
+820,item,1,0xC05D,"Dispel Blade",1* MAG+3
+821,item,1,0x2006,"Elixir",
+822,item,1,0xC046,"Electrocute",1* MP+2
+823,item,1,0x2002,"X-Potion",
+824,item,1,0xC045,"Tri-Fire",1* MP+2
+825,item,1,0xC06E,"Gil Toss",1* ATK+1
+826,item,1,0x5064,"Brutal",
+827,item,1,0xC08E,"Dash",1* AP+2
+828,item,1,0xC05A,"Silence Blade",1* ATK+0
+829,item,1,0x500D,"Sea Chocobo Armlet",
+830,item,1,0xC04F,"Death Jump",1* ATK+1
+831,item,1,0xC088,"SPR Up++",1* SPR+3
+832,item,1,0x301A,"Gold Rolling Pin",
+833,item,1,0x504C,"Moon Bracer",
+834,item,1,0xC044,"Tri-Thundaga",1* MP+2
+835,item,1,0x5016,"Shinra Beta+",
+836,item,1,0xC046,"Electrocute",1* MP+2
+837,item,1,0x5012,"Kaiser Knuckles",
+838,item,1,0x2002,"X-Potion",
+839,item,1,0x5003,"Carbon Bangle",
+840,item,1,0x2006,"Elixir",
+841,item,4,0x3016,"Lunar Harp",
+842,item,1,0x2002,"X-Potion",
+843,item,1,0x5026,"Diamond Bracelet",
+844,item,1,0xC06F,"Iron Fist",1* ATK+1
+845,item,1,0x5047,"Sprint Shoes",
+846,item,1,0x500E,"Sky Chocobo Armlet",
+847,item,1,0x2007,"Phoenix Down",
+848,item,1,0x5033,"Snow Armlet",
+849,item,1,0x3015,"Fat Chocobo Feather",
+850,item,1,0x500C,"River Chocobo Armlet",
+851,item,1,0x2002,"X-Potion",
+852,item,1,0x503B,"Element Blade",
+853,item,1,0x501E,"Crystal Orb",
+854,item,3,0x3013,"Mythril",
+855,item,1,0x5006,"Silver Armlet",
+856,item,1,0x302F,"Nibel Accessories Address",
+857,item,1,0x3012,"Dark Matter",
+858,item,1,0x5011,"Hyper Wrist",
+859,item,1,0xC04F,"Death Jump",1* ATK+1
+860,item,1,0x2006,"Elixir",
+861,item,1,0xC053,"Stop Twister",1* ATK+1
+862,item,1,0xC070,"Goblin Punch",1* ATK+1
+863,item,1,0x5011,"Hyper Wrist",
+864,item,1,0x502E,"Flame Armlet",
+865,item,1,0x3015,"Fat Chocobo Feather",
+866,item,1,0xC06E,"Gil Toss",1* ATK+1
+867,item,1,0xC02B,"Wall",1* SPR+0
+868,item,1,0x2002,"X-Potion",
+869,item,1,0xC046,"Electrocute",1* MP+2
+870,item,1,0x504D,"Shining Bracer",
+871,item,1,0x5063,"Adaman Bangle",
+872,item,1,0x5027,"Crystal Bracelet",
+873,item,1,0x3014,"Gysahl Greens",
+874,item,1,0x3016,"Lunar Harp",
+875,item,1,0x2002,"X-Potion",
+876,item,1,0xC048,"Energy",1* MP+1
+877,item,5,0x3012,"Dark Matter",
+878,sp,10,0x1F40,"8000 SP",
+879,item,1,0xC046,"Electrocute",1* MP+2
+880,item,1,0x501A,"Royal Crown",
+881,item,1,0x2002,"X-Potion",
+882,gil,10,0x03E8,"1000 Gil",
+883,item,1,0x504E,"Protect Ring",
+884,item,1,0x5007,"Gold Armlet",
+885,item,1,0x2002,"X-Potion",
+886,item,3,0x3014,"Gysahl Greens",
+887,item,1,0x3030,"Junon Souvenirs Address",
+888,item,1,0xC05A,"Silence Blade",1* ATK+0
+889,sp,10,0x1388,"5000 SP",
+890,item,2,0x3010,"Hero Drink",
+891,item,1,0xC08C,"Elemental Strike",1* MAG+5
+892,item,1,0xC045,"Tri-Fire",1* MP+2
+893,item,3,0x3013,"Mythril",
+894,item,1,0x2000,"Potion",
+895,item,1,0x2000,"Potion",
+896,item,1,0x500E,"Sky Chocobo Armlet",
+897,item,1,0xC043,"Quake",1* MAG+1
+898,item,1,0x501D,"Tarot Cards",
+899,item,1,0x502F,"Blaze Armlet",
+900,item,1,0xC047,"Flare",1* MP+2
+901,item,1,0x500E,"Sky Chocobo Armlet",
+902,item,1,0x2001,"Hi-Potion",
+903,item,1,0x5020,"Champion Belt",
+904,item,1,0x3031,"Bone Village Outlet Address",
+905,item,1,0xC048,"Energy",1* MP+1
+906,item,1,0x503B,"Element Blade",
+907,item,1,0x2006,"Elixir",
+908,item,1,0x501A,"Royal Crown",
+909,item,1,0xC047,"Flare",1* MP+2
+910,item,3,0x3015,"Fat Chocobo Feather",
+911,item,1,0xC054,"Death Twister",1* ATK+1
+912,item,1,0xC04F,"Death Jump",1* ATK+1
+913,item,1,0x5033,"Snow Armlet",
+914,item,1,0x2002,"X-Potion",
+915,gil,100,0x03E8,"1000 Gil",
+916,item,1,0x505D,"Gold Hairpin",
+917,item,1,0xC06F,"Iron Fist",1* ATK+1
+918,item,1,0x3011,"Adamantite",
+919,item,2,0x3012,"Dark Matter",
+920,item,1,0x5037,"Bolt Armlet",
+921,item,1,0x5009,"Mythril Armlet",
+922,item,3,0x3015,"Fat Chocobo Feather",
+923,item,1,0x2002,"X-Potion",
+924,item,1,0xC056,"Vital Slash",1* ATK+0
+925,item,1,0xC047,"Flare",1* MP+2
+926,item,1,0x301A,"Gold Rolling Pin",
+927,item,1,0xC053,"Stop Twister",1* ATK+1
+928,item,1,0xC071,"Magical Punch",1* MP+5
+929,item,1,0x2006,"Elixir",
+930,item,1,0x500B,"Mountain Chocobo Armlet",
+931,item,1,0x3010,"Hero Drink",
+932,item,1,0xC090,"Smart Consumer",1* AP+5
+933,item,1,0xC057,"Exploder Blade",1* ATK+0
+934,item,2,0x2007,"Phoenix Down",
+935,item,1,0x3010,"Hero Drink",
+936,item,1,0xC048,"Energy",1* MP+1
+937,item,3,0x3010,"Hero Drink",
+938,item,1,0x504C,"Moon Bracer",
+939,item,1,0xC071,"Magical Punch",1* MP+5
+940,item,1,0x5024,"Crystal Gloves",
+941,item,1,0xC071,"Magical Punch",1* MP+5
+942,item,1,0x3010,"Hero Drink",
+943,item,1,0x5046,"Headband",
+944,item,1,0x5059,"Power Suit",
+945,item,1,0x3017,"Zeio Nut",
+946,item,1,0x3015,"Fat Chocobo Feather",
+947,item,1,0x3012,"Dark Matter",
+948,item,1,0x3016,"Lunar Harp",
+949,item,1,0xC05B,"Stop Blade",1* ATK+0
+950,item,1,0x3014,"Gysahl Greens",
+951,item,1,0x5023,"Diamond Gloves",
+952,item,1,0x3010,"Hero Drink",
+953,item,1,0xC093,"SP Turbo",1* HP+1
+954,item,1,0x3012,"Dark Matter",
+955,item,1,0x3013,"Mythril",
+956,item,3,0x3011,"Adamantite",
+957,item,1,0x2001,"Hi-Potion",
+958,item,1,0xC05D,"Dispel Blade",1* MAG+3
+959,item,1,0x2002,"X-Potion",
+960,item,1,0x5026,"Diamond Bracelet",
+961,item,1,0xC059,"Poison Blade",1* ATK+0
+962,item,1,0xC00E,"Stop Blade",5* ATK+60
+963,item,1,0xC071,"Magical Punch",1* MP+5
+964,item,1,0x2006,"Elixir",
+965,item,1,0xC058,"Blast Wave",1* ATK+1
+966,item,1,0x505A,"Energy Suit",
+967,item,1,0xC047,"Flare",1* MP+2
+968,item,1,0x2006,"Elixir",
+969,item,1,0x504B,"Cursed Ring",
+970,item,1,0x3015,"Fat Chocobo Feather",
+971,item,1,0xC048,"Energy",1* MP+1
+972,item,1,0x500D,"Sea Chocobo Armlet",
+973,item,1,0x2007,"Phoenix Down",
+974,item,1,0x3017,"Zeio Nut",
+975,item,1,0x2006,"Elixir",
+976,item,1,0x3016,"Lunar Harp",
+977,item,1,0xC091,"SP Turbo Magic",1* MAG+1
+978,item,1,0x5007,"Gold Armlet",
+979,item,1,0xC090,"Smart Consumer",1* AP+5
+980,item,1,0x3015,"Fat Chocobo Feather",
+981,item,1,0x5006,"Silver Armlet",
+982,item,1,0x3014,"Gysahl Greens",
+983,item,1,0x501E,"Crystal Orb",
+984,item,1,0x3013,"Mythril",
+985,item,3,0x3015,"Fat Chocobo Feather",
+986,item,1,0x3013,"Mythril",
+987,item,1,0x5016,"Shinra Beta+",
+988,item,1,0x3011,"Adamantite",
+989,item,1,0x3016,"Lunar Harp",
+990,item,1,0x502A,"Aegis Armlet",
+991,item,1,0x2002,"X-Potion",
+992,item,1,0x3013,"Mythril",
+993,item,1,0xC072,"Hammer Punch",1* AP+5
+994,item,1,0x501E,"Crystal Orb",
+995,item,1,0x3015,"Fat Chocobo Feather",
+996,item,1,0x3032,"Mythril Mine Traders Address",
+997,item,1,0x501A,"Royal Crown",
+998,item,1,0x502F,"Blaze Armlet",
+999,item,3,0x3013,"Mythril",
+1000,item,5,0x3015,"Fat Chocobo Feather",
+1001,item,1,0x504D,"Shining Bracer",
+1002,item,1,0x2006,"Elixir",
+1003,item,1,0x503A,"Wizard Bracelet",
+1004,item,1,0x2007,"Phoenix Down",
+1005,item,1,0xC059,"Poison Blade",1* ATK+0
+1006,item,1,0x501E,"Crystal Orb",
+1007,item,1,0x3015,"Fat Chocobo Feather",
+1008,item,1,0x2006,"Elixir",
+1009,item,1,0x504E,"Protect Ring",
+1010,item,1,0xC072,"Hammer Punch",1* AP+5
+1011,item,1,0x5012,"Kaiser Knuckles",
+1012,item,1,0x2002,"X-Potion",
+1013,item,3,0x3010,"Hero Drink",
+1014,item,5,0x3011,"Adamantite",
+1015,item,1,0x2006,"Elixir",
+1016,item,1,0x500C,"River Chocobo Armlet",
+1017,item,1,0xC048,"Energy",1* MP+1
+1018,item,1,0xC007,"Quake",5* MAG+45
+1019,item,1,0x3011,"Adamantite",
+1020,item,1,0xC05D,"Dispel Blade",1* MAG+3
+1021,item,1,0x501A,"Royal Crown",
+1022,item,1,0x500B,"Mountain Chocobo Armlet",
+1023,item,3,0x3013,"Mythril",
+1024,item,1,0x5037,"Bolt Armlet",
+1025,item,1,0x2006,"Elixir",
+1026,item,1,0x2002,"X-Potion",
+1027,item,1,0xC054,"Death Twister",1* ATK+1
+1028,item,1,0x3015,"Fat Chocobo Feather",
+1029,item,1,0x3011,"Adamantite",
+1030,item,1,0x502B,"Good-Luck Charm",
+1031,item,1,0x505E,"Black Cowl",
+1032,item,1,0x3011,"Adamantite",
+1033,item,1,0x5027,"Crystal Bracelet",
+1034,item,1,0xC048,"Energy",1* MP+1
+1035,item,1,0x3015,"Fat Chocobo Feather",
+1036,item,1,0xC00B,"Gravity",5* MAG+38
+1037,item,1,0x3033,"Online Shop Duo Address",
+1038,sp,10,0x1F40,"8000 SP",
+1039,item,1,0x5004,"Platinum Bangle",
+1040,item,2,0x3010,"Hero Drink",
+1041,item,1,0xC071,"Magical Punch",1* MP+5
+1042,item,1,0x3015,"Fat Chocobo Feather",
+1043,item,1,0x3014,"Gysahl Greens",
+1044,item,1,0xC006,"Drainga",5* HP+50
+1045,item,1,0xC047,"Flare",1* MP+2
+1046,item,1,0x5016,"Shinra Beta+",
+1047,item,1,0xC005,"Wall",5* MAG+60
+1048,item,1,0x3015,"Fat Chocobo Feather",
+1049,item,1,0x503B,"Element Blade",
+1050,item,1,0xC00C,"Assault Twister",5* ATK+40
+1051,item,1,0x5049,"Ribbon",
+1052,item,1,0x500E,"Sky Chocobo Armlet",
+1053,item,1,0xC048,"Energy",1* MP+1
+1054,item,1,0x3013,"Mythril",
+1055,item,1,0x3015,"Fat Chocobo Feather",
+1056,item,1,0x2002,"X-Potion",
+1057,item,1,0x504F,"Faerie Ring",
+1058,item,1,0x3014,"Gysahl Greens",
+1059,item,1,0x501E,"Crystal Orb",
+1060,item,1,0x4004,"Blizzara",
+1061,sp,10,0x1F40,"8000 SP",
+1062,item,1,0x3013,"Mythril",
+1063,item,1,0x3015,"Fat Chocobo Feather",
+1064,item,1,0xC071,"Magical Punch",1* MP+5
+1065,item,1,0x5007,"Gold Armlet",
+1066,item,1,0xC049,"Ultima",1* MP+2
+1067,item,1,0xC009,"Hell Thundaga",5* MAG+35
+1068,item,1,0x3014,"Gysahl Greens",
+1069,item,1,0x2002,"X-Potion",
+1070,item,1,0x3013,"Mythril",
+1071,item,1,0x5011,"Hyper Wrist",
+1072,item,1,0xC091,"SP Turbo Magic",1* MAG+1
+1073,item,1,0x3016,"Lunar Harp",
+1074,item,1,0xC008,"High Jump",5* ATK+40
+1075,item,1,0x3015,"Fat Chocobo Feather",
+1076,item,1,0xC046,"Electrocute",1* MP+2
+1077,item,1,0x5059,"Power Suit",
+1078,item,1,0x504C,"Moon Bracer",
+1079,item,1,0x504E,"Protect Ring",
+1080,item,1,0xC057,"Exploder Blade",1* ATK+0
+1081,item,1,0x3012,"Dark Matter",
+1082,item,1,0x2006,"Elixir",
+1083,item,1,0x3013,"Mythril",
+1084,item,1,0xC049,"Ultima",1* MP+2
+1085,item,1,0x2002,"X-Potion",
+1086,item,1,0x3013,"Mythril",
+1087,item,1,0xC08B,"Status Ward",1* SPR+5
+1088,item,1,0x3015,"Fat Chocobo Feather",
+1089,item,1,0x2007,"Phoenix Down",
+1090,item,1,0x504D,"Shining Bracer",
+1091,item,1,0x5055,"Brigand's Gloves",
+1092,item,1,0x5039,"Escort Guard",
+1093,item,1,0x503B,"Element Blade",
+1094,item,1,0x3012,"Dark Matter",
+1095,item,1,0xC056,"Vital Slash",1* ATK+0
+1096,item,4,0x3015,"Fat Chocobo Feather",
+1097,item,1,0x5021,"Black Belt",
+1098,item,1,0x503A,"Wizard Bracelet",
+1099,item,1,0x3013,"Mythril",
+1100,item,1,0x5009,"Mythril Armlet",
+1101,item,1,0x2006,"Elixir",
+1102,item,2,0x3015,"Fat Chocobo Feather",
+1103,item,1,0xC058,"Blast Wave",1* ATK+1
+1104,item,1,0x5054,"Mog's Amulet",
+1105,item,1,0x2007,"Phoenix Down",
+1106,item,3,0x3015,"Fat Chocobo Feather",
+1107,item,1,0x5008,"Rune Armlet",
+1108,item,1,0x5006,"Silver Armlet",
+1109,item,1,0x3013,"Mythril",
+1110,item,1,0x2006,"Elixir",
+1111,item,1,0x3016,"Lunar Harp",
+1112,item,1,0xC00A,"Flare",5* MAG+30
+1113,item,1,0x2007,"Phoenix Down",
+1114,item,1,0xC092,"SP Turbo Attack",1* ATK+1
+1115,item,1,0xC042,"Graviga",1* MAG+1
+1116,item,1,0xC08B,"Status Ward",1* SPR+5
+1117,item,5,0x3013,"Mythril",
+1118,item,1,0x504D,"Shining Bracer",
+1119,item,1,0x5009,"Mythril Armlet",
+1120,item,1,0x2006,"Elixir",
+1121,item,1,0x5016,"Shinra Beta+",
+1122,item,1,0x3013,"Mythril",
+1123,item,1,0x5050,"Twisted Headband",
+1124,item,1,0x3012,"Dark Matter",
+1125,gil,100,0x07D0,"2000 Gil",
+1126,item,1,0x2007,"Phoenix Down",
+1127,item,1,0xC092,"SP Turbo Attack",1* ATK+1
+1128,item,1,0x2007,"Phoenix Down",
+1129,item,1,0xC04C,"High Jump",1* ATK+1
+1130,item,1,0x5004,"Platinum Bangle",
+1131,item,1,0x3014,"Gysahl Greens",
+1132,item,1,0x501D,"Tarot Cards",
+1133,item,1,0x3010,"Hero Drink",
+1134,item,1,0xC08F,"Dualcast",1* MP+2
+1135,item,1,0xC051,"Assault Twister+",1* ATK+1
+1136,item,4,0x5012,"Kaiser Knuckles",
+1137,item,1,0xC04C,"High Jump",1* ATK+1
+1138,item,1,0x3014,"Gysahl Greens",
+1139,item,1,0x3013,"Mythril",
+1140,item,1,0xC066,"Thundaga Blade",1* MAG+2
+1141,item,1,0x505E,"Black Cowl",
+1142,item,1,0x504F,"Faerie Ring",
+1143,item,1,0xC049,"Ultima",1* MP+2
+1144,item,1,0x501E,"Crystal Orb",
+1145,item,1,0x3015,"Fat Chocobo Feather",
+1146,item,1,0x500E,"Sky Chocobo Armlet",
+1147,item,1,0x3012,"Dark Matter",
+1148,item,5,0x3011,"Adamantite",
+1149,item,1,0xC051,"Assault Twister+",1* ATK+1
+1150,item,1,0xC042,"Graviga",1* MAG+1
+1151,item,3,0x3015,"Fat Chocobo Feather",
+1152,item,1,0x505A,"Energy Suit",
+1153,item,1,0x500E,"Sky Chocobo Armlet",
+1154,item,1,0x5008,"Rune Armlet",
+1155,item,1,0x3012,"Dark Matter",
+1156,item,1,0xC02B,"Wall",1* SPR+0
+1157,item,1,0x4028,"Gravity",
+1158,item,1,0x5046,"Headband",
+1159,item,1,0x5009,"Mythril Armlet",
+1160,item,1,0x5024,"Crystal Gloves",
+1161,item,1,0x3015,"Fat Chocobo Feather",
+1162,item,1,0x3014,"Gysahl Greens",
+1163,item,1,0xC065,"Blizzaga Blade",1* MAG+2
+1164,item,2,0x3012,"Dark Matter",
+1165,sp,100,0x03E8,"1000 SP",
+1166,item,1,0x3015,"Fat Chocobo Feather",
+1167,item,1,0x5051,"Sniper Eye",
+1168,item,1,0x5009,"Mythril Armlet",
+1169,item,1,0x505D,"Gold Hairpin",
+1170,item,1,0x500D,"Sea Chocobo Armlet",
+1171,item,1,0xC051,"Assault Twister+",1* ATK+1
+1172,item,1,0x504C,"Moon Bracer",
+1173,item,1,0x5012,"Kaiser Knuckles",
+1174,item,1,0xC094,"SP Barrier",1* VIT+1
+1175,item,1,0xC0A3,"1",1* AP+2
+1176,item,1,0x301A,"Gold Rolling Pin",
+1177,item,1,0x501A,"Royal Crown",
+1178,item,1,0xC02B,"Wall",1* SPR+0
+1179,item,1,0x505F,"Soul of Thamasa",
+1180,item,1,0x5012,"Kaiser Knuckles",
+1181,item,1,0xC047,"Flare",1* MP+2
+1182,item,1,0x5062,"Black Garb",
+1183,item,1,0x5052,"Precious Watch",
+1184,item,1,0x3011,"Adamantite",
+1185,item,1,0xC046,"Electrocute",1* MP+2
+1186,item,1,0xC04C,"High Jump",1* ATK+1
+1187,item,1,0xC024,"Curaga",1* SPR+1
+1188,item,1,0xC049,"Ultima",1* MP+2
+1189,item,1,0xC064,"Firaga Blade",1* MAG+2
+1190,item,10,0x3012,"Dark Matter",
+1191,item,1,0x5059,"Power Suit",
+1192,item,1,0x3013,"Mythril",
+1193,item,1,0x3014,"Gysahl Greens",
+1194,item,1,0x3011,"Adamantite",
+1195,item,10,0x3010,"Hero Drink",
+1196,item,1,0x5061,"Magic Master",
+1197,item,1,0xC047,"Flare",1* MP+2
+1198,item,1,0xC092,"SP Turbo Attack",1* ATK+1
+1199,item,1,0x3011,"Adamantite",
+1200,item,1,0xC024,"Curaga",1* SPR+1
+1201,item,1,0x3015,"Fat Chocobo Feather",
+1202,item,1,0xC0A4,"Murderous Thrust",1* HP+2
+1203,item,1,0x504D,"Shining Bracer",
+1204,item,1,0x3010,"Hero Drink",
+1205,item,1,0xC047,"Flare",1* MP+2
+1206,item,1,0xC02E,"Drainga",1* HP+1
+1207,item,1,0xC046,"Electrocute",1* MP+2
+1208,item,1,0x5051,"Sniper Eye",
+1209,item,10,0x3015,"Fat Chocobo Feather",
+1210,item,1,0x500B,"Mountain Chocobo Armlet",
+1211,item,1,0x3014,"Gysahl Greens",
+1212,item,1,0xC02B,"Wall",1* SPR+0
+1213,item,1,0xC047,"Flare",1* MP+2
+1214,item,1,0x2007,"Phoenix Down",
+1215,item,1,0x5064,"Brutal",
+1216,item,1,0x5006,"Silver Armlet",
+1217,item,1,0x3010,"Hero Drink",
+1218,item,1,0xC08D,"Elemental Ward",1* SPR+5
+1219,item,1,0x3013,"Mythril",
+1220,item,1,0x502A,"Aegis Armlet",
+1221,item,1,0xC047,"Flare",1* MP+2
+1222,item,1,0x5056,"Doc's Code",
+1223,item,1,0xC094,"SP Barrier",1* VIT+1
+1224,item,1,0xC044,"Tri-Thundaga",1* MP+2
+1225,item,1,0xC08C,"Elemental Strike",1* MAG+5
+1226,item,1,0x5008,"Rune Armlet",
+1227,item,1,0xC06E,"Gil Toss",1* ATK+1
+1228,item,1,0x3012,"Dark Matter",
+1229,item,1,0x5039,"Escort Guard",
+1230,item,1,0x504E,"Protect Ring",
+1231,item,1,0x2007,"Phoenix Down",
+1232,item,1,0x5004,"Platinum Bangle",
+1233,item,1,0x3012,"Dark Matter",
+1234,item,1,0x501A,"Royal Crown",
+1235,item,1,0x5060,"Laurel Crown",
+1236,item,1,0x5063,"Adaman Bangle",
+1237,item,1,0xC073,"Costly Punch",1* ATK+5
+1238,item,1,0xC030,"Osmoga",1* MP+1
+1239,item,1,0x5053,"Jeweled Ring",
+1240,item,1,0x3034,"Online Shop Shade Address",
+1241,item,1,0x3010,"Hero Drink",
+1242,item,1,0xC045,"Tri-Fire",1* MP+2
+1243,item,1,0x2006,"Elixir",
+1244,item,1,0x3015,"Fat Chocobo Feather",
+1245,item,1,0xC000,"Hellfire",5* MAG+40
+1246,item,1,0x500E,"Sky Chocobo Armlet",
+1247,item,1,0xC046,"Electrocute",1* MP+2
+1248,item,1,0x5009,"Mythril Armlet",
+1249,item,1,0xC024,"Curaga",1* SPR+1
+1250,item,1,0x3017,"Zeio Nut",
+1251,item,1,0x502B,"Good-Luck Charm",
+1252,item,1,0x5065,"Ziedrich",
+1253,item,1,0xC001,"Megaflare",5* MAG+50
+1254,item,1,0xC024,"Curaga",1* SPR+1
+1255,item,1,0xC08A,"Status Strike",1* MAG+5
+1256,item,1,0x3013,"Mythril",
+1257,item,1,0xC030,"Osmoga",1* MP+1
+1258,item,1,0x2006,"Elixir",
+1259,item,1,0xC02B,"Wall",1* SPR+0
+1260,item,1,0x3010,"Hero Drink",
+1261,item,1,0xC047,"Flare",1* MP+2
+1262,item,1,0x2006,"Elixir",
+1263,item,1,0xC002,"Zantetsuken",5* MAG+60
+1264,item,1,0x2007,"Phoenix Down",
+1265,item,1,0xC049,"Ultima",1* MP+2
+1266,item,1,0x3015,"Fat Chocobo Feather",
+1267,item,1,0xC048,"Energy",1* MP+1
+1268,item,1,0x5060,"Laurel Crown",
+1269,item,1,0x2006,"Elixir",
+1270,item,1,0x2007,"Phoenix Down",
+1271,item,1,0x504A,"Super Ribbon",
+1272,item,1,0x2007,"Phoenix Down",
+1273,item,1,0x3010,"Hero Drink",
+1274,item,1,0x3011,"Adamantite",
+1275,item,1,0x3012,"Dark Matter",
+1276,item,1,0x5064,"Brutal",
+1277,item,1,0xC048,"Energy",1* MP+1
+1278,item,1,0x3014,"Gysahl Greens",
+1279,sp,100,0x03E8,"1000 SP",
+1280,item,1,0x2006,"Elixir",
+1281,item,1,0xC003,"Rebirth Flame",5* MAG+80
+1282,item,1,0xC047,"Flare",1* MP+2
+1283,item,1,0x5012,"Kaiser Knuckles",
+1284,item,1,0x3015,"Fat Chocobo Feather",
+1285,item,1,0x505D,"Gold Hairpin",
+1286,item,1,0x3014,"Gysahl Greens",
+1287,item,1,0x5069,"Genji Glove",
+1288,item,1,0xC004,"Exaflare",5* MAG+100
+1289,item,1,0x505A,"Energy Suit",
+1290,item,1,0x2007,"Phoenix Down",
+1291,item,1,0xC049,"Ultima",1* MP+2
+1292,item,1,0x5004,"Platinum Bangle",
+1293,item,1,0x505F,"Soul of Thamasa",
+1294,item,1,0x5008,"Rune Armlet",
+1295,item,1,0xC095,"SP Master",1* HP+1
+1296,item,1,0x506A,"Divine Slayer",
+1297,item,1,0x3012,"Dark Matter",
+1298,item,1,0x3014,"Gysahl Greens",
+1299,item,1,0x3010,"Hero Drink",
+1300,item,1,0x2007,"Phoenix Down",
+1301,item,1,0x3013,"Mythril",
+1302,item,1,0x3011,"Adamantite",
+1303,item,1,0x2000,"Potion",
+1304,item,1,0x2000,"Potion",
+1305,item,1,0x2000,"Potion",
+1306,item,1,0x2000,"Potion",
+1307,item,1,0x2000,"Potion",
+1308,item,1,0x402E,"Flare",
+1309,item,1,0x2007,"Phoenix Down",
+1310,item,1,0x2004,"Soma",
+1311,item,1,0x2004,"Soma",
+1312,item,1,0x2004,"Soma",
+1313,item,1,0x2003,"Ether",
+1314,item,1,0x2004,"Soma",
+1315,item,1,0x2004,"Soma",
+1316,item,2,0x2003,"Ether",
+1317,item,2,0x2004,"Soma",
+1318,item,1,0x2006,"Elixir",
+1319,item,1,0x2006,"Elixir",
+1320,item,1,0x2006,"Elixir",
+1321,item,1,0x4032,"Jump",

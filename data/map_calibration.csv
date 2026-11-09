@@ -1,0 +1,60 @@
+texture,k,cx,cy,source,notes
+T_ui_Map_wut1_04,0.137,1020,1012,pos_log v7 2026-10-19,Fort Tamblin corridor maze + courtyard; px=cx+k*X py=cy+k*Y (UE world units)
+T_ui_Map_wut1_05,0.137,1020,1012,same layout as wut1_04,story-state variant of the Fort Tamblin map
+T_ui_Map_mid0_05,0.57,1034,950,pos_log v6 (rough),Shinra HQ SOLDIER floor; cy poorly constrained (+-40 px)
+T_ui_Map_ban2_01,0.0899,1020,1010,pos_log v7 Ch2,Banora apple orchard / mountain path
+T_ui_Map_ban2_02,0.0827,1030,1030,pos_log v7 Ch2,Banora village (02/03/04 are the same layout)
+T_ui_Map_ban2_03,0.104,920,960,pos_log v7 Ch2 (rough),scene 5052 (chest 65)
+T_ui_Map_que4_01,0.0697,1024,1024,consensus (point-weighted median over all runs),with the target pawn pinned to the middle of its room the fit lands on centre (1028 1025) => maps are centred on world origin (1024 1024); refit others with centre fixed
+T_ui_Map_que12_01_02,0.0522,1024,1024,consensus (point-weighted median over all runs),M1-2-2
+T_ui_Map_que4_02,0.0861,1024,1024,consensus (point-weighted median over all runs),M1-2-3
+T_ui_Map_que6_03,0.0478,1024,1024,consensus (point-weighted median over all runs),M1-2-4
+T_ui_Map_que12_04_03,0.0526,1024,1024,consensus (point-weighted median over all runs),M1-2-5
+T_ui_Map_que6_05,0.0704,1024,1024,consensus (point-weighted median over all runs),M2-1-1
+T_ui_Map_que3_01,0.142,1024,1024,consensus (point-weighted median over all runs),open field: scale from the run that walked the whole field (8-4-1); approximate
+T_ui_Map_mid4_01,0.0908,1024,1024,consensus (point-weighted median over all runs),scene 5103 (chests 90 91)
+T_ui_Map_mid4_05,0.074,1580,1020,pos_log v7 Ch3 (free centre),plate interior; DataTable ImgOffset 1232/-36 ImgScale 1.5382 shifts the centre
+T_ui_Map_mid5_01,0.2451,1024,1024,pos_log v7 Ch4,Sector 5 church (144)
+T_ui_Map_mid5_02,0.2225,1024,1024,pos_log v7 Ch4,Sector 5 slums market area
+T_ui_Map_mid5_03,0.0957,1024,1024,consensus (point-weighted median over all runs),slums route
+T_ui_Map_mid5_07,0.2092,1024,1024,pos_log v7 Ch4,sample storage chamber / lab (145 146 1313 1314)
+T_ui_Map_mid5_11,0.1409,1024,1024,pos_log v7 Ch4,Shinra 67F jail cells (160-177)
+T_ui_Map_que3_02,0.1045,1024,1024,consensus (point-weighted median over all runs),M2-1-4 / M1-3-1 open field
+T_ui_Map_que9_02,0.1045,1024,1024,consensus (point-weighted median over all runs),M2-1-5 / M3-1-1 cave
+T_ui_Map_que1_04,0.1054,1024,1024,consensus (point-weighted median over all runs),M3-1-2 cave
+T_ui_Map_que13_01,0.1063,1024,1024,consensus (point-weighted median over all runs),M3-1-4 cave
+T_ui_Map_que12_03_02,0.0526,1024,1024,consensus (point-weighted median over all runs),M4-1-2 / M3-1-5 cave
+T_ui_Map_wor3_01,0.2148,1024,1024,consensus (point-weighted median over all runs),M3-2-2 ship deck
+T_ui_Map_wor3_02,0.2206,1024,1024,consensus (point-weighted median over all runs),M3-2-2 ship interior
+T_ui_Map_mod7_02_01,0.0839,1024,1024,Modeoheim interiors share one scale,Ch5 Modeoheim outskirts
+T_ui_Map_mod7_03,0.14,1024,1024,Modeoheim interiors share one scale,Ch5 Modeoheim (03/04/05 share a layout)
+T_ui_Map_mod7_05,0.14,1024,1024,Modeoheim interiors share one scale,Ch5 Modeoheim
+T_ui_Map_mod7_04,0.14,1024,1024,Modeoheim interiors share one scale,Ch5 Modeoheim
+T_ui_Map_que13_04,0.1054,1024,1024,consensus (point-weighted median over all runs),mission map
+T_ui_Map_que1_03,0.0846,1024,1024,consensus (point-weighted median over all runs),mission map
+T_ui_Map_que2_02,0.0839,1024,1024,consensus (point-weighted median over all runs),mission map
+T_ui_Map_que13_02,0.1082,1024,1024,consensus (point-weighted median over all runs),mission map
+T_ui_Map_que2_05,0.0846,1024,1024,consensus (point-weighted median over all runs),mission map
+T_ui_Map_que6_04,0.027,1024,1024,consensus (point-weighted median over all runs),long canal map; 1-3-5 3-2-1 4-1-4 are played just past the top edge
+T_ui_Map_que9_04,0.1036,1024,1024,consensus (point-weighted median over all runs),mission cave
+T_ui_Map_jun3_01_02,0.0846,1024,1024,consensus (point-weighted median over all runs),mission/field map
+T_ui_Map_jun3_03_02,0.0526,1024,1024,consensus (point-weighted median over all runs),mission/field map
+T_ui_Map_shy8_05,0.2167,1024,1024,pos_log v8 Ch8-9,story map
+T_ui_Map_niv7_01_01,0.1834,1024,1024,pos_log v8 Ch8-9,story map
+T_ui_Map_niv9_04_02,0.0846,1024,1024,pos_log v8 Ch8-9,story map
+T_ui_Map_shy8_04,0.1325,1024,1024,pos_log v8 Ch8-9,story map
+T_ui_Map_shy8_01,0.2494,1024,1024,pos_log v8 Ch8-9,story map
+T_ui_Map_gon9_01,0.1485,1024,1024,pos_log v8 Ch8-9,story map
+T_ui_Map_gon9_04,0.1472,1024,1024,pos_log v8 Ch8-9,story map
+T_ui_Map_gon9_02,0.1045,1024,1024,pos_log v8 Ch8-9,story map
+T_ui_Map_niv7_01_02,0.1834,1024,1024,pos_log v8 Ch8-9,story map
+T_ui_Map_niv7_01_03,0.1834,1024,1024,pos_log v8 Ch8-9,story map
+T_ui_Map_niv7_01_04,0.1834,1024,1024,pos_log v8 Ch8-9,story map
+T_ui_Map_niv7_02,0.0684,1024,1024,pos_log v8 Ch8-9,story map
+T_ui_Map_niv9_06_02,0.0862,1024,1024,pos_log v8 Ch8-9,story map
+T_ui_Map_niv9_06_01,0.0499,1024,1024,pos_log v8 Ch8-9,story map
+T_ui_Map_wor8_01,0.0831,1024,1024,pos_log v8 Ch8-9,story map
+T_ui_Map_las10_00,0.1054,1024,1024,pos_log v8 Ch10,prec 0.98
+T_ui_Map_las10_01,0.1384,1024,1024,pos_log v8 Ch10,prec 0.997
+T_ui_Map_las10_02,0.073,581,1879,pos_log v8 Ch10 (free centre),DataTable ImgOffset -886/1710 ImgScale 1.8; centre = 1024 + offset/2; shared frame with las10_07
+T_ui_Map_las10_07,0.073,581,1879,pos_log v8 Ch10 (free centre),same frame as las10_02

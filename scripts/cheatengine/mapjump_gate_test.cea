@@ -1,0 +1,96 @@
+{ CCFF7R map-jump gate test v2 (Auto Assembler).
+  v1 hooked only the script MapJump native, but missions jump through other code.
+  v2 hooks the common "request jump" function exe+1329A00 (edx = target id, r8b = flag),
+  which all 7 jump call sites use:
+    script MapJump native (flag 0), mission start exe+13CCE50 (id = 5500 + mission index, flag 0),
+    mission return exe+13CCB10 (id = [exe+71B4B98], flag 1), plus 4 others.
+  Logs the last 64 requests (id, flag, caller) in mj_hist; mj_n = count, mj_last = last id.
+  If mj_on = 1 and id == mj_from, the request becomes (mj_to, mj_toflag).
+  Defaults: mj_from = 5000 (chapter end), mj_to = 5015 (Ch1 Mt. Tamblin save-point scene, seen as the mission-return id), mj_toflag = 1 (the flag the mission-return path uses).
+  Original bytes at exe+1329A00: 48 8B 0D C1 0D E5 05 }
+[ENABLE]
+alloc(mj_cave,$200,"CCFF7R-Win64-Shipping.exe"+1329A00)
+alloc(mj_data,$500,"CCFF7R-Win64-Shipping.exe"+1329A00)
+label(mj_ret)
+label(mj_pass)
+label(mj_on)
+label(mj_from)
+label(mj_to)
+label(mj_toflag)
+label(mj_last)
+label(mj_hits)
+label(mj_n)
+label(mj_hist)
+registersymbol(mj_on)
+registersymbol(mj_from)
+registersymbol(mj_to)
+registersymbol(mj_toflag)
+registersymbol(mj_last)
+registersymbol(mj_hits)
+registersymbol(mj_n)
+registersymbol(mj_hist)
+
+mj_data:
+mj_on:
+  db 0 0 0 0
+mj_from:
+  dd #5000
+mj_to:
+  dd #5015
+mj_toflag:
+  dd 1
+mj_last:
+  dd 0
+mj_hits:
+  dd 0
+mj_n:
+  dd 0
+  dd 0
+mj_hist:
+  // 64 entries x 16 bytes, zero-filled by alloc
+
+mj_cave:
+  push rax
+  push r9
+  mov r9d,[mj_n]
+  and r9d,3F
+  shl r9,4
+  mov rax,mj_hist
+  add r9,rax
+  mov [r9],edx
+  mov [r9+4],r8d
+  mov rax,[rsp+10]
+  mov [r9+8],rax
+  inc dword ptr [mj_n]
+  mov [mj_last],edx
+  pop r9
+  pop rax
+  cmp byte ptr [mj_on],0
+  je mj_pass
+  cmp edx,[mj_from]
+  jne mj_pass
+  mov edx,[mj_to]
+  mov r8d,[mj_toflag]
+  inc dword ptr [mj_hits]
+mj_pass:
+  mov rcx,["CCFF7R-Win64-Shipping.exe"+717A7C8]
+  jmp mj_ret
+
+"CCFF7R-Win64-Shipping.exe"+1329A00:
+  jmp mj_cave
+  nop 2
+mj_ret:
+
+[DISABLE]
+"CCFF7R-Win64-Shipping.exe"+1329A00:
+  db 48 8B 0D C1 0D E5 05
+unregistersymbol(mj_on)
+unregistersymbol(mj_from)
+unregistersymbol(mj_to)
+unregistersymbol(mj_toflag)
+unregistersymbol(mj_last)
+unregistersymbol(mj_hits)
+unregistersymbol(mj_n)
+unregistersymbol(mj_hist)
+dealloc(mj_cave)
+dealloc(mj_data)

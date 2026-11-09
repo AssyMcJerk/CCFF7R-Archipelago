@@ -1,0 +1,4976 @@
+[
+ {
+  "name": "1 (1* AP+2)",
+  "id": 3438739457,
+  "classification": "useful",
+  "vanilla_count": 1,
+  "payload": {
+   "type": 0,
+   "id": 49315,
+   "amount": 1
+  }
+ },
+ {
+  "name": "1,000 Needles (1* AP+2)",
+  "id": 3438739878,
+  "classification": "useful",
+  "vanilla_count": 1,
+  "payload": {
+   "type": 0,
+   "id": 49315,
+   "amount": 1
+  }
+ },
+ {
+  "name": "10000 Gil",
+  "id": 3438739458,
+  "classification": "filler",
+  "vanilla_count": 2,
+  "payload": {
+   "type": 1,
+   "id": 1000,
+   "amount": 10
+  }
+ },
+ {
+  "name": "100000 Gil",
+  "id": 3438739459,
+  "classification": "filler",
+  "vanilla_count": 1,
+  "payload": {
+   "type": 1,
+   "id": 1000,
+   "amount": 100
+  }
+ },
+ {
+  "name": "100000 SP",
+  "id": 3438739460,
+  "classification": "filler",
+  "vanilla_count": 2,
+  "payload": {
+   "type": 2,
+   "id": 1000,
+   "amount": 100
+  }
+ },
+ {
+  "name": "2 Gil",
+  "id": 3438739461,
+  "classification": "filler",
+  "vanilla_count": 1,
+  "payload": {
+   "type": 1,
+   "id": 2,
+   "amount": 1
+  }
+ },
+ {
+  "name": "2000 Gil",
+  "id": 3438739462,
+  "classification": "filler",
+  "vanilla_count": 2,
+  "payload": {
+   "type": 1,
+   "id": 2000,
+   "amount": 1
+  }
+ },
+ {
+  "name": "20000 SP",
+  "id": 3438739463,
+  "classification": "filler",
+  "vanilla_count": 2,
+  "payload": {
+   "type": 2,
+   "id": 2000,
+   "amount": 10
+  }
+ },
+ {
+  "name": "200000 Gil",
+  "id": 3438739464,
+  "classification": "filler",
+  "vanilla_count": 1,
+  "payload": {
+   "type": 1,
+   "id": 2000,
+   "amount": 100
+  }
+ },
+ {
+  "name": "3000 Gil",
+  "id": 3438739465,
+  "classification": "filler",
+  "vanilla_count": 2,
+  "payload": {
+   "type": 1,
+   "id": 3000,
+   "amount": 1
+  }
+ },
+ {
+  "name": "5 Gil",
+  "id": 3438739466,
+  "classification": "filler",
+  "vanilla_count": 1,
+  "payload": {
+   "type": 1,
+   "id": 5,
+   "amount": 1
+  }
+ },
+ {
+  "name": "500 Gil",
+  "id": 3438739467,
+  "classification": "filler",
+  "vanilla_count": 2,
+  "payload": {
+   "type": 1,
+   "id": 500,
+   "amount": 1
+  }
+ },
+ {
+  "name": "5000 Gil",
+  "id": 3438739468,
+  "classification": "filler",
+  "vanilla_count": 4,
+  "payload": {
+   "type": 1,
+   "id": 5000,
+   "amount": 1
+  }
+ },
+ {
+  "name": "50000 SP",
+  "id": 3438739469,
+  "classification": "filler",
+  "vanilla_count": 2,
+  "payload": {
+   "type": 2,
+   "id": 5000,
+   "amount": 10
+  }
+ },
+ {
+  "name": "6000 Gil",
+  "id": 3438739470,
+  "classification": "filler",
+  "vanilla_count": 1,
+  "payload": {
+   "type": 1,
+   "id": 6000,
+   "amount": 1
+  }
+ },
+ {
+  "name": "80000 SP",
+  "id": 3438739471,
+  "classification": "filler",
+  "vanilla_count": 3,
+  "payload": {
+   "type": 2,
+   "id": 8000,
+   "amount": 10
+  }
+ },
+ {
+  "name": "AP Stone x8",
+  "id": 3438739472,
+  "classification": "useful",
+  "vanilla_count": 1,
+  "payload": {
+   "type": 0,
+   "id": 12303,
+   "amount": 8
+  }
+ },
+ {
+  "name": "AP Up (1* AP+1)",
+  "id": 3438739473,
+  "classification": "useful",
+  "vanilla_count": 3,
+  "payload": {
+   "type": 0,
+   "id": 49274,
+   "amount": 1
+  }
+ },
+ {
+  "name": "AP Up+ (1* AP+2)",
+  "id": 3438739474,
+  "classification": "useful",
+  "vanilla_count": 2,
+  "payload": {
+   "type": 0,
+   "id": 49275,
+   "amount": 1
+  }
+ },
+ {
+  "name": "AP Up++ (1* AP+3)",
+  "id": 3438739475,
+  "classification": "useful",
+  "vanilla_count": 3,
+  "payload": {
+   "type": 0,
+   "id": 49276,
+   "amount": 1
+  }
+ },
+ {
+  "name": "ATK Mako Stone",
+  "id": 3438739476,
+  "classification": "useful",
+  "vanilla_count": 1,
+  "payload": {
+   "type": 0,
+   "id": 12288,
+   "amount": 1
+  }
+ },
+ {
+  "name": "ATK Up (1* ATK+1)",
+  "id": 3438739477,
+  "classification": "useful",
+  "vanilla_count": 4,
+  "payload": {
+   "type": 0,
+   "id": 49277,
+   "amount": 1
+  }
+ },
+ {
+  "name": "ATK Up+ (1* ATK+2)",
+  "id": 3438739478,
+  "classification": "useful",
+  "vanilla_count": 2,
+  "payload": {
+   "type": 0,
+   "id": 49278,
+   "amount": 1
+  }
+ },
+ {
+  "name": "ATK Up++ (1* ATK+3)",
+  "id": 3438739479,
+  "classification": "useful",
+  "vanilla_count": 3,
+  "payload": {
+   "type": 0,
+   "id": 49279,
+   "amount": 1
+  }
+ },
+ {
+  "name": "Adaman Bangle",
+  "id": 3438739480,
+  "classification": "useful",
+  "vanilla_count": 3,
+  "payload": {
+   "type": 0,
+   "id": 20579,
+   "amount": 1
+  }
+ },
+ {
+  "name": "Adamantite",
+  "id": 3438739481,
+  "classification": "useful",
+  "vanilla_count": 16,
+  "payload": {
+   "type": 0,
+   "id": 12305,
+   "amount": 1
+  }
+ },
+ {
+  "name": "Adamantite x2",
+  "id": 3438739482,
+  "classification": "useful",
+  "vanilla_count": 1,
+  "payload": {
+   "type": 0,
+   "id": 12305,
+   "amount": 2
+  }
+ },
+ {
+  "name": "Adamantite x3",
+  "id": 3438739483,
+  "classification": "useful",
+  "vanilla_count": 1,
+  "payload": {
+   "type": 0,
+   "id": 12305,
+   "amount": 3
+  }
+ },
+ {
+  "name": "Adamantite x5",
+  "id": 3438739484,
+  "classification": "useful",
+  "vanilla_count": 3,
+  "payload": {
+   "type": 0,
+   "id": 12305,
+   "amount": 5
+  }
+ },
+ {
+  "name": "Aegis Armlet",
+  "id": 3438739485,
+  "classification": "useful",
+  "vanilla_count": 4,
+  "payload": {
+   "type": 0,
+   "id": 20522,
+   "amount": 1
+  }
+ },
+ {
+  "name": "Aerial Drain (1* HP+2)",
+  "id": 3438739879,
+  "classification": "useful",
+  "vanilla_count": 1,
+  "payload": {
+   "type": 0,
+   "id": 49257,
+   "amount": 1
+  }
+ },
+ {
+  "name": "Air Strike (1* VIT+1)",
+  "id": 3438739880,
+  "classification": "useful",
+  "vanilla_count": 1,
+  "payload": {
+   "type": 0,
+   "id": 49304,
+   "amount": 1
+  }
+ },
+ {
+  "name": "Amulet",
+  "id": 3438739486,
+  "classification": "useful",
+  "vanilla_count": 3,
+  "payload": {
+   "type": 0,
+   "id": 20507,
+   "amount": 1
+  }
+ },
+ {
+  "name": "Apocalypse (1* MAG+1)",
+  "id": 3438739881,
+  "classification": "useful",
+  "vanilla_count": 1,
+  "payload": {
+   "type": 0,
+   "id": 49308,
+   "amount": 1
+  }
+ },
+ {
+  "name": "Assault Twister (1* ATK+0)",
+  "id": 3438739487,
+  "classification": "useful",
+  "vanilla_count": 4,
+  "payload": {
+   "type": 0,
+   "id": 49232,
+   "amount": 1
+  }
+ },
+ {
+  "name": "Assault Twister (5* ATK+40)",
+  "id": 3438739488,
+  "classification": "useful",
+  "vanilla_count": 1,
+  "payload": {
+   "type": 0,
+   "id": 49164,
+   "amount": 1
+  }
+ },
+ {
+  "name": "Assault Twister+ (1* ATK+1)",
+  "id": 3438739489,
+  "classification": "useful",
+  "vanilla_count": 5,
+  "payload": {
+   "type": 0,
+   "id": 49233,
+   "amount": 1
+  }
+ },
+ {
+  "name": "Bahamut Fury Materia",
+  "id": 3438739491,
+  "classification": "useful",
+  "vanilla_count": 1,
+  "payload": {
+   "type": 0,
+   "id": 12317,
+   "amount": 1
+  }
+ },
+ {
+  "name": "Bahamut Materia",
+  "id": 3438739492,
+  "classification": "useful",
+  "vanilla_count": 1,
+  "payload": {
+   "type": 0,
+   "id": 12316,
+   "amount": 1
+  }
+ },
+ {
+  "name": "Barrier (1* SPR+0)",
+  "id": 3438739493,
+  "classification": "useful",
+  "vanilla_count": 5,
+  "payload": {
+   "type": 0,
+   "id": 49193,
+   "amount": 1
+  }
+ },
+ {
+  "name": "Being Materia",
+  "id": 3438739494,
+  "classification": "progression",
+  "vanilla_count": 1,
+  "payload": {
+   "type": 0,
+   "id": 12376,
+   "amount": 1
+  }
+ },
+ {
+  "name": "Black Belt",
+  "id": 3438739495,
+  "classification": "useful",
+  "vanilla_count": 3,
+  "payload": {
+   "type": 0,
+   "id": 20513,
+   "amount": 1
+  }
+ },
+ {
+  "name": "Black Cowl",
+  "id": 3438739496,
+  "classification": "useful",
+  "vanilla_count": 3,
+  "payload": {
+   "type": 0,
+   "id": 20574,
+   "amount": 1
+  }
+ },
+ {
+  "name": "Black Garb",
+  "id": 3438739497,
+  "classification": "useful",
+  "vanilla_count": 1,
+  "payload": {
+   "type": 0,
+   "id": 20578,
+   "amount": 1
+  }
+ },
+ {
+  "name": "Blast Wave (1* ATK+1)",
+  "id": 3438739498,
+  "classification": "useful",
+  "vanilla_count": 3,
+  "payload": {
+   "type": 0,
+   "id": 49240,
+   "amount": 1
+  }
+ },
+ {
+  "name": "Blaze Armlet",
+  "id": 3438739499,
+  "classification": "useful",
+  "vanilla_count": 6,
+  "payload": {
+   "type": 0,
+   "id": 20527,
+   "amount": 1
+  }
+ },
+ {
+  "name": "Blizzaga (1* MAG+1)",
+  "id": 3438739500,
+  "classification": "useful",
+  "vanilla_count": 3,
+  "payload": {
+   "type": 0,
+   "id": 49184,
+   "amount": 1
+  }
+ },
+ {
+  "name": "Blizzaga Blade (1* MAG+2)",
+  "id": 3438739501,
+  "classification": "useful",
+  "vanilla_count": 4,
+  "payload": {
+   "type": 0,
+   "id": 49253,
+   "amount": 1
+  }
+ },
+ {
+  "name": "Blizzara",
+  "id": 3438739502,
+  "classification": "useful",
+  "vanilla_count": 1,
+  "payload": {
+   "type": 0,
+   "id": 16388,
+   "amount": 1
+  }
+ },
+ {
+  "name": "Blizzara (1* MAG+1)",
+  "id": 3438739503,
+  "classification": "useful",
+  "vanilla_count": 4,
+  "payload": {
+   "type": 0,
+   "id": 49181,
+   "amount": 1
+  }
+ },
+ {
+  "name": "Blizzard (1* MAG+0)",
+  "id": 3438739504,
+  "classification": "useful",
+  "vanilla_count": 5,
+  "payload": {
+   "type": 0,
+   "id": 49178,
+   "amount": 1
+  }
+ },
+ {
+  "name": "Blizzard (1* MAG+1)",
+  "id": 3438739505,
+  "classification": "useful",
+  "vanilla_count": 1,
+  "payload": {
+   "type": 0,
+   "id": 49176,
+   "amount": 1
+  }
+ },
+ {
+  "name": "Bolt Armlet",
+  "id": 3438739506,
+  "classification": "useful",
+  "vanilla_count": 5,
+  "payload": {
+   "type": 0,
+   "id": 20535,
+   "amount": 1
+  }
+ },
+ {
+  "name": "Bone Village Outlet Address",
+  "id": 3438739507,
+  "classification": "useful",
+  "vanilla_count": 1,
+  "payload": {
+   "type": 0,
+   "id": 12337,
+   "amount": 1
+  }
+ },
+ {
+  "name": "Brigand's Gloves",
+  "id": 3438739508,
+  "classification": "useful",
+  "vanilla_count": 3,
+  "payload": {
+   "type": 0,
+   "id": 20565,
+   "amount": 1
+  }
+ },
+ {
+  "name": "Bronze Armlet",
+  "id": 3438739509,
+  "classification": "useful",
+  "vanilla_count": 8,
+  "payload": {
+   "type": 0,
+   "id": 20485,
+   "amount": 1
+  }
+ },
+ {
+  "name": "Bronze Bangle",
+  "id": 3438739510,
+  "classification": "useful",
+  "vanilla_count": 4,
+  "payload": {
+   "type": 0,
+   "id": 20480,
+   "amount": 1
+  }
+ },
+ {
+  "name": "Brutal",
+  "id": 3438739511,
+  "classification": "useful",
+  "vanilla_count": 3,
+  "payload": {
+   "type": 0,
+   "id": 20580,
+   "amount": 1
+  }
+ },
+ {
+  "name": "Bulletproof Vest",
+  "id": 3438739512,
+  "classification": "useful",
+  "vanilla_count": 4,
+  "payload": {
+   "type": 0,
+   "id": 20499,
+   "amount": 1
+  }
+ },
+ {
+  "name": "Cactus Thorn",
+  "id": 3438739513,
+  "classification": "useful",
+  "vanilla_count": 1,
+  "payload": {
+   "type": 0,
+   "id": 12321,
+   "amount": 1
+  }
+ },
+ {
+  "name": "Cait Sith's Megaphone",
+  "id": 3438739514,
+  "classification": "useful",
+  "vanilla_count": 1,
+  "payload": {
+   "type": 0,
+   "id": 12323,
+   "amount": 1
+  }
+ },
+ {
+  "name": "Carbon Bangle",
+  "id": 3438739515,
+  "classification": "useful",
+  "vanilla_count": 3,
+  "payload": {
+   "type": 0,
+   "id": 20483,
+   "amount": 1
+  }
+ },
+ {
+  "name": "Champion Belt",
+  "id": 3438739516,
+  "classification": "useful",
+  "vanilla_count": 7,
+  "payload": {
+   "type": 0,
+   "id": 20512,
+   "amount": 1
+  }
+ },
+ {
+  "name": "Chocobo Armlet",
+  "id": 3438739517,
+  "classification": "useful",
+  "vanilla_count": 4,
+  "payload": {
+   "type": 0,
+   "id": 20490,
+   "amount": 1
+  }
+ },
+ {
+  "name": "Chocobo Feather",
+  "id": 3438739518,
+  "classification": "useful",
+  "vanilla_count": 1,
+  "payload": {
+   "type": 0,
+   "id": 12320,
+   "amount": 1
+  }
+ },
+ {
+  "name": "Chocobo Stomp (1* AP+2)",
+  "id": 3438739882,
+  "classification": "useful",
+  "vanilla_count": 1,
+  "payload": {
+   "type": 0,
+   "id": 49314,
+   "amount": 1
+  }
+ },
+ {
+  "name": "Circlet",
+  "id": 3438739519,
+  "classification": "useful",
+  "vanilla_count": 2,
+  "payload": {
+   "type": 0,
+   "id": 20504,
+   "amount": 1
+  }
+ },
+ {
+  "name": "Costly Punch (1* ATK+5)",
+  "id": 3438739520,
+  "classification": "useful",
+  "vanilla_count": 1,
+  "payload": {
+   "type": 0,
+   "id": 49267,
+   "amount": 1
+  }
+ },
+ {
+  "name": "Courage Boost! (1* MP+2)",
+  "id": 3438739883,
+  "classification": "useful",
+  "vanilla_count": 1,
+  "payload": {
+   "type": 0,
+   "id": 49317,
+   "amount": 1
+  }
+ },
+ {
+  "name": "Craftsman Monthly",
+  "id": 3438739521,
+  "classification": "useful",
+  "vanilla_count": 1,
+  "payload": {
+   "type": 0,
+   "id": 12344,
+   "amount": 1
+  }
+ },
+ {
+  "name": "Crystal Bracelet",
+  "id": 3438739522,
+  "classification": "useful",
+  "vanilla_count": 4,
+  "payload": {
+   "type": 0,
+   "id": 20519,
+   "amount": 1
+  }
+ },
+ {
+  "name": "Crystal Gloves",
+  "id": 3438739523,
+  "classification": "useful",
+  "vanilla_count": 5,
+  "payload": {
+   "type": 0,
+   "id": 20516,
+   "amount": 1
+  }
+ },
+ {
+  "name": "Crystal Orb",
+  "id": 3438739524,
+  "classification": "useful",
+  "vanilla_count": 6,
+  "payload": {
+   "type": 0,
+   "id": 20510,
+   "amount": 1
+  }
+ },
+ {
+  "name": "Cura (1* SPR+1)",
+  "id": 3438739525,
+  "classification": "useful",
+  "vanilla_count": 2,
+  "payload": {
+   "type": 0,
+   "id": 49187,
+   "amount": 1
+  }
+ },
+ {
+  "name": "Curaga (1* SPR+1)",
+  "id": 3438739526,
+  "classification": "useful",
+  "vanilla_count": 7,
+  "payload": {
+   "type": 0,
+   "id": 49188,
+   "amount": 1
+  }
+ },
+ {
+  "name": "Cure (1* SPR+1)",
+  "id": 3438739527,
+  "classification": "useful",
+  "vanilla_count": 2,
+  "payload": {
+   "type": 0,
+   "id": 49186,
+   "amount": 1
+  }
+ },
+ {
+  "name": "Cursed Ring",
+  "id": 3438739528,
+  "classification": "useful",
+  "vanilla_count": 3,
+  "payload": {
+   "type": 0,
+   "id": 20555,
+   "amount": 1
+  }
+ },
+ {
+  "name": "Dark Matter",
+  "id": 3438739529,
+  "classification": "useful",
+  "vanilla_count": 14,
+  "payload": {
+   "type": 0,
+   "id": 12306,
+   "amount": 1
+  }
+ },
+ {
+  "name": "Dark Matter x10",
+  "id": 3438739530,
+  "classification": "useful",
+  "vanilla_count": 1,
+  "payload": {
+   "type": 0,
+   "id": 12306,
+   "amount": 10
+  }
+ },
+ {
+  "name": "Dark Matter x2",
+  "id": 3438739531,
+  "classification": "useful",
+  "vanilla_count": 3,
+  "payload": {
+   "type": 0,
+   "id": 12306,
+   "amount": 2
+  }
+ },
+ {
+  "name": "Dark Matter x3",
+  "id": 3438739532,
+  "classification": "useful",
+  "vanilla_count": 2,
+  "payload": {
+   "type": 0,
+   "id": 12306,
+   "amount": 3
+  }
+ },
+ {
+  "name": "Dark Matter x5",
+  "id": 3438739533,
+  "classification": "useful",
+  "vanilla_count": 1,
+  "payload": {
+   "type": 0,
+   "id": 12306,
+   "amount": 5
+  }
+ },
+ {
+  "name": "Darkness (1* HP+2)",
+  "id": 3438739534,
+  "classification": "useful",
+  "vanilla_count": 2,
+  "payload": {
+   "type": 0,
+   "id": 49226,
+   "amount": 1
+  }
+ },
+ {
+  "name": "Dash (1* AP+2)",
+  "id": 3438739535,
+  "classification": "useful",
+  "vanilla_count": 5,
+  "payload": {
+   "type": 0,
+   "id": 49294,
+   "amount": 1
+  }
+ },
+ {
+  "name": "Death (1* MAG+0)",
+  "id": 3438739536,
+  "classification": "useful",
+  "vanilla_count": 2,
+  "payload": {
+   "type": 0,
+   "id": 49204,
+   "amount": 1
+  }
+ },
+ {
+  "name": "Death Blade (1* ATK+1)",
+  "id": 3438739537,
+  "classification": "useful",
+  "vanilla_count": 2,
+  "payload": {
+   "type": 0,
+   "id": 49244,
+   "amount": 1
+  }
+ },
+ {
+  "name": "Death Jump (1* ATK+1)",
+  "id": 3438739538,
+  "classification": "useful",
+  "vanilla_count": 3,
+  "payload": {
+   "type": 0,
+   "id": 49231,
+   "amount": 1
+  }
+ },
+ {
+  "name": "Death Twister (1* ATK+1)",
+  "id": 3438739539,
+  "classification": "useful",
+  "vanilla_count": 3,
+  "payload": {
+   "type": 0,
+   "id": 49236,
+   "amount": 1
+  }
+ },
+ {
+  "name": "Diamond Bracelet",
+  "id": 3438739540,
+  "classification": "useful",
+  "vanilla_count": 7,
+  "payload": {
+   "type": 0,
+   "id": 20518,
+   "amount": 1
+  }
+ },
+ {
+  "name": "Diamond Gloves",
+  "id": 3438739541,
+  "classification": "useful",
+  "vanilla_count": 6,
+  "payload": {
+   "type": 0,
+   "id": 20515,
+   "amount": 1
+  }
+ },
+ {
+  "name": "Dispel (1* SPR+0)",
+  "id": 3438739542,
+  "classification": "useful",
+  "vanilla_count": 4,
+  "payload": {
+   "type": 0,
+   "id": 49192,
+   "amount": 1
+  }
+ },
+ {
+  "name": "Dispel Blade (1* MAG+3)",
+  "id": 3438739543,
+  "classification": "useful",
+  "vanilla_count": 4,
+  "payload": {
+   "type": 0,
+   "id": 49245,
+   "amount": 1
+  }
+ },
+ {
+  "name": "Divine Slayer",
+  "id": 3438739544,
+  "classification": "useful",
+  "vanilla_count": 1,
+  "payload": {
+   "type": 0,
+   "id": 20586,
+   "amount": 1
+  }
+ },
+ {
+  "name": "Doc's Code",
+  "id": 3438739545,
+  "classification": "useful",
+  "vanilla_count": 2,
+  "payload": {
+   "type": 0,
+   "id": 20566,
+   "amount": 1
+  }
+ },
+ {
+  "name": "Dragon Armlet",
+  "id": 3438739546,
+  "classification": "useful",
+  "vanilla_count": 4,
+  "payload": {
+   "type": 0,
+   "id": 20536,
+   "amount": 1
+  }
+ },
+ {
+  "name": "Drain",
+  "id": 3438739547,
+  "classification": "useful",
+  "vanilla_count": 1,
+  "payload": {
+   "type": 0,
+   "id": 16403,
+   "amount": 1
+  }
+ },
+ {
+  "name": "Drain (1* HP+1)",
+  "id": 3438739548,
+  "classification": "useful",
+  "vanilla_count": 3,
+  "payload": {
+   "type": 0,
+   "id": 49196,
+   "amount": 1
+  }
+ },
+ {
+  "name": "Drain Blade (1* HP+1)",
+  "id": 3438739549,
+  "classification": "useful",
+  "vanilla_count": 3,
+  "payload": {
+   "type": 0,
+   "id": 49255,
+   "amount": 1
+  }
+ },
+ {
+  "name": "Drainga (1* HP+1)",
+  "id": 3438739550,
+  "classification": "useful",
+  "vanilla_count": 8,
+  "payload": {
+   "type": 0,
+   "id": 49198,
+   "amount": 1
+  }
+ },
+ {
+  "name": "Drainga (5* HP+50)",
+  "id": 3438739551,
+  "classification": "useful",
+  "vanilla_count": 1,
+  "payload": {
+   "type": 0,
+   "id": 49158,
+   "amount": 1
+  }
+ },
+ {
+  "name": "Drainra (1* HP+1)",
+  "id": 3438739552,
+  "classification": "useful",
+  "vanilla_count": 2,
+  "payload": {
+   "type": 0,
+   "id": 49197,
+   "amount": 1
+  }
+ },
+ {
+  "name": "Dualcast (1* MP+2)",
+  "id": 3438739553,
+  "classification": "useful",
+  "vanilla_count": 2,
+  "payload": {
+   "type": 0,
+   "id": 49295,
+   "amount": 1
+  }
+ },
+ {
+  "name": "Earrings",
+  "id": 3438739554,
+  "classification": "useful",
+  "vanilla_count": 3,
+  "payload": {
+   "type": 0,
+   "id": 20503,
+   "amount": 1
+  }
+ },
+ {
+  "name": "Electrocute (1* MP+2)",
+  "id": 3438739555,
+  "classification": "useful",
+  "vanilla_count": 8,
+  "payload": {
+   "type": 0,
+   "id": 49222,
+   "amount": 1
+  }
+ },
+ {
+  "name": "Element Blade",
+  "id": 3438739556,
+  "classification": "useful",
+  "vanilla_count": 6,
+  "payload": {
+   "type": 0,
+   "id": 20539,
+   "amount": 1
+  }
+ },
+ {
+  "name": "Elemental Strike (1* MAG+5)",
+  "id": 3438739557,
+  "classification": "useful",
+  "vanilla_count": 4,
+  "payload": {
+   "type": 0,
+   "id": 49292,
+   "amount": 1
+  }
+ },
+ {
+  "name": "Elemental Ward (1* SPR+5)",
+  "id": 3438739558,
+  "classification": "useful",
+  "vanilla_count": 3,
+  "payload": {
+   "type": 0,
+   "id": 49293,
+   "amount": 1
+  }
+ },
+ {
+  "name": "Elixir",
+  "id": 3438739559,
+  "classification": "filler",
+  "vanilla_count": 64,
+  "payload": {
+   "type": 0,
+   "id": 8198,
+   "amount": 1
+  }
+ },
+ {
+  "name": "Elixir x20",
+  "id": 3438739560,
+  "classification": "filler",
+  "vanilla_count": 1,
+  "payload": {
+   "type": 0,
+   "id": 8198,
+   "amount": 20
+  }
+ },
+ {
+  "name": "Energy (1* MP+1)",
+  "id": 3438739561,
+  "classification": "useful",
+  "vanilla_count": 9,
+  "payload": {
+   "type": 0,
+   "id": 49224,
+   "amount": 1
+  }
+ },
+ {
+  "name": "Energy Suit",
+  "id": 3438739562,
+  "classification": "useful",
+  "vanilla_count": 3,
+  "payload": {
+   "type": 0,
+   "id": 20570,
+   "amount": 1
+  }
+ },
+ {
+  "name": "Escort Guard",
+  "id": 3438739563,
+  "classification": "useful",
+  "vanilla_count": 3,
+  "payload": {
+   "type": 0,
+   "id": 20537,
+   "amount": 1
+  }
+ },
+ {
+  "name": "Esuna (1* SPR+0)",
+  "id": 3438739564,
+  "classification": "useful",
+  "vanilla_count": 4,
+  "payload": {
+   "type": 0,
+   "id": 49191,
+   "amount": 1
+  }
+ },
+ {
+  "name": "Ether",
+  "id": 3438739565,
+  "classification": "filler",
+  "vanilla_count": 18,
+  "payload": {
+   "type": 0,
+   "id": 8195,
+   "amount": 1
+  }
+ },
+ {
+  "name": "Ether x2",
+  "id": 3438739566,
+  "classification": "filler",
+  "vanilla_count": 2,
+  "payload": {
+   "type": 0,
+   "id": 8195,
+   "amount": 2
+  }
+ },
+ {
+  "name": "Exaflare (1* MAG+1)",
+  "id": 3438739884,
+  "classification": "useful",
+  "vanilla_count": 1,
+  "payload": {
+   "type": 0,
+   "id": 49313,
+   "amount": 1
+  }
+ },
+ {
+  "name": "Exaflare (5* MAG+100)",
+  "id": 3438739567,
+  "classification": "useful",
+  "vanilla_count": 1,
+  "payload": {
+   "type": 0,
+   "id": 49156,
+   "amount": 1
+  }
+ },
+ {
+  "name": "Exploder Blade (1* ATK+0)",
+  "id": 3438739568,
+  "classification": "useful",
+  "vanilla_count": 4,
+  "payload": {
+   "type": 0,
+   "id": 49239,
+   "amount": 1
+  }
+ },
+ {
+  "name": "Faerie Ring",
+  "id": 3438739569,
+  "classification": "useful",
+  "vanilla_count": 3,
+  "payload": {
+   "type": 0,
+   "id": 20559,
+   "amount": 1
+  }
+ },
+ {
+  "name": "Fat Chocobo Feather",
+  "id": 3438739570,
+  "classification": "useful",
+  "vanilla_count": 25,
+  "payload": {
+   "type": 0,
+   "id": 12309,
+   "amount": 1
+  }
+ },
+ {
+  "name": "Fat Chocobo Feather x10",
+  "id": 3438739571,
+  "classification": "useful",
+  "vanilla_count": 1,
+  "payload": {
+   "type": 0,
+   "id": 12309,
+   "amount": 10
+  }
+ },
+ {
+  "name": "Fat Chocobo Feather x2",
+  "id": 3438739572,
+  "classification": "useful",
+  "vanilla_count": 6,
+  "payload": {
+   "type": 0,
+   "id": 12309,
+   "amount": 2
+  }
+ },
+ {
+  "name": "Fat Chocobo Feather x3",
+  "id": 3438739573,
+  "classification": "useful",
+  "vanilla_count": 6,
+  "payload": {
+   "type": 0,
+   "id": 12309,
+   "amount": 3
+  }
+ },
+ {
+  "name": "Fat Chocobo Feather x4",
+  "id": 3438739574,
+  "classification": "useful",
+  "vanilla_count": 2,
+  "payload": {
+   "type": 0,
+   "id": 12309,
+   "amount": 4
+  }
+ },
+ {
+  "name": "Fat Chocobo Feather x5",
+  "id": 3438739575,
+  "classification": "useful",
+  "vanilla_count": 1,
+  "payload": {
+   "type": 0,
+   "id": 12309,
+   "amount": 5
+  }
+ },
+ {
+  "name": "Feather Cap",
+  "id": 3438739576,
+  "classification": "useful",
+  "vanilla_count": 1,
+  "payload": {
+   "type": 0,
+   "id": 20567,
+   "amount": 1
+  }
+ },
+ {
+  "name": "Fira",
+  "id": 3438739577,
+  "classification": "useful",
+  "vanilla_count": 1,
+  "payload": {
+   "type": 0,
+   "id": 16387,
+   "amount": 1
+  }
+ },
+ {
+  "name": "Fira (1* MAG+1)",
+  "id": 3438739578,
+  "classification": "useful",
+  "vanilla_count": 4,
+  "payload": {
+   "type": 0,
+   "id": 49180,
+   "amount": 1
+  }
+ },
+ {
+  "name": "Firaga",
+  "id": 3438739579,
+  "classification": "useful",
+  "vanilla_count": 1,
+  "payload": {
+   "type": 0,
+   "id": 16390,
+   "amount": 1
+  }
+ },
+ {
+  "name": "Firaga (1* MAG+1)",
+  "id": 3438739580,
+  "classification": "useful",
+  "vanilla_count": 3,
+  "payload": {
+   "type": 0,
+   "id": 49183,
+   "amount": 1
+  }
+ },
+ {
+  "name": "Firaga Blade (1* MAG+2)",
+  "id": 3438739581,
+  "classification": "useful",
+  "vanilla_count": 4,
+  "payload": {
+   "type": 0,
+   "id": 49252,
+   "amount": 1
+  }
+ },
+ {
+  "name": "Fire (1* MAG+0)",
+  "id": 3438739582,
+  "classification": "useful",
+  "vanilla_count": 3,
+  "payload": {
+   "type": 0,
+   "id": 49177,
+   "amount": 1
+  }
+ },
+ {
+  "name": "Fire (1* MAG+1)",
+  "id": 3438739583,
+  "classification": "useful",
+  "vanilla_count": 1,
+  "payload": {
+   "type": 0,
+   "id": 49175,
+   "amount": 1
+  }
+ },
+ {
+  "name": "Fire (2* MAG+3)",
+  "id": 3438739584,
+  "classification": "useful",
+  "vanilla_count": 1,
+  "payload": {
+   "type": 0,
+   "id": 49167,
+   "amount": 1
+  }
+ },
+ {
+  "name": "Fire Armlet",
+  "id": 3438739585,
+  "classification": "useful",
+  "vanilla_count": 5,
+  "payload": {
+   "type": 0,
+   "id": 20525,
+   "amount": 1
+  }
+ },
+ {
+  "name": "Fire Blade (1* MAG+1)",
+  "id": 3438739586,
+  "classification": "useful",
+  "vanilla_count": 1,
+  "payload": {
+   "type": 0,
+   "id": 49249,
+   "amount": 1
+  }
+ },
+ {
+  "name": "Fire Ring",
+  "id": 3438739587,
+  "classification": "useful",
+  "vanilla_count": 4,
+  "payload": {
+   "type": 0,
+   "id": 20524,
+   "amount": 1
+  }
+ },
+ {
+  "name": "Flame Armlet",
+  "id": 3438739588,
+  "classification": "useful",
+  "vanilla_count": 3,
+  "payload": {
+   "type": 0,
+   "id": 20526,
+   "amount": 1
+  }
+ },
+ {
+  "name": "Flare",
+  "id": 3438739589,
+  "classification": "useful",
+  "vanilla_count": 1,
+  "payload": {
+   "type": 0,
+   "id": 16430,
+   "amount": 1
+  }
+ },
+ {
+  "name": "Flare (1* MP+2)",
+  "id": 3438739590,
+  "classification": "useful",
+  "vanilla_count": 12,
+  "payload": {
+   "type": 0,
+   "id": 49223,
+   "amount": 1
+  }
+ },
+ {
+  "name": "Flare (5* MAG+30)",
+  "id": 3438739591,
+  "classification": "useful",
+  "vanilla_count": 1,
+  "payload": {
+   "type": 0,
+   "id": 49162,
+   "amount": 1
+  }
+ },
+ {
+  "name": "Force Bracelet",
+  "id": 3438739592,
+  "classification": "useful",
+  "vanilla_count": 4,
+  "payload": {
+   "type": 0,
+   "id": 20517,
+   "amount": 1
+  }
+ },
+ {
+  "name": "Four Slots",
+  "id": 3438739593,
+  "classification": "useful",
+  "vanilla_count": 4,
+  "payload": {
+   "type": 0,
+   "id": 20520,
+   "amount": 1
+  }
+ },
+ {
+  "name": "Frost Armlet",
+  "id": 3438739594,
+  "classification": "useful",
+  "vanilla_count": 3,
+  "payload": {
+   "type": 0,
+   "id": 20530,
+   "amount": 1
+  }
+ },
+ {
+  "name": "Genji Glove",
+  "id": 3438739595,
+  "classification": "useful",
+  "vanilla_count": 1,
+  "payload": {
+   "type": 0,
+   "id": 20585,
+   "amount": 1
+  }
+ },
+ {
+  "name": "Genji Helm",
+  "id": 3438739875,
+  "classification": "useful",
+  "vanilla_count": 1,
+  "payload": {
+   "type": 0,
+   "id": 20582,
+   "amount": 1
+  }
+ },
+ {
+  "name": "Gil Toss (1* ATK+1)",
+  "id": 3438739596,
+  "classification": "useful",
+  "vanilla_count": 4,
+  "payload": {
+   "type": 0,
+   "id": 49262,
+   "amount": 1
+  }
+ },
+ {
+  "name": "Goblin Punch (1* ATK+1)",
+  "id": 3438739597,
+  "classification": "useful",
+  "vanilla_count": 2,
+  "payload": {
+   "type": 0,
+   "id": 49264,
+   "amount": 1
+  }
+ },
+ {
+  "name": "Gold Armlet",
+  "id": 3438739598,
+  "classification": "useful",
+  "vanilla_count": 6,
+  "payload": {
+   "type": 0,
+   "id": 20487,
+   "amount": 1
+  }
+ },
+ {
+  "name": "Gold Hairpin",
+  "id": 3438739599,
+  "classification": "useful",
+  "vanilla_count": 4,
+  "payload": {
+   "type": 0,
+   "id": 20573,
+   "amount": 1
+  }
+ },
+ {
+  "name": "Gold Rolling Pin",
+  "id": 3438739600,
+  "classification": "useful",
+  "vanilla_count": 7,
+  "payload": {
+   "type": 0,
+   "id": 12314,
+   "amount": 1
+  }
+ },
+ {
+  "name": "Gongaga Trading Address",
+  "id": 3438739601,
+  "classification": "useful",
+  "vanilla_count": 1,
+  "payload": {
+   "type": 0,
+   "id": 12334,
+   "amount": 1
+  }
+ },
+ {
+  "name": "Good-Luck Charm",
+  "id": 3438739602,
+  "classification": "useful",
+  "vanilla_count": 2,
+  "payload": {
+   "type": 0,
+   "id": 20523,
+   "amount": 1
+  }
+ },
+ {
+  "name": "Graviga (1* MAG+1)",
+  "id": 3438739603,
+  "classification": "useful",
+  "vanilla_count": 9,
+  "payload": {
+   "type": 0,
+   "id": 49218,
+   "amount": 1
+  }
+ },
+ {
+  "name": "Gravity",
+  "id": 3438739604,
+  "classification": "useful",
+  "vanilla_count": 1,
+  "payload": {
+   "type": 0,
+   "id": 16424,
+   "amount": 1
+  }
+ },
+ {
+  "name": "Gravity (1* MAG+0)",
+  "id": 3438739605,
+  "classification": "useful",
+  "vanilla_count": 5,
+  "payload": {
+   "type": 0,
+   "id": 49217,
+   "amount": 1
+  }
+ },
+ {
+  "name": "Gravity (5* MAG+38)",
+  "id": 3438739606,
+  "classification": "useful",
+  "vanilla_count": 1,
+  "payload": {
+   "type": 0,
+   "id": 49163,
+   "amount": 1
+  }
+ },
+ {
+  "name": "Gris-Gris Bag",
+  "id": 3438739607,
+  "classification": "useful",
+  "vanilla_count": 6,
+  "payload": {
+   "type": 0,
+   "id": 20549,
+   "amount": 1
+  }
+ },
+ {
+  "name": "Ground Materia",
+  "id": 3438739608,
+  "classification": "progression",
+  "vanilla_count": 1,
+  "payload": {
+   "type": 0,
+   "id": 12373,
+   "amount": 1
+  }
+ },
+ {
+  "name": "Guard Stone x3",
+  "id": 3438739609,
+  "classification": "useful",
+  "vanilla_count": 1,
+  "payload": {
+   "type": 0,
+   "id": 12297,
+   "amount": 3
+  }
+ },
+ {
+  "name": "Guard Stone x8",
+  "id": 3438739610,
+  "classification": "useful",
+  "vanilla_count": 1,
+  "payload": {
+   "type": 0,
+   "id": 12297,
+   "amount": 8
+  }
+ },
+ {
+  "name": "Gysahl Greens",
+  "id": 3438739611,
+  "classification": "useful",
+  "vanilla_count": 18,
+  "payload": {
+   "type": 0,
+   "id": 12308,
+   "amount": 1
+  }
+ },
+ {
+  "name": "Gysahl Greens x3",
+  "id": 3438739612,
+  "classification": "useful",
+  "vanilla_count": 1,
+  "payload": {
+   "type": 0,
+   "id": 12308,
+   "amount": 3
+  }
+ },
+ {
+  "name": "HP Mako Stone",
+  "id": 3438739613,
+  "classification": "useful",
+  "vanilla_count": 1,
+  "payload": {
+   "type": 0,
+   "id": 12293,
+   "amount": 1
+  }
+ },
+ {
+  "name": "HP Stone",
+  "id": 3438739614,
+  "classification": "useful",
+  "vanilla_count": 1,
+  "payload": {
+   "type": 0,
+   "id": 12301,
+   "amount": 1
+  }
+ },
+ {
+  "name": "HP Stone x8",
+  "id": 3438739615,
+  "classification": "useful",
+  "vanilla_count": 1,
+  "payload": {
+   "type": 0,
+   "id": 12301,
+   "amount": 8
+  }
+ },
+ {
+  "name": "HP Up (1* HP+1)",
+  "id": 3438739616,
+  "classification": "useful",
+  "vanilla_count": 5,
+  "payload": {
+   "type": 0,
+   "id": 49268,
+   "amount": 1
+  }
+ },
+ {
+  "name": "HP Up+ (1* HP+2)",
+  "id": 3438739617,
+  "classification": "useful",
+  "vanilla_count": 2,
+  "payload": {
+   "type": 0,
+   "id": 49269,
+   "amount": 1
+  }
+ },
+ {
+  "name": "HP Up++ (1* HP+3)",
+  "id": 3438739618,
+  "classification": "useful",
+  "vanilla_count": 3,
+  "payload": {
+   "type": 0,
+   "id": 49270,
+   "amount": 1
+  }
+ },
+ {
+  "name": "Hammer Punch (1* AP+5)",
+  "id": 3438739619,
+  "classification": "useful",
+  "vanilla_count": 2,
+  "payload": {
+   "type": 0,
+   "id": 49266,
+   "amount": 1
+  }
+ },
+ {
+  "name": "Headband",
+  "id": 3438739620,
+  "classification": "useful",
+  "vanilla_count": 7,
+  "payload": {
+   "type": 0,
+   "id": 20550,
+   "amount": 1
+  }
+ },
+ {
+  "name": "Healing Wave (1* SPR+1)",
+  "id": 3438739885,
+  "classification": "useful",
+  "vanilla_count": 1,
+  "payload": {
+   "type": 0,
+   "id": 49306,
+   "amount": 1
+  }
+ },
+ {
+  "name": "Heaven Materia",
+  "id": 3438739621,
+  "classification": "progression",
+  "vanilla_count": 1,
+  "payload": {
+   "type": 0,
+   "id": 12372,
+   "amount": 1
+  }
+ },
+ {
+  "name": "Hell Blizzaga (1* MAG+1)",
+  "id": 3438739622,
+  "classification": "useful",
+  "vanilla_count": 4,
+  "payload": {
+   "type": 0,
+   "id": 49215,
+   "amount": 1
+  }
+ },
+ {
+  "name": "Hell Firaga (1* MAG+1)",
+  "id": 3438739623,
+  "classification": "useful",
+  "vanilla_count": 4,
+  "payload": {
+   "type": 0,
+   "id": 49214,
+   "amount": 1
+  }
+ },
+ {
+  "name": "Hell Thundaga (1* MAG+1)",
+  "id": 3438739624,
+  "classification": "useful",
+  "vanilla_count": 4,
+  "payload": {
+   "type": 0,
+   "id": 49216,
+   "amount": 1
+  }
+ },
+ {
+  "name": "Hell Thundaga (5* MAG+35)",
+  "id": 3438739625,
+  "classification": "useful",
+  "vanilla_count": 1,
+  "payload": {
+   "type": 0,
+   "id": 49161,
+   "amount": 1
+  }
+ },
+ {
+  "name": "Hellfire (1* ATK+1)",
+  "id": 3438739886,
+  "classification": "useful",
+  "vanilla_count": 1,
+  "payload": {
+   "type": 0,
+   "id": 49309,
+   "amount": 1
+  }
+ },
+ {
+  "name": "Hellfire (5* MAG+40)",
+  "id": 3438739626,
+  "classification": "useful",
+  "vanilla_count": 1,
+  "payload": {
+   "type": 0,
+   "id": 49152,
+   "amount": 1
+  }
+ },
+ {
+  "name": "Hero Drink",
+  "id": 3438739627,
+  "classification": "useful",
+  "vanilla_count": 15,
+  "payload": {
+   "type": 0,
+   "id": 12304,
+   "amount": 1
+  }
+ },
+ {
+  "name": "Hero Drink x10",
+  "id": 3438739628,
+  "classification": "useful",
+  "vanilla_count": 1,
+  "payload": {
+   "type": 0,
+   "id": 12304,
+   "amount": 10
+  }
+ },
+ {
+  "name": "Hero Drink x2",
+  "id": 3438739629,
+  "classification": "useful",
+  "vanilla_count": 8,
+  "payload": {
+   "type": 0,
+   "id": 12304,
+   "amount": 2
+  }
+ },
+ {
+  "name": "Hero Drink x3",
+  "id": 3438739630,
+  "classification": "useful",
+  "vanilla_count": 3,
+  "payload": {
+   "type": 0,
+   "id": 12304,
+   "amount": 3
+  }
+ },
+ {
+  "name": "Hi-Potion",
+  "id": 3438739631,
+  "classification": "filler",
+  "vanilla_count": 47,
+  "payload": {
+   "type": 0,
+   "id": 8193,
+   "amount": 1
+  }
+ },
+ {
+  "name": "Hi-Potion x2",
+  "id": 3438739632,
+  "classification": "filler",
+  "vanilla_count": 1,
+  "payload": {
+   "type": 0,
+   "id": 8193,
+   "amount": 2
+  }
+ },
+ {
+  "name": "High Jump (1* ATK+1)",
+  "id": 3438739634,
+  "classification": "useful",
+  "vanilla_count": 5,
+  "payload": {
+   "type": 0,
+   "id": 49228,
+   "amount": 1
+  }
+ },
+ {
+  "name": "High Jump (5* ATK+40)",
+  "id": 3438739635,
+  "classification": "useful",
+  "vanilla_count": 1,
+  "payload": {
+   "type": 0,
+   "id": 49160,
+   "amount": 1
+  }
+ },
+ {
+  "name": "How to Build a Wagon",
+  "id": 3438739636,
+  "classification": "useful",
+  "vanilla_count": 1,
+  "payload": {
+   "type": 0,
+   "id": 12352,
+   "amount": 1
+  }
+ },
+ {
+  "name": "Hyper Wrist",
+  "id": 3438739637,
+  "classification": "useful",
+  "vanilla_count": 6,
+  "payload": {
+   "type": 0,
+   "id": 20497,
+   "amount": 1
+  }
+ },
+ {
+  "name": "Hypno Crown",
+  "id": 3438739638,
+  "classification": "useful",
+  "vanilla_count": 6,
+  "payload": {
+   "type": 0,
+   "id": 20505,
+   "amount": 1
+  }
+ },
+ {
+  "name": "Ice Armlet",
+  "id": 3438739639,
+  "classification": "useful",
+  "vanilla_count": 4,
+  "payload": {
+   "type": 0,
+   "id": 20529,
+   "amount": 1
+  }
+ },
+ {
+  "name": "Ice Ring",
+  "id": 3438739640,
+  "classification": "useful",
+  "vanilla_count": 3,
+  "payload": {
+   "type": 0,
+   "id": 20528,
+   "amount": 1
+  }
+ },
+ {
+  "name": "Ifrit Materia",
+  "id": 3438739641,
+  "classification": "useful",
+  "vanilla_count": 1,
+  "payload": {
+   "type": 0,
+   "id": 12315,
+   "amount": 1
+  }
+ },
+ {
+  "name": "Iron Bangle",
+  "id": 3438739642,
+  "classification": "useful",
+  "vanilla_count": 5,
+  "payload": {
+   "type": 0,
+   "id": 20481,
+   "amount": 1
+  }
+ },
+ {
+  "name": "Iron Fist (1* ATK+1)",
+  "id": 3438739643,
+  "classification": "useful",
+  "vanilla_count": 3,
+  "payload": {
+   "type": 0,
+   "id": 49263,
+   "amount": 1
+  }
+ },
+ {
+  "name": "Item Fusion Tome",
+  "id": 3438739644,
+  "classification": "useful",
+  "vanilla_count": 1,
+  "payload": {
+   "type": 0,
+   "id": 12343,
+   "amount": 1
+  }
+ },
+ {
+  "name": "Item Mugger (1* HP+2)",
+  "id": 3438739887,
+  "classification": "useful",
+  "vanilla_count": 1,
+  "payload": {
+   "type": 0,
+   "id": 49319,
+   "amount": 1
+  }
+ },
+ {
+  "name": "Jeweled Ring",
+  "id": 3438739645,
+  "classification": "useful",
+  "vanilla_count": 2,
+  "payload": {
+   "type": 0,
+   "id": 20563,
+   "amount": 1
+  }
+ },
+ {
+  "name": "Jump",
+  "id": 3438739646,
+  "classification": "useful",
+  "vanilla_count": 1,
+  "payload": {
+   "type": 0,
+   "id": 16434,
+   "amount": 1
+  }
+ },
+ {
+  "name": "Jump (1* ATK+0)",
+  "id": 3438739647,
+  "classification": "useful",
+  "vanilla_count": 2,
+  "payload": {
+   "type": 0,
+   "id": 49227,
+   "amount": 1
+  }
+ },
+ {
+  "name": "Junon Souvenirs Address",
+  "id": 3438739648,
+  "classification": "useful",
+  "vanilla_count": 1,
+  "payload": {
+   "type": 0,
+   "id": 12336,
+   "amount": 1
+  }
+ },
+ {
+  "name": "Kaiser Knuckles",
+  "id": 3438739649,
+  "classification": "useful",
+  "vanilla_count": 5,
+  "payload": {
+   "type": 0,
+   "id": 20498,
+   "amount": 1
+  }
+ },
+ {
+  "name": "Kaiser Knuckles x4",
+  "id": 3438739650,
+  "classification": "useful",
+  "vanilla_count": 1,
+  "payload": {
+   "type": 0,
+   "id": 20498,
+   "amount": 4
+  }
+ },
+ {
+  "name": "LCK Mako Stone",
+  "id": 3438739652,
+  "classification": "useful",
+  "vanilla_count": 1,
+  "payload": {
+   "type": 0,
+   "id": 12292,
+   "amount": 1
+  }
+ },
+ {
+  "name": "Laurel Crown",
+  "id": 3438739653,
+  "classification": "useful",
+  "vanilla_count": 2,
+  "payload": {
+   "type": 0,
+   "id": 20576,
+   "amount": 1
+  }
+ },
+ {
+  "name": "Libra (1* ATK+1)",
+  "id": 3438739654,
+  "classification": "useful",
+  "vanilla_count": 2,
+  "payload": {
+   "type": 0,
+   "id": 49289,
+   "amount": 1
+  }
+ },
+ {
+  "name": "Life Materia",
+  "id": 3438739655,
+  "classification": "progression",
+  "vanilla_count": 1,
+  "payload": {
+   "type": 0,
+   "id": 12375,
+   "amount": 1
+  }
+ },
+ {
+  "name": "Light Materia",
+  "id": 3438739656,
+  "classification": "progression",
+  "vanilla_count": 1,
+  "payload": {
+   "type": 0,
+   "id": 12371,
+   "amount": 1
+  }
+ },
+ {
+  "name": "Lightning Armlet",
+  "id": 3438739657,
+  "classification": "useful",
+  "vanilla_count": 4,
+  "payload": {
+   "type": 0,
+   "id": 20533,
+   "amount": 1
+  }
+ },
+ {
+  "name": "Lightning Ring",
+  "id": 3438739658,
+  "classification": "useful",
+  "vanilla_count": 3,
+  "payload": {
+   "type": 0,
+   "id": 20532,
+   "amount": 1
+  }
+ },
+ {
+  "name": "Luck Stone x8",
+  "id": 3438739659,
+  "classification": "useful",
+  "vanilla_count": 1,
+  "payload": {
+   "type": 0,
+   "id": 12300,
+   "amount": 8
+  }
+ },
+ {
+  "name": "Lucky Stars (1* SPR+1)",
+  "id": 3438739888,
+  "classification": "useful",
+  "vanilla_count": 1,
+  "payload": {
+   "type": 0,
+   "id": 49307,
+   "amount": 1
+  }
+ },
+ {
+  "name": "Lunar Harp",
+  "id": 3438739660,
+  "classification": "useful",
+  "vanilla_count": 6,
+  "payload": {
+   "type": 0,
+   "id": 12310,
+   "amount": 1
+  }
+ },
+ {
+  "name": "Lunar Harp x2",
+  "id": 3438739661,
+  "classification": "useful",
+  "vanilla_count": 4,
+  "payload": {
+   "type": 0,
+   "id": 12310,
+   "amount": 2
+  }
+ },
+ {
+  "name": "Lunar Harp x4",
+  "id": 3438739662,
+  "classification": "useful",
+  "vanilla_count": 1,
+  "payload": {
+   "type": 0,
+   "id": 12310,
+   "amount": 4
+  }
+ },
+ {
+  "name": "MAG Mako Stone",
+  "id": 3438739663,
+  "classification": "useful",
+  "vanilla_count": 1,
+  "payload": {
+   "type": 0,
+   "id": 12290,
+   "amount": 1
+  }
+ },
+ {
+  "name": "MAG Up (1* MAG+1)",
+  "id": 3438739664,
+  "classification": "useful",
+  "vanilla_count": 4,
+  "payload": {
+   "type": 0,
+   "id": 49283,
+   "amount": 1
+  }
+ },
+ {
+  "name": "MAG Up+ (1* MAG+2)",
+  "id": 3438739665,
+  "classification": "useful",
+  "vanilla_count": 4,
+  "payload": {
+   "type": 0,
+   "id": 49284,
+   "amount": 1
+  }
+ },
+ {
+  "name": "MAG Up++ (1* MAG+3)",
+  "id": 3438739666,
+  "classification": "useful",
+  "vanilla_count": 3,
+  "payload": {
+   "type": 0,
+   "id": 49285,
+   "amount": 1
+  }
+ },
+ {
+  "name": "MBarrier (1* SPR+0)",
+  "id": 3438739667,
+  "classification": "useful",
+  "vanilla_count": 5,
+  "payload": {
+   "type": 0,
+   "id": 49194,
+   "amount": 1
+  }
+ },
+ {
+  "name": "MP Stone x8",
+  "id": 3438739668,
+  "classification": "useful",
+  "vanilla_count": 1,
+  "payload": {
+   "type": 0,
+   "id": 12302,
+   "amount": 8
+  }
+ },
+ {
+  "name": "MP Up (1* MP+1)",
+  "id": 3438739669,
+  "classification": "useful",
+  "vanilla_count": 3,
+  "payload": {
+   "type": 0,
+   "id": 49271,
+   "amount": 1
+  }
+ },
+ {
+  "name": "MP Up+ (1* MP+2)",
+  "id": 3438739670,
+  "classification": "useful",
+  "vanilla_count": 1,
+  "payload": {
+   "type": 0,
+   "id": 49272,
+   "amount": 1
+  }
+ },
+ {
+  "name": "MP Up++ (1* MP+3)",
+  "id": 3438739671,
+  "classification": "useful",
+  "vanilla_count": 3,
+  "payload": {
+   "type": 0,
+   "id": 49273,
+   "amount": 1
+  }
+ },
+ {
+  "name": "Magic Master",
+  "id": 3438739672,
+  "classification": "useful",
+  "vanilla_count": 1,
+  "payload": {
+   "type": 0,
+   "id": 20577,
+   "amount": 1
+  }
+ },
+ {
+  "name": "Magic Stone x8",
+  "id": 3438739673,
+  "classification": "useful",
+  "vanilla_count": 1,
+  "payload": {
+   "type": 0,
+   "id": 12298,
+   "amount": 8
+  }
+ },
+ {
+  "name": "Magical Punch (1* MP+5)",
+  "id": 3438739674,
+  "classification": "useful",
+  "vanilla_count": 6,
+  "payload": {
+   "type": 0,
+   "id": 49265,
+   "amount": 1
+  }
+ },
+ {
+  "name": "Megaflare (1* MAG+1)",
+  "id": 3438739889,
+  "classification": "useful",
+  "vanilla_count": 1,
+  "payload": {
+   "type": 0,
+   "id": 49310,
+   "amount": 1
+  }
+ },
+ {
+  "name": "Megaflare (5* MAG+50)",
+  "id": 3438739675,
+  "classification": "useful",
+  "vanilla_count": 1,
+  "payload": {
+   "type": 0,
+   "id": 49153,
+   "amount": 1
+  }
+ },
+ {
+  "name": "Meteor Shots (1* VIT+1)",
+  "id": 3438739890,
+  "classification": "useful",
+  "vanilla_count": 1,
+  "payload": {
+   "type": 0,
+   "id": 49305,
+   "amount": 1
+  }
+ },
+ {
+  "name": "Mind Stone x2",
+  "id": 3438739676,
+  "classification": "useful",
+  "vanilla_count": 1,
+  "payload": {
+   "type": 0,
+   "id": 12299,
+   "amount": 2
+  }
+ },
+ {
+  "name": "Mind Stone x3",
+  "id": 3438739677,
+  "classification": "useful",
+  "vanilla_count": 1,
+  "payload": {
+   "type": 0,
+   "id": 12299,
+   "amount": 3
+  }
+ },
+ {
+  "name": "Mind Stone x8",
+  "id": 3438739678,
+  "classification": "useful",
+  "vanilla_count": 1,
+  "payload": {
+   "type": 0,
+   "id": 12299,
+   "amount": 8
+  }
+ },
+ {
+  "name": "Mog's Amulet",
+  "id": 3438739679,
+  "classification": "useful",
+  "vanilla_count": 2,
+  "payload": {
+   "type": 0,
+   "id": 20564,
+   "amount": 1
+  }
+ },
+ {
+  "name": "Moogle Power (1* MP+2)",
+  "id": 3438739891,
+  "classification": "useful",
+  "vanilla_count": 1,
+  "payload": {
+   "type": 0,
+   "id": 49318,
+   "amount": 1
+  }
+ },
+ {
+  "name": "Moogle's Amulet",
+  "id": 3438739680,
+  "classification": "useful",
+  "vanilla_count": 1,
+  "payload": {
+   "type": 0,
+   "id": 12324,
+   "amount": 1
+  }
+ },
+ {
+  "name": "Moon Bracer",
+  "id": 3438739681,
+  "classification": "useful",
+  "vanilla_count": 5,
+  "payload": {
+   "type": 0,
+   "id": 20556,
+   "amount": 1
+  }
+ },
+ {
+  "name": "Mortal Shock",
+  "id": 3438739682,
+  "classification": "useful",
+  "vanilla_count": 2,
+  "payload": {
+   "type": 0,
+   "id": 20541,
+   "amount": 1
+  }
+ },
+ {
+  "name": "Mountain Chocobo Armlet",
+  "id": 3438739683,
+  "classification": "useful",
+  "vanilla_count": 8,
+  "payload": {
+   "type": 0,
+   "id": 20491,
+   "amount": 1
+  }
+ },
+ {
+  "name": "Mug (1* AP+2)",
+  "id": 3438739684,
+  "classification": "progression",
+  "vanilla_count": 2,
+  "payload": {
+   "type": 0,
+   "id": 49261,
+   "amount": 1
+  }
+ },
+ {
+  "name": "Murderous Thrust (1* HP+2)",
+  "id": 3438739685,
+  "classification": "useful",
+  "vanilla_count": 2,
+  "payload": {
+   "type": 0,
+   "id": 49316,
+   "amount": 1
+  }
+ },
+ {
+  "name": "Muscle Belt",
+  "id": 3438739686,
+  "classification": "useful",
+  "vanilla_count": 4,
+  "payload": {
+   "type": 0,
+   "id": 20511,
+   "amount": 1
+  }
+ },
+ {
+  "name": "Mute Shock",
+  "id": 3438739687,
+  "classification": "useful",
+  "vanilla_count": 2,
+  "payload": {
+   "type": 0,
+   "id": 20543,
+   "amount": 1
+  }
+ },
+ {
+  "name": "Mystile",
+  "id": 3438739688,
+  "classification": "useful",
+  "vanilla_count": 5,
+  "payload": {
+   "type": 0,
+   "id": 20521,
+   "amount": 1
+  }
+ },
+ {
+  "name": "Mythril",
+  "id": 3438739689,
+  "classification": "useful",
+  "vanilla_count": 22,
+  "payload": {
+   "type": 0,
+   "id": 12307,
+   "amount": 1
+  }
+ },
+ {
+  "name": "Mythril Armlet",
+  "id": 3438739690,
+  "classification": "useful",
+  "vanilla_count": 7,
+  "payload": {
+   "type": 0,
+   "id": 20489,
+   "amount": 1
+  }
+ },
+ {
+  "name": "Mythril Gloves",
+  "id": 3438739691,
+  "classification": "useful",
+  "vanilla_count": 5,
+  "payload": {
+   "type": 0,
+   "id": 20514,
+   "amount": 1
+  }
+ },
+ {
+  "name": "Mythril Mine Traders Address",
+  "id": 3438739692,
+  "classification": "useful",
+  "vanilla_count": 1,
+  "payload": {
+   "type": 0,
+   "id": 12338,
+   "amount": 1
+  }
+ },
+ {
+  "name": "Mythril Tools",
+  "id": 3438739693,
+  "classification": "useful",
+  "vanilla_count": 1,
+  "payload": {
+   "type": 0,
+   "id": 12347,
+   "amount": 1
+  }
+ },
+ {
+  "name": "Mythril x3",
+  "id": 3438739694,
+  "classification": "useful",
+  "vanilla_count": 6,
+  "payload": {
+   "type": 0,
+   "id": 12307,
+   "amount": 3
+  }
+ },
+ {
+  "name": "Mythril x5",
+  "id": 3438739695,
+  "classification": "useful",
+  "vanilla_count": 1,
+  "payload": {
+   "type": 0,
+   "id": 12307,
+   "amount": 5
+  }
+ },
+ {
+  "name": "Nibel Accessories Address",
+  "id": 3438739696,
+  "classification": "useful",
+  "vanilla_count": 1,
+  "payload": {
+   "type": 0,
+   "id": 12335,
+   "amount": 1
+  }
+ },
+ {
+  "name": "Octaslash (1* ATK+1)",
+  "id": 3438739892,
+  "classification": "useful",
+  "vanilla_count": 1,
+  "payload": {
+   "type": 0,
+   "id": 49302,
+   "amount": 1
+  }
+ },
+ {
+  "name": "Odin Materia",
+  "id": 3438739697,
+  "classification": "useful",
+  "vanilla_count": 1,
+  "payload": {
+   "type": 0,
+   "id": 12318,
+   "amount": 1
+  }
+ },
+ {
+  "name": "Old Lumber",
+  "id": 3438739698,
+  "classification": "useful",
+  "vanilla_count": 1,
+  "payload": {
+   "type": 0,
+   "id": 12353,
+   "amount": 1
+  }
+ },
+ {
+  "name": "Online Shop Duo Address",
+  "id": 3438739699,
+  "classification": "useful",
+  "vanilla_count": 1,
+  "payload": {
+   "type": 0,
+   "id": 12339,
+   "amount": 1
+  }
+ },
+ {
+  "name": "Online Shop Shade Address",
+  "id": 3438739700,
+  "classification": "useful",
+  "vanilla_count": 1,
+  "payload": {
+   "type": 0,
+   "id": 12340,
+   "amount": 1
+  }
+ },
+ {
+  "name": "Osmoga (1* MP+1)",
+  "id": 3438739701,
+  "classification": "useful",
+  "vanilla_count": 5,
+  "payload": {
+   "type": 0,
+   "id": 49200,
+   "amount": 1
+  }
+ },
+ {
+  "name": "Osmose (1* MP+1)",
+  "id": 3438739702,
+  "classification": "useful",
+  "vanilla_count": 2,
+  "payload": {
+   "type": 0,
+   "id": 49199,
+   "amount": 1
+  }
+ },
+ {
+  "name": "Osmose Blade (1* MP+1)",
+  "id": 3438739703,
+  "classification": "useful",
+  "vanilla_count": 1,
+  "payload": {
+   "type": 0,
+   "id": 49258,
+   "amount": 1
+  }
+ },
+ {
+  "name": "Paralyzing Shock",
+  "id": 3438739704,
+  "classification": "useful",
+  "vanilla_count": 2,
+  "payload": {
+   "type": 0,
+   "id": 20545,
+   "amount": 1
+  }
+ },
+ {
+  "name": "Pearl Necklace",
+  "id": 3438739705,
+  "classification": "useful",
+  "vanilla_count": 4,
+  "payload": {
+   "type": 0,
+   "id": 20552,
+   "amount": 1
+  }
+ },
+ {
+  "name": "Phoenix Down",
+  "id": 3438739706,
+  "classification": "filler",
+  "vanilla_count": 27,
+  "payload": {
+   "type": 0,
+   "id": 8199,
+   "amount": 1
+  }
+ },
+ {
+  "name": "Phoenix Down x2",
+  "id": 3438739707,
+  "classification": "filler",
+  "vanilla_count": 1,
+  "payload": {
+   "type": 0,
+   "id": 8199,
+   "amount": 2
+  }
+ },
+ {
+  "name": "Phoenix Materia",
+  "id": 3438739708,
+  "classification": "useful",
+  "vanilla_count": 1,
+  "payload": {
+   "type": 0,
+   "id": 12319,
+   "amount": 1
+  }
+ },
+ {
+  "name": "Platinum Bangle",
+  "id": 3438739709,
+  "classification": "useful",
+  "vanilla_count": 7,
+  "payload": {
+   "type": 0,
+   "id": 20484,
+   "amount": 1
+  }
+ },
+ {
+  "name": "Poison (1* MAG+1)",
+  "id": 3438739710,
+  "classification": "useful",
+  "vanilla_count": 3,
+  "payload": {
+   "type": 0,
+   "id": 49201,
+   "amount": 1
+  }
+ },
+ {
+  "name": "Poison Aerial (1* ATK+1)",
+  "id": 3438739711,
+  "classification": "useful",
+  "vanilla_count": 1,
+  "payload": {
+   "type": 0,
+   "id": 49229,
+   "amount": 1
+  }
+ },
+ {
+  "name": "Poison Blade (1* ATK+0)",
+  "id": 3438739712,
+  "classification": "useful",
+  "vanilla_count": 4,
+  "payload": {
+   "type": 0,
+   "id": 49241,
+   "amount": 1
+  }
+ },
+ {
+  "name": "Poison Twister (1* ATK+1)",
+  "id": 3438739713,
+  "classification": "useful",
+  "vanilla_count": 2,
+  "payload": {
+   "type": 0,
+   "id": 49234,
+   "amount": 1
+  }
+ },
+ {
+  "name": "Potion",
+  "id": 3438739714,
+  "classification": "filler",
+  "vanilla_count": 16,
+  "payload": {
+   "type": 0,
+   "id": 8192,
+   "amount": 1
+  }
+ },
+ {
+  "name": "Power Attack (1* ATK+0)",
+  "id": 3438739716,
+  "classification": "useful",
+  "vanilla_count": 2,
+  "payload": {
+   "type": 0,
+   "id": 49237,
+   "amount": 1
+  }
+ },
+ {
+  "name": "Power Drain (1* HP+1)",
+  "id": 3438739893,
+  "classification": "useful",
+  "vanilla_count": 1,
+  "payload": {
+   "type": 0,
+   "id": 49256,
+   "amount": 1
+  }
+ },
+ {
+  "name": "Power Stone x2",
+  "id": 3438739717,
+  "classification": "useful",
+  "vanilla_count": 1,
+  "payload": {
+   "type": 0,
+   "id": 12296,
+   "amount": 2
+  }
+ },
+ {
+  "name": "Power Suit",
+  "id": 3438739718,
+  "classification": "useful",
+  "vanilla_count": 3,
+  "payload": {
+   "type": 0,
+   "id": 20569,
+   "amount": 1
+  }
+ },
+ {
+  "name": "Power Wrist",
+  "id": 3438739719,
+  "classification": "useful",
+  "vanilla_count": 4,
+  "payload": {
+   "type": 0,
+   "id": 20496,
+   "amount": 1
+  }
+ },
+ {
+  "name": "Precious Watch",
+  "id": 3438739720,
+  "classification": "useful",
+  "vanilla_count": 2,
+  "payload": {
+   "type": 0,
+   "id": 20562,
+   "amount": 1
+  }
+ },
+ {
+  "name": "Premium Tires",
+  "id": 3438739721,
+  "classification": "useful",
+  "vanilla_count": 1,
+  "payload": {
+   "type": 0,
+   "id": 12346,
+   "amount": 1
+  }
+ },
+ {
+  "name": "Progressive Accessory Slot",
+  "id": 3438739874,
+  "classification": "useful",
+  "vanilla_count": 2,
+  "payload": {
+   "type": "accessory_slot"
+  }
+ },
+ {
+  "name": "Protect Ring",
+  "id": 3438739722,
+  "classification": "useful",
+  "vanilla_count": 5,
+  "payload": {
+   "type": 0,
+   "id": 20558,
+   "amount": 1
+  }
+ },
+ {
+  "name": "Quake (1* MAG+1)",
+  "id": 3438739723,
+  "classification": "useful",
+  "vanilla_count": 5,
+  "payload": {
+   "type": 0,
+   "id": 49219,
+   "amount": 1
+  }
+ },
+ {
+  "name": "Quake (5* MAG+45)",
+  "id": 3438739724,
+  "classification": "useful",
+  "vanilla_count": 1,
+  "payload": {
+   "type": 0,
+   "id": 49159,
+   "amount": 1
+  }
+ },
+ {
+  "name": "Rebirth Flame (1* SPR+1)",
+  "id": 3438739894,
+  "classification": "useful",
+  "vanilla_count": 1,
+  "payload": {
+   "type": 0,
+   "id": 49312,
+   "amount": 1
+  }
+ },
+ {
+  "name": "Rebirth Flame (5* MAG+80)",
+  "id": 3438739725,
+  "classification": "useful",
+  "vanilla_count": 1,
+  "payload": {
+   "type": 0,
+   "id": 49155,
+   "amount": 1
+  }
+ },
+ {
+  "name": "Regen (1* SPR+1)",
+  "id": 3438739726,
+  "classification": "useful",
+  "vanilla_count": 4,
+  "payload": {
+   "type": 0,
+   "id": 49190,
+   "amount": 1
+  }
+ },
+ {
+  "name": "Remedy",
+  "id": 3438739727,
+  "classification": "filler",
+  "vanilla_count": 16,
+  "payload": {
+   "type": 0,
+   "id": 8197,
+   "amount": 1
+  }
+ },
+ {
+  "name": "Research Dept. QMC Address",
+  "id": 3438739728,
+  "classification": "useful",
+  "vanilla_count": 1,
+  "payload": {
+   "type": 0,
+   "id": 12330,
+   "amount": 1
+  }
+ },
+ {
+  "name": "Research Dept. QMC+ Address",
+  "id": 3438739729,
+  "classification": "useful",
+  "vanilla_count": 1,
+  "payload": {
+   "type": 0,
+   "id": 12331,
+   "amount": 1
+  }
+ },
+ {
+  "name": "Ribbon",
+  "id": 3438739730,
+  "classification": "useful",
+  "vanilla_count": 1,
+  "payload": {
+   "type": 0,
+   "id": 20553,
+   "amount": 1
+  }
+ },
+ {
+  "name": "River Chocobo Armlet",
+  "id": 3438739731,
+  "classification": "useful",
+  "vanilla_count": 9,
+  "payload": {
+   "type": 0,
+   "id": 20492,
+   "amount": 1
+  }
+ },
+ {
+  "name": "Royal Crown",
+  "id": 3438739732,
+  "classification": "useful",
+  "vanilla_count": 6,
+  "payload": {
+   "type": 0,
+   "id": 20506,
+   "amount": 1
+  }
+ },
+ {
+  "name": "Rune Armlet",
+  "id": 3438739733,
+  "classification": "useful",
+  "vanilla_count": 7,
+  "payload": {
+   "type": 0,
+   "id": 20488,
+   "amount": 1
+  }
+ },
+ {
+  "name": "Rush Assault (1* ATK+1)",
+  "id": 3438739895,
+  "classification": "useful",
+  "vanilla_count": 1,
+  "payload": {
+   "type": 0,
+   "id": 49303,
+   "amount": 1
+  }
+ },
+ {
+  "name": "SP Barrier (1* VIT+1)",
+  "id": 3438739734,
+  "classification": "useful",
+  "vanilla_count": 2,
+  "payload": {
+   "type": 0,
+   "id": 49300,
+   "amount": 1
+  }
+ },
+ {
+  "name": "SP Master (1* HP+1)",
+  "id": 3438739735,
+  "classification": "useful",
+  "vanilla_count": 1,
+  "payload": {
+   "type": 0,
+   "id": 49301,
+   "amount": 1
+  }
+ },
+ {
+  "name": "SP Turbo (1* HP+1)",
+  "id": 3438739736,
+  "classification": "useful",
+  "vanilla_count": 1,
+  "payload": {
+   "type": 0,
+   "id": 49299,
+   "amount": 1
+  }
+ },
+ {
+  "name": "SP Turbo Attack (1* ATK+1)",
+  "id": 3438739737,
+  "classification": "useful",
+  "vanilla_count": 3,
+  "payload": {
+   "type": 0,
+   "id": 49298,
+   "amount": 1
+  }
+ },
+ {
+  "name": "SP Turbo Magic (1* MAG+1)",
+  "id": 3438739738,
+  "classification": "useful",
+  "vanilla_count": 2,
+  "payload": {
+   "type": 0,
+   "id": 49297,
+   "amount": 1
+  }
+ },
+ {
+  "name": "SPR Mako Stone",
+  "id": 3438739739,
+  "classification": "useful",
+  "vanilla_count": 1,
+  "payload": {
+   "type": 0,
+   "id": 12291,
+   "amount": 1
+  }
+ },
+ {
+  "name": "SPR Up (1* SPR+1)",
+  "id": 3438739740,
+  "classification": "useful",
+  "vanilla_count": 2,
+  "payload": {
+   "type": 0,
+   "id": 49286,
+   "amount": 1
+  }
+ },
+ {
+  "name": "SPR Up+ (1* SPR+2)",
+  "id": 3438739741,
+  "classification": "useful",
+  "vanilla_count": 2,
+  "payload": {
+   "type": 0,
+   "id": 49287,
+   "amount": 1
+  }
+ },
+ {
+  "name": "SPR Up++ (1* SPR+3)",
+  "id": 3438739742,
+  "classification": "useful",
+  "vanilla_count": 4,
+  "payload": {
+   "type": 0,
+   "id": 49288,
+   "amount": 1
+  }
+ },
+ {
+  "name": "Sabbath Materia",
+  "id": 3438739743,
+  "classification": "progression",
+  "vanilla_count": 1,
+  "payload": {
+   "type": 0,
+   "id": 12377,
+   "amount": 1
+  }
+ },
+ {
+  "name": "Safety Bit",
+  "id": 3438739744,
+  "classification": "useful",
+  "vanilla_count": 3,
+  "payload": {
+   "type": 0,
+   "id": 20546,
+   "amount": 1
+  }
+ },
+ {
+  "name": "Sea Chocobo Armlet",
+  "id": 3438739745,
+  "classification": "useful",
+  "vanilla_count": 6,
+  "payload": {
+   "type": 0,
+   "id": 20493,
+   "amount": 1
+  }
+ },
+ {
+  "name": "Sec.5 Materia Shop Address",
+  "id": 3438739746,
+  "classification": "useful",
+  "vanilla_count": 1,
+  "payload": {
+   "type": 0,
+   "id": 12327,
+   "amount": 1
+  }
+ },
+ {
+  "name": "Sec.6 Accessory Shop Address",
+  "id": 3438739897,
+  "classification": "useful",
+  "vanilla_count": 1,
+  "payload": {
+   "type": 0,
+   "id": 12328,
+   "amount": 1
+  }
+ },
+ {
+  "name": "Sec.7 Shop Address",
+  "id": 3438739747,
+  "classification": "useful",
+  "vanilla_count": 1,
+  "payload": {
+   "type": 0,
+   "id": 12329,
+   "amount": 1
+  }
+ },
+ {
+  "name": "Sec.8 Materia Shop Address",
+  "id": 3438739748,
+  "classification": "useful",
+  "vanilla_count": 1,
+  "payload": {
+   "type": 0,
+   "id": 12326,
+   "amount": 1
+  }
+ },
+ {
+  "name": "Shining Bracer",
+  "id": 3438739749,
+  "classification": "useful",
+  "vanilla_count": 6,
+  "payload": {
+   "type": 0,
+   "id": 20557,
+   "amount": 1
+  }
+ },
+ {
+  "name": "Shinra Alpha",
+  "id": 3438739750,
+  "classification": "useful",
+  "vanilla_count": 2,
+  "payload": {
+   "type": 0,
+   "id": 20500,
+   "amount": 1
+  }
+ },
+ {
+  "name": "Shinra Beta",
+  "id": 3438739751,
+  "classification": "useful",
+  "vanilla_count": 5,
+  "payload": {
+   "type": 0,
+   "id": 20501,
+   "amount": 1
+  }
+ },
+ {
+  "name": "Shinra Beta+",
+  "id": 3438739752,
+  "classification": "useful",
+  "vanilla_count": 4,
+  "payload": {
+   "type": 0,
+   "id": 20502,
+   "amount": 1
+  }
+ },
+ {
+  "name": "Shinra Ceramic",
+  "id": 3438739753,
+  "classification": "useful",
+  "vanilla_count": 1,
+  "payload": {
+   "type": 0,
+   "id": 12349,
+   "amount": 1
+  }
+ },
+ {
+  "name": "Shinra Lunch Cart Specs",
+  "id": 3438739754,
+  "classification": "useful",
+  "vanilla_count": 1,
+  "payload": {
+   "type": 0,
+   "id": 12348,
+   "amount": 1
+  }
+ },
+ {
+  "name": "Shinra Solder",
+  "id": 3438739755,
+  "classification": "useful",
+  "vanilla_count": 1,
+  "payload": {
+   "type": 0,
+   "id": 12351,
+   "amount": 1
+  }
+ },
+ {
+  "name": "Shinra Treads",
+  "id": 3438739756,
+  "classification": "useful",
+  "vanilla_count": 1,
+  "payload": {
+   "type": 0,
+   "id": 12350,
+   "amount": 1
+  }
+ },
+ {
+  "name": "Silence (1* MAG+1)",
+  "id": 3438739757,
+  "classification": "useful",
+  "vanilla_count": 5,
+  "payload": {
+   "type": 0,
+   "id": 49202,
+   "amount": 1
+  }
+ },
+ {
+  "name": "Silence Aerial (1* ATK+1)",
+  "id": 3438739758,
+  "classification": "useful",
+  "vanilla_count": 1,
+  "payload": {
+   "type": 0,
+   "id": 49230,
+   "amount": 1
+  }
+ },
+ {
+  "name": "Silence Blade (1* ATK+0)",
+  "id": 3438739759,
+  "classification": "useful",
+  "vanilla_count": 3,
+  "payload": {
+   "type": 0,
+   "id": 49242,
+   "amount": 1
+  }
+ },
+ {
+  "name": "Silver Armlet",
+  "id": 3438739760,
+  "classification": "useful",
+  "vanilla_count": 12,
+  "payload": {
+   "type": 0,
+   "id": 20486,
+   "amount": 1
+  }
+ },
+ {
+  "name": "Sky Chocobo Armlet",
+  "id": 3438739761,
+  "classification": "useful",
+  "vanilla_count": 7,
+  "payload": {
+   "type": 0,
+   "id": 20494,
+   "amount": 1
+  }
+ },
+ {
+  "name": "Smart Consumer (1* AP+5)",
+  "id": 3438739762,
+  "classification": "useful",
+  "vanilla_count": 2,
+  "payload": {
+   "type": 0,
+   "id": 49296,
+   "amount": 1
+  }
+ },
+ {
+  "name": "Sniper Eye",
+  "id": 3438739763,
+  "classification": "useful",
+  "vanilla_count": 3,
+  "payload": {
+   "type": 0,
+   "id": 20561,
+   "amount": 1
+  }
+ },
+ {
+  "name": "Snow Armlet",
+  "id": 3438739764,
+  "classification": "useful",
+  "vanilla_count": 5,
+  "payload": {
+   "type": 0,
+   "id": 20531,
+   "amount": 1
+  }
+ },
+ {
+  "name": "Soma",
+  "id": 3438739765,
+  "classification": "filler",
+  "vanilla_count": 24,
+  "payload": {
+   "type": 0,
+   "id": 8196,
+   "amount": 1
+  }
+ },
+ {
+  "name": "Soma x2",
+  "id": 3438739766,
+  "classification": "filler",
+  "vanilla_count": 1,
+  "payload": {
+   "type": 0,
+   "id": 8196,
+   "amount": 2
+  }
+ },
+ {
+  "name": "Soul of Thamasa",
+  "id": 3438739767,
+  "classification": "useful",
+  "vanilla_count": 2,
+  "payload": {
+   "type": 0,
+   "id": 20575,
+   "amount": 1
+  }
+ },
+ {
+  "name": "Sprint Shoes",
+  "id": 3438739768,
+  "classification": "useful",
+  "vanilla_count": 8,
+  "payload": {
+   "type": 0,
+   "id": 20551,
+   "amount": 1
+  }
+ },
+ {
+  "name": "Star Materia",
+  "id": 3438739769,
+  "classification": "progression",
+  "vanilla_count": 1,
+  "payload": {
+   "type": 0,
+   "id": 12374,
+   "amount": 1
+  }
+ },
+ {
+  "name": "Star Pendant",
+  "id": 3438739770,
+  "classification": "useful",
+  "vanilla_count": 5,
+  "payload": {
+   "type": 0,
+   "id": 20547,
+   "amount": 1
+  }
+ },
+ {
+  "name": "Status Strike (1* MAG+5)",
+  "id": 3438739771,
+  "classification": "useful",
+  "vanilla_count": 4,
+  "payload": {
+   "type": 0,
+   "id": 49290,
+   "amount": 1
+  }
+ },
+ {
+  "name": "Status Ward (1* SPR+5)",
+  "id": 3438739772,
+  "classification": "useful",
+  "vanilla_count": 4,
+  "payload": {
+   "type": 0,
+   "id": 49291,
+   "amount": 1
+  }
+ },
+ {
+  "name": "Steal",
+  "id": 3438739773,
+  "classification": "progression",
+  "vanilla_count": 1,
+  "payload": {
+   "type": 0,
+   "id": 16467,
+   "amount": 1
+  }
+ },
+ {
+  "name": "Steal (1* AP+1)",
+  "id": 3438739774,
+  "classification": "progression",
+  "vanilla_count": 2,
+  "payload": {
+   "type": 0,
+   "id": 49260,
+   "amount": 1
+  }
+ },
+ {
+  "name": "Stop (1* MAG+1)",
+  "id": 3438739775,
+  "classification": "useful",
+  "vanilla_count": 3,
+  "payload": {
+   "type": 0,
+   "id": 49203,
+   "amount": 1
+  }
+ },
+ {
+  "name": "Stop Blade (1* ATK+0)",
+  "id": 3438739776,
+  "classification": "useful",
+  "vanilla_count": 3,
+  "payload": {
+   "type": 0,
+   "id": 49243,
+   "amount": 1
+  }
+ },
+ {
+  "name": "Stop Blade (5* ATK+60)",
+  "id": 3438739777,
+  "classification": "useful",
+  "vanilla_count": 1,
+  "payload": {
+   "type": 0,
+   "id": 49166,
+   "amount": 1
+  }
+ },
+ {
+  "name": "Stop Twister (1* ATK+1)",
+  "id": 3438739778,
+  "classification": "useful",
+  "vanilla_count": 3,
+  "payload": {
+   "type": 0,
+   "id": 49235,
+   "amount": 1
+  }
+ },
+ {
+  "name": "Super Ribbon",
+  "id": 3438739779,
+  "classification": "useful",
+  "vanilla_count": 1,
+  "payload": {
+   "type": 0,
+   "id": 20554,
+   "amount": 1
+  }
+ },
+ {
+  "name": "System Shock",
+  "id": 3438739780,
+  "classification": "useful",
+  "vanilla_count": 2,
+  "payload": {
+   "type": 0,
+   "id": 20544,
+   "amount": 1
+  }
+ },
+ {
+  "name": "Talisman",
+  "id": 3438739781,
+  "classification": "useful",
+  "vanilla_count": 1,
+  "payload": {
+   "type": 0,
+   "id": 20508,
+   "amount": 1
+  }
+ },
+ {
+  "name": "Tarot Cards",
+  "id": 3438739782,
+  "classification": "useful",
+  "vanilla_count": 5,
+  "payload": {
+   "type": 0,
+   "id": 20509,
+   "amount": 1
+  }
+ },
+ {
+  "name": "The Happy Turtle Address",
+  "id": 3438739783,
+  "classification": "useful",
+  "vanilla_count": 1,
+  "payload": {
+   "type": 0,
+   "id": 12332,
+   "amount": 1
+  }
+ },
+ {
+  "name": "Thundaga (1* MAG+1)",
+  "id": 3438739784,
+  "classification": "useful",
+  "vanilla_count": 3,
+  "payload": {
+   "type": 0,
+   "id": 49185,
+   "amount": 1
+  }
+ },
+ {
+  "name": "Thundaga Blade (1* MAG+2)",
+  "id": 3438739785,
+  "classification": "useful",
+  "vanilla_count": 4,
+  "payload": {
+   "type": 0,
+   "id": 49254,
+   "amount": 1
+  }
+ },
+ {
+  "name": "Thundara (1* MAG+1)",
+  "id": 3438739786,
+  "classification": "useful",
+  "vanilla_count": 3,
+  "payload": {
+   "type": 0,
+   "id": 49182,
+   "amount": 1
+  }
+ },
+ {
+  "name": "Thundara Blade (1* MAG+1)",
+  "id": 3438739787,
+  "classification": "useful",
+  "vanilla_count": 1,
+  "payload": {
+   "type": 0,
+   "id": 49248,
+   "amount": 1
+  }
+ },
+ {
+  "name": "Thunder",
+  "id": 3438739788,
+  "classification": "useful",
+  "vanilla_count": 1,
+  "payload": {
+   "type": 0,
+   "id": 16386,
+   "amount": 1
+  }
+ },
+ {
+  "name": "Thunder (1* MAG+0)",
+  "id": 3438739789,
+  "classification": "useful",
+  "vanilla_count": 6,
+  "payload": {
+   "type": 0,
+   "id": 49179,
+   "amount": 1
+  }
+ },
+ {
+  "name": "Thunder (2* MAG+3)",
+  "id": 3438739790,
+  "classification": "useful",
+  "vanilla_count": 1,
+  "payload": {
+   "type": 0,
+   "id": 49168,
+   "amount": 1
+  }
+ },
+ {
+  "name": "Thunder Armlet",
+  "id": 3438739791,
+  "classification": "useful",
+  "vanilla_count": 2,
+  "payload": {
+   "type": 0,
+   "id": 20534,
+   "amount": 1
+  }
+ },
+ {
+  "name": "Tissue",
+  "id": 3438739792,
+  "classification": "useful",
+  "vanilla_count": 1,
+  "payload": {
+   "type": 0,
+   "id": 12313,
+   "amount": 1
+  }
+ },
+ {
+  "name": "Titanium Bangle",
+  "id": 3438739793,
+  "classification": "useful",
+  "vanilla_count": 3,
+  "payload": {
+   "type": 0,
+   "id": 20482,
+   "amount": 1
+  }
+ },
+ {
+  "name": "Tonberry's Knife",
+  "id": 3438739794,
+  "classification": "useful",
+  "vanilla_count": 1,
+  "payload": {
+   "type": 0,
+   "id": 12322,
+   "amount": 1
+  }
+ },
+ {
+  "name": "Tri-Fire (1* MP+2)",
+  "id": 3438739795,
+  "classification": "useful",
+  "vanilla_count": 5,
+  "payload": {
+   "type": 0,
+   "id": 49221,
+   "amount": 1
+  }
+ },
+ {
+  "name": "Tri-Thundaga (1* MP+2)",
+  "id": 3438739796,
+  "classification": "useful",
+  "vanilla_count": 4,
+  "payload": {
+   "type": 0,
+   "id": 49220,
+   "amount": 1
+  }
+ },
+ {
+  "name": "Twisted Headband",
+  "id": 3438739797,
+  "classification": "useful",
+  "vanilla_count": 4,
+  "payload": {
+   "type": 0,
+   "id": 20560,
+   "amount": 1
+  }
+ },
+ {
+  "name": "Ultima (1* MP+2)",
+  "id": 3438739798,
+  "classification": "useful",
+  "vanilla_count": 6,
+  "payload": {
+   "type": 0,
+   "id": 49225,
+   "amount": 1
+  }
+ },
+ {
+  "name": "Used Tools",
+  "id": 3438739799,
+  "classification": "useful",
+  "vanilla_count": 1,
+  "payload": {
+   "type": 0,
+   "id": 12355,
+   "amount": 1
+  }
+ },
+ {
+  "name": "VIT Mako Stone",
+  "id": 3438739800,
+  "classification": "useful",
+  "vanilla_count": 1,
+  "payload": {
+   "type": 0,
+   "id": 12289,
+   "amount": 1
+  }
+ },
+ {
+  "name": "VIT Up (1* VIT+1)",
+  "id": 3438739801,
+  "classification": "useful",
+  "vanilla_count": 2,
+  "payload": {
+   "type": 0,
+   "id": 49280,
+   "amount": 1
+  }
+ },
+ {
+  "name": "VIT Up+ (1* VIT+2)",
+  "id": 3438739802,
+  "classification": "useful",
+  "vanilla_count": 1,
+  "payload": {
+   "type": 0,
+   "id": 49281,
+   "amount": 1
+  }
+ },
+ {
+  "name": "VIT Up++ (1* VIT+3)",
+  "id": 3438739803,
+  "classification": "useful",
+  "vanilla_count": 3,
+  "payload": {
+   "type": 0,
+   "id": 49282,
+   "amount": 1
+  }
+ },
+ {
+  "name": "Venom Shock",
+  "id": 3438739804,
+  "classification": "useful",
+  "vanilla_count": 3,
+  "payload": {
+   "type": 0,
+   "id": 20542,
+   "amount": 1
+  }
+ },
+ {
+  "name": "Vital Slash (1* ATK+0)",
+  "id": 3438739805,
+  "classification": "useful",
+  "vanilla_count": 4,
+  "payload": {
+   "type": 0,
+   "id": 49238,
+   "amount": 1
+  }
+ },
+ {
+  "name": "Vital Slash (5* ATK+15)",
+  "id": 3438739806,
+  "classification": "useful",
+  "vanilla_count": 1,
+  "payload": {
+   "type": 0,
+   "id": 49165,
+   "amount": 1
+  }
+ },
+ {
+  "name": "Wall (1* SPR+0)",
+  "id": 3438739807,
+  "classification": "useful",
+  "vanilla_count": 11,
+  "payload": {
+   "type": 0,
+   "id": 49195,
+   "amount": 1
+  }
+ },
+ {
+  "name": "Wall (5* MAG+60)",
+  "id": 3438739808,
+  "classification": "useful",
+  "vanilla_count": 1,
+  "payload": {
+   "type": 0,
+   "id": 49157,
+   "amount": 1
+  }
+ },
+ {
+  "name": "Walnut Wood",
+  "id": 3438739809,
+  "classification": "useful",
+  "vanilla_count": 1,
+  "payload": {
+   "type": 0,
+   "id": 12345,
+   "amount": 1
+  }
+ },
+ {
+  "name": "White Cape",
+  "id": 3438739810,
+  "classification": "useful",
+  "vanilla_count": 5,
+  "payload": {
+   "type": 0,
+   "id": 20548,
+   "amount": 1
+  }
+ },
+ {
+  "name": "Wizard Bracelet",
+  "id": 3438739811,
+  "classification": "useful",
+  "vanilla_count": 4,
+  "payload": {
+   "type": 0,
+   "id": 20538,
+   "amount": 1
+  }
+ },
+ {
+  "name": "Worn Tires",
+  "id": 3438739812,
+  "classification": "useful",
+  "vanilla_count": 1,
+  "payload": {
+   "type": 0,
+   "id": 12354,
+   "amount": 1
+  }
+ },
+ {
+  "name": "Wrist Band",
+  "id": 3438739813,
+  "classification": "useful",
+  "vanilla_count": 2,
+  "payload": {
+   "type": 0,
+   "id": 20495,
+   "amount": 1
+  }
+ },
+ {
+  "name": "Wutai Secret Shop Address",
+  "id": 3438739814,
+  "classification": "useful",
+  "vanilla_count": 1,
+  "payload": {
+   "type": 0,
+   "id": 12333,
+   "amount": 1
+  }
+ },
+ {
+  "name": "X-Potion",
+  "id": 3438739815,
+  "classification": "filler",
+  "vanilla_count": 66,
+  "payload": {
+   "type": 0,
+   "id": 8194,
+   "amount": 1
+  }
+ },
+ {
+  "name": "X-Potion x5",
+  "id": 3438739816,
+  "classification": "filler",
+  "vanilla_count": 1,
+  "payload": {
+   "type": 0,
+   "id": 8194,
+   "amount": 5
+  }
+ },
+ {
+  "name": "Zantetsuken (1* VIT+1)",
+  "id": 3438739896,
+  "classification": "useful",
+  "vanilla_count": 1,
+  "payload": {
+   "type": 0,
+   "id": 49311,
+   "amount": 1
+  }
+ },
+ {
+  "name": "Zantetsuken (5* MAG+60)",
+  "id": 3438739817,
+  "classification": "useful",
+  "vanilla_count": 1,
+  "payload": {
+   "type": 0,
+   "id": 49154,
+   "amount": 1
+  }
+ },
+ {
+  "name": "Zeio Nut",
+  "id": 3438739818,
+  "classification": "useful",
+  "vanilla_count": 5,
+  "payload": {
+   "type": 0,
+   "id": 12311,
+   "amount": 1
+  }
+ },
+ {
+  "name": "Ziedrich",
+  "id": 3438739819,
+  "classification": "useful",
+  "vanilla_count": 1,
+  "payload": {
+   "type": 0,
+   "id": 20581,
+   "amount": 1
+  }
+ },
+ {
+  "name": "Genji Helm",
+  "id": 3438739875,
+  "classification": "useful",
+  "vanilla_count": 1,
+  "payload": {
+   "type": 0,
+   "id": 20582,
+   "amount": 1
+  }
+ },
+ {
+  "name": "Genji Armor",
+  "id": 3438739876,
+  "classification": "useful",
+  "vanilla_count": 1,
+  "payload": {
+   "type": 0,
+   "id": 20583,
+   "amount": 1
+  }
+ },
+ {
+  "name": "Genji Shield",
+  "id": 3438739877,
+  "classification": "useful",
+  "vanilla_count": 1,
+  "payload": {
+   "type": 0,
+   "id": 20584,
+   "amount": 1
+  }
+ },
+ {
+  "name": "Magic Pot Tricks",
+  "id": 3438739898,
+  "classification": "useful",
+  "vanilla_count": 0,
+  "payload": {
+   "type": 0,
+   "id": 12325,
+   "amount": 1
+  }
+ },
+ {
+  "name": "Proficiency Boost: Perfect Guard",
+  "id": 3438739906,
+  "classification": "useful",
+  "vanilla_count": 0,
+  "payload": {
+   "type": "proficiency",
+   "part": 0,
+   "fraction": 0.25
+  }
+ },
+ {
+  "name": "Proficiency Boost: Command Kill",
+  "id": 3438739907,
+  "classification": "useful",
+  "vanilla_count": 0,
+  "payload": {
+   "type": "proficiency",
+   "part": 1,
+   "fraction": 0.25
+  }
+ },
+ {
+  "name": "Proficiency Boost: Strong Attack Kill",
+  "id": 3438739908,
+  "classification": "useful",
+  "vanilla_count": 0,
+  "payload": {
+   "type": "proficiency",
+   "part": 2,
+   "fraction": 0.25
+  }
+ },
+ {
+  "name": "DMW: Sephiroth",
+  "id": 3438739899,
+  "classification": "useful",
+  "vanilla_count": 0,
+  "payload": {
+   "type": "dmw_slot",
+   "slot": 0
+  }
+ },
+ {
+  "name": "DMW: Angeal",
+  "id": 3438739900,
+  "classification": "useful",
+  "vanilla_count": 0,
+  "payload": {
+   "type": "dmw_slot",
+   "slot": 1
+  }
+ },
+ {
+  "name": "DMW: Tseng",
+  "id": 3438739901,
+  "classification": "useful",
+  "vanilla_count": 0,
+  "payload": {
+   "type": "dmw_slot",
+   "slot": 2
+  }
+ },
+ {
+  "name": "DMW: Cloud",
+  "id": 3438739902,
+  "classification": "useful",
+  "vanilla_count": 0,
+  "payload": {
+   "type": "dmw_slot",
+   "slot": 3
+  }
+ },
+ {
+  "name": "DMW: Aerith",
+  "id": 3438739903,
+  "classification": "useful",
+  "vanilla_count": 0,
+  "payload": {
+   "type": "dmw_slot",
+   "slot": 4
+  }
+ },
+ {
+  "name": "DMW: Cissnei",
+  "id": 3438739904,
+  "classification": "useful",
+  "vanilla_count": 0,
+  "payload": {
+   "type": "dmw_slot",
+   "slot": 5
+  }
+ },
+ {
+  "name": "DMW: Genesis",
+  "id": 3438739905,
+  "classification": "useful",
+  "vanilla_count": 0,
+  "payload": {
+   "type": "dmw_slot",
+   "slot": 6
+  }
+ },
+ {
+  "name": "Mission Set M1-1",
+  "id": 3438739820,
+  "classification": "progression",
+  "vanilla_count": 0,
+  "payload": {
+   "type": "mission_set",
+   "set": "M1-1",
+   "first_mission": 200
+  }
+ },
+ {
+  "name": "Mission Set M1-2",
+  "id": 3438739821,
+  "classification": "progression",
+  "vanilla_count": 0,
+  "payload": {
+   "type": "mission_set",
+   "set": "M1-2",
+   "first_mission": 51
+  }
+ },
+ {
+  "name": "Mission Set M1-3",
+  "id": 3438739822,
+  "classification": "progression",
+  "vanilla_count": 0,
+  "payload": {
+   "type": "mission_set",
+   "set": "M1-3",
+   "first_mission": 242
+  }
+ },
+ {
+  "name": "Mission Set M1-4",
+  "id": 3438739823,
+  "classification": "progression",
+  "vanilla_count": 0,
+  "payload": {
+   "type": "mission_set",
+   "set": "M1-4",
+   "first_mission": 18
+  }
+ },
+ {
+  "name": "Mission Set M1-5",
+  "id": 3438739824,
+  "classification": "progression",
+  "vanilla_count": 0,
+  "payload": {
+   "type": "mission_set",
+   "set": "M1-5",
+   "first_mission": 130
+  }
+ },
+ {
+  "name": "Mission Set M2-1",
+  "id": 3438739825,
+  "classification": "progression",
+  "vanilla_count": 0,
+  "payload": {
+   "type": "mission_set",
+   "set": "M2-1",
+   "first_mission": 91
+  }
+ },
+ {
+  "name": "Mission Set M2-2",
+  "id": 3438739826,
+  "classification": "progression",
+  "vanilla_count": 0,
+  "payload": {
+   "type": "mission_set",
+   "set": "M2-2",
+   "first_mission": 241
+  }
+ },
+ {
+  "name": "Mission Set M2-3",
+  "id": 3438739827,
+  "classification": "progression",
+  "vanilla_count": 0,
+  "payload": {
+   "type": "mission_set",
+   "set": "M2-3",
+   "first_mission": 29
+  }
+ },
+ {
+  "name": "Mission Set M2-4",
+  "id": 3438739828,
+  "classification": "progression",
+  "vanilla_count": 0,
+  "payload": {
+   "type": "mission_set",
+   "set": "M2-4",
+   "first_mission": 204
+  }
+ },
+ {
+  "name": "Mission Set M2-5",
+  "id": 3438739829,
+  "classification": "progression",
+  "vanilla_count": 0,
+  "payload": {
+   "type": "mission_set",
+   "set": "M2-5",
+   "first_mission": 189
+  }
+ },
+ {
+  "name": "Mission Set M3-1",
+  "id": 3438739830,
+  "classification": "progression",
+  "vanilla_count": 0,
+  "payload": {
+   "type": "mission_set",
+   "set": "M3-1",
+   "first_mission": 220
+  }
+ },
+ {
+  "name": "Mission Set M3-2",
+  "id": 3438739831,
+  "classification": "progression",
+  "vanilla_count": 0,
+  "payload": {
+   "type": "mission_set",
+   "set": "M3-2",
+   "first_mission": 251
+  }
+ },
+ {
+  "name": "Mission Set M3-3",
+  "id": 3438739832,
+  "classification": "progression",
+  "vanilla_count": 0,
+  "payload": {
+   "type": "mission_set",
+   "set": "M3-3",
+   "first_mission": 46
+  }
+ },
+ {
+  "name": "Mission Set M3-4",
+  "id": 3438739833,
+  "classification": "progression",
+  "vanilla_count": 0,
+  "payload": {
+   "type": "mission_set",
+   "set": "M3-4",
+   "first_mission": 31
+  }
+ },
+ {
+  "name": "Mission Set M3-5",
+  "id": 3438739834,
+  "classification": "progression",
+  "vanilla_count": 0,
+  "payload": {
+   "type": "mission_set",
+   "set": "M3-5",
+   "first_mission": 37
+  }
+ },
+ {
+  "name": "Mission Set M4-1",
+  "id": 3438739835,
+  "classification": "progression",
+  "vanilla_count": 0,
+  "payload": {
+   "type": "mission_set",
+   "set": "M4-1",
+   "first_mission": 210
+  }
+ },
+ {
+  "name": "Mission Set M4-2",
+  "id": 3438739836,
+  "classification": "progression",
+  "vanilla_count": 0,
+  "payload": {
+   "type": "mission_set",
+   "set": "M4-2",
+   "first_mission": 153
+  }
+ },
+ {
+  "name": "Mission Set M4-3",
+  "id": 3438739837,
+  "classification": "progression",
+  "vanilla_count": 0,
+  "payload": {
+   "type": "mission_set",
+   "set": "M4-3",
+   "first_mission": 102
+  }
+ },
+ {
+  "name": "Mission Set M4-4",
+  "id": 3438739838,
+  "classification": "progression",
+  "vanilla_count": 0,
+  "payload": {
+   "type": "mission_set",
+   "set": "M4-4",
+   "first_mission": 65
+  }
+ },
+ {
+  "name": "Mission Set M4-5",
+  "id": 3438739839,
+  "classification": "progression",
+  "vanilla_count": 0,
+  "payload": {
+   "type": "mission_set",
+   "set": "M4-5",
+   "first_mission": 197
+  }
+ },
+ {
+  "name": "Mission Set M5-1",
+  "id": 3438739840,
+  "classification": "progression",
+  "vanilla_count": 0,
+  "payload": {
+   "type": "mission_set",
+   "set": "M5-1",
+   "first_mission": 261
+  }
+ },
+ {
+  "name": "Mission Set M5-2",
+  "id": 3438739841,
+  "classification": "progression",
+  "vanilla_count": 0,
+  "payload": {
+   "type": "mission_set",
+   "set": "M5-2",
+   "first_mission": 213
+  }
+ },
+ {
+  "name": "Mission Set M5-3",
+  "id": 3438739842,
+  "classification": "progression",
+  "vanilla_count": 0,
+  "payload": {
+   "type": "mission_set",
+   "set": "M5-3",
+   "first_mission": 222
+  }
+ },
+ {
+  "name": "Mission Set M5-4",
+  "id": 3438739843,
+  "classification": "progression",
+  "vanilla_count": 0,
+  "payload": {
+   "type": "mission_set",
+   "set": "M5-4",
+   "first_mission": 228
+  }
+ },
+ {
+  "name": "Mission Set M6-1",
+  "id": 3438739844,
+  "classification": "progression",
+  "vanilla_count": 0,
+  "payload": {
+   "type": "mission_set",
+   "set": "M6-1",
+   "first_mission": 211
+  }
+ },
+ {
+  "name": "Mission Set M6-2",
+  "id": 3438739845,
+  "classification": "progression",
+  "vanilla_count": 0,
+  "payload": {
+   "type": "mission_set",
+   "set": "M6-2",
+   "first_mission": 27
+  }
+ },
+ {
+  "name": "Mission Set M6-3",
+  "id": 3438739846,
+  "classification": "progression",
+  "vanilla_count": 0,
+  "payload": {
+   "type": "mission_set",
+   "set": "M6-3",
+   "first_mission": 114
+  }
+ },
+ {
+  "name": "Mission Set M6-4",
+  "id": 3438739847,
+  "classification": "progression",
+  "vanilla_count": 0,
+  "payload": {
+   "type": "mission_set",
+   "set": "M6-4",
+   "first_mission": 101
+  }
+ },
+ {
+  "name": "Mission Set M6-5",
+  "id": 3438739848,
+  "classification": "progression",
+  "vanilla_count": 0,
+  "payload": {
+   "type": "mission_set",
+   "set": "M6-5",
+   "first_mission": 176
+  }
+ },
+ {
+  "name": "Mission Set M6-6",
+  "id": 3438739849,
+  "classification": "progression",
+  "vanilla_count": 0,
+  "payload": {
+   "type": "mission_set",
+   "set": "M6-6",
+   "first_mission": 24
+  }
+ },
+ {
+  "name": "Mission Set M7-1",
+  "id": 3438739850,
+  "classification": "progression",
+  "vanilla_count": 0,
+  "payload": {
+   "type": "mission_set",
+   "set": "M7-1",
+   "first_mission": 60
+  }
+ },
+ {
+  "name": "Mission Set M7-2",
+  "id": 3438739851,
+  "classification": "progression",
+  "vanilla_count": 0,
+  "payload": {
+   "type": "mission_set",
+   "set": "M7-2",
+   "first_mission": 231
+  }
+ },
+ {
+  "name": "Mission Set M7-3",
+  "id": 3438739852,
+  "classification": "progression",
+  "vanilla_count": 0,
+  "payload": {
+   "type": "mission_set",
+   "set": "M7-3",
+   "first_mission": 15
+  }
+ },
+ {
+  "name": "Mission Set M7-4",
+  "id": 3438739853,
+  "classification": "progression",
+  "vanilla_count": 0,
+  "payload": {
+   "type": "mission_set",
+   "set": "M7-4",
+   "first_mission": 178
+  }
+ },
+ {
+  "name": "Mission Set M7-5",
+  "id": 3438739854,
+  "classification": "progression",
+  "vanilla_count": 0,
+  "payload": {
+   "type": "mission_set",
+   "set": "M7-5",
+   "first_mission": 109
+  }
+ },
+ {
+  "name": "Mission Set M7-6",
+  "id": 3438739855,
+  "classification": "progression",
+  "vanilla_count": 0,
+  "payload": {
+   "type": "mission_set",
+   "set": "M7-6",
+   "first_mission": 246
+  }
+ },
+ {
+  "name": "Mission Set M8-1",
+  "id": 3438739856,
+  "classification": "progression",
+  "vanilla_count": 0,
+  "payload": {
+   "type": "mission_set",
+   "set": "M8-1",
+   "first_mission": 198
+  }
+ },
+ {
+  "name": "Mission Set M8-2",
+  "id": 3438739857,
+  "classification": "progression",
+  "vanilla_count": 0,
+  "payload": {
+   "type": "mission_set",
+   "set": "M8-2",
+   "first_mission": 66
+  }
+ },
+ {
+  "name": "Mission Set M8-3",
+  "id": 3438739858,
+  "classification": "progression",
+  "vanilla_count": 0,
+  "payload": {
+   "type": "mission_set",
+   "set": "M8-3",
+   "first_mission": 182
+  }
+ },
+ {
+  "name": "Mission Set M8-4",
+  "id": 3438739859,
+  "classification": "progression",
+  "vanilla_count": 0,
+  "payload": {
+   "type": "mission_set",
+   "set": "M8-4",
+   "first_mission": 69
+  }
+ },
+ {
+  "name": "Mission Set M8-5",
+  "id": 3438739860,
+  "classification": "progression",
+  "vanilla_count": 0,
+  "payload": {
+   "type": "mission_set",
+   "set": "M8-5",
+   "first_mission": 75
+  }
+ },
+ {
+  "name": "Mission Set M8-6",
+  "id": 3438739861,
+  "classification": "progression",
+  "vanilla_count": 0,
+  "payload": {
+   "type": "mission_set",
+   "set": "M8-6",
+   "first_mission": 81
+  }
+ },
+ {
+  "name": "Mission Set M9-1",
+  "id": 3438739862,
+  "classification": "progression",
+  "vanilla_count": 0,
+  "payload": {
+   "type": "mission_set",
+   "set": "M9-1",
+   "first_mission": 253
+  }
+ },
+ {
+  "name": "Mission Set M9-2",
+  "id": 3438739863,
+  "classification": "progression",
+  "vanilla_count": 0,
+  "payload": {
+   "type": "mission_set",
+   "set": "M9-2",
+   "first_mission": 259
+  }
+ },
+ {
+  "name": "Mission Set M9-3",
+  "id": 3438739864,
+  "classification": "progression",
+  "vanilla_count": 0,
+  "payload": {
+   "type": "mission_set",
+   "set": "M9-3",
+   "first_mission": 267
+  }
+ },
+ {
+  "name": "Mission Set M9-4",
+  "id": 3438739865,
+  "classification": "progression",
+  "vanilla_count": 0,
+  "payload": {
+   "type": "mission_set",
+   "set": "M9-4",
+   "first_mission": 277
+  }
+ },
+ {
+  "name": "Mission Set M9-5",
+  "id": 3438739866,
+  "classification": "progression",
+  "vanilla_count": 0,
+  "payload": {
+   "type": "mission_set",
+   "set": "M9-5",
+   "first_mission": 284
+  }
+ },
+ {
+  "name": "Mission Set M9-6",
+  "id": 3438739867,
+  "classification": "progression",
+  "vanilla_count": 0,
+  "payload": {
+   "type": "mission_set",
+   "set": "M9-6",
+   "first_mission": 292
+  }
+ },
+ {
+  "name": "Mission Set M10-1",
+  "id": 3438739868,
+  "classification": "progression",
+  "vanilla_count": 0,
+  "payload": {
+   "type": "mission_set",
+   "set": "M10-1",
+   "first_mission": 73
+  }
+ },
+ {
+  "name": "Mission Set M10-2",
+  "id": 3438739869,
+  "classification": "progression",
+  "vanilla_count": 0,
+  "payload": {
+   "type": "mission_set",
+   "set": "M10-2",
+   "first_mission": 193
+  }
+ },
+ {
+  "name": "Mission Set M10-3",
+  "id": 3438739870,
+  "classification": "progression",
+  "vanilla_count": 0,
+  "payload": {
+   "type": "mission_set",
+   "set": "M10-3",
+   "first_mission": 294
+  }
+ },
+ {
+  "name": "Mission Set M10-4",
+  "id": 3438739871,
+  "classification": "progression",
+  "vanilla_count": 0,
+  "payload": {
+   "type": "mission_set",
+   "set": "M10-4",
+   "first_mission": 297
+  }
+ },
+ {
+  "name": "Progressive Mission Rank",
+  "id": 3438739872,
+  "classification": "progression",
+  "vanilla_count": 0,
+  "payload": {
+   "type": "mission_rank"
+  }
+ },
+ {
+  "name": "Progressive Chapter Key",
+  "id": 3438739873,
+  "classification": "progression",
+  "vanilla_count": 0,
+  "payload": {
+   "type": "chapter_key"
+  }
+ },
+ {
+  "name": "Backpack",
+  "id": 3438739490,
+  "classification": "filler",
+  "vanilla_count": 0,
+  "payload": {
+   "type": 0,
+   "id": 12342,
+   "amount": 1
+  },
+  "legacy": true
+ },
+ {
+  "name": "Hi-Potion x3",
+  "id": 3438739633,
+  "classification": "filler",
+  "vanilla_count": 0,
+  "payload": {
+   "type": 0,
+   "id": 8193,
+   "amount": 3
+  },
+  "legacy": true
+ },
+ {
+  "name": "Keychain",
+  "id": 3438739651,
+  "classification": "filler",
+  "vanilla_count": 0,
+  "payload": {
+   "type": 0,
+   "id": 12341,
+   "amount": 1
+  },
+  "legacy": true
+ },
+ {
+  "name": "Potion x2",
+  "id": 3438739715,
+  "classification": "filler",
+  "vanilla_count": 0,
+  "payload": {
+   "type": 0,
+   "id": 8192,
+   "amount": 2
+  },
+  "legacy": true
+ }
+]

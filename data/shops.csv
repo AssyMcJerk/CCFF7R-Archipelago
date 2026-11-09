@@ -1,0 +1,131 @@
+shop,slot,item_id,item
+0,0,0x2000,Potion
+0,1,0x2003,Ether
+0,2,0x2004,Soma
+0,3,0x2005,Remedy
+1,0,0xC074,HP Up (1* HP+1)
+1,1,0xC077,MP Up (1* MP+1)
+1,2,0xC07A,AP Up (1* AP+1)
+1,3,0xC02C,Drain (1* HP+1)
+1,4,0xC02F,Osmose (1* MP+1)
+2,0,0xC07D,ATK Up (1* ATK+1)
+2,1,0xC080,VIT Up (1* VIT+1)
+2,2,0xC083,MAG Up (1* MAG+1)
+2,3,0xC086,SPR Up (1* SPR+1)
+2,4,0xC031,Poison (1* MAG+1)
+2,5,0xC032,Silence (1* MAG+1)
+3,0,0x5000,Bronze Bangle
+3,1,0x5005,Bronze Armlet
+3,2,0x500A,Chocobo Armlet
+3,3,0x500F,Wrist Band
+3,4,0x5013,Bulletproof Vest
+3,5,0x5017,Earrings
+3,6,0x501B,Amulet
+4,0,0x502C,Fire Ring
+4,1,0x502D,Fire Armlet
+4,2,0x5030,Ice Ring
+4,3,0x5031,Ice Armlet
+4,4,0x5034,Lightning Ring
+4,5,0x5035,Lightning Armlet
+4,6,0x5038,Dragon Armlet
+4,7,0x503A,Wizard Bracelet
+4,8,0x503B,Element Blade
+4,9,0x5055,Brigand's Gloves
+4,10,0x5054,Mog's Amulet
+4,11,0x2002,X-Potion
+5,0,0xC019,Fire (1* MAG+0)
+5,1,0xC01A,Blizzard (1* MAG+0)
+5,2,0xC01B,Thunder (1* MAG+0)
+5,3,0xC022,Cure (1* SPR+1)
+5,4,0xC027,Esuna (1* SPR+0)
+5,5,0xC089,Libra (1* ATK+1)
+5,6,0x5043,Star Pendant
+5,7,0x5044,White Cape
+5,8,0x5046,Headband
+6,0,0xC01F,Firaga (1* MAG+1)
+6,1,0xC020,Blizzaga (1* MAG+1)
+6,2,0xC021,Thundaga (1* MAG+1)
+6,3,0xC096,Octaslash (1* ATK+1)
+6,4,0xC097,Rush Assault (1* ATK+1)
+6,5,0xC098,Air Strike (1* VIT+1)
+6,6,0xC099,Meteor Shots (1* VIT+1)
+6,7,0xC09A,Healing Wave (1* SPR+1)
+6,8,0xC09B,Lucky Stars (1* SPR+1)
+6,9,0x2001,Hi-Potion
+7,0,0xC01C,Fira (1* MAG+1)
+7,1,0xC01D,Blizzara (1* MAG+1)
+7,2,0xC01E,Thundara (1* MAG+1)
+7,3,0xC023,Cura (1* SPR+1)
+7,4,0xC026,Regen (1* SPR+1)
+7,5,0xC029,Barrier (1* SPR+0)
+7,6,0xC02A,MBarrier (1* SPR+0)
+7,7,0xC028,Dispel (1* SPR+0)
+7,8,0xC08E,Dash (1* AP+2)
+8,0,0xC043,Quake (1* MAG+1)
+8,1,0xC03E,Hell Firaga (1* MAG+1)
+8,2,0xC03F,Hell Blizzaga (1* MAG+1)
+8,3,0xC040,Hell Thundaga (1* MAG+1)
+8,4,0xC067,Drain Blade (1* HP+1)
+8,5,0xC068,Power Drain (1* HP+1)
+8,6,0xC069,Aerial Drain (1* HP+2)
+8,7,0xC08A,Status Strike (1* MAG+5)
+8,8,0xC08B,Status Ward (1* SPR+5)
+8,9,0xC08C,Elemental Strike (1* MAG+5)
+8,10,0xC08D,Elemental Ward (1* SPR+5)
+8,11,0xC064,Firaga Blade (1* MAG+2)
+8,12,0xC065,Blizzaga Blade (1* MAG+2)
+8,13,0xC066,Thundaga Blade (1* MAG+2)
+9,0,0x5003,Carbon Bangle
+9,1,0x5008,Rune Armlet
+9,2,0x500D,Sea Chocobo Armlet
+9,3,0x5011,Hyper Wrist
+9,4,0x5015,Shinra Beta
+9,5,0x5019,Hypno Crown
+9,6,0x501D,Tarot Cards
+9,7,0xC02E,Drainga (1* HP+1)
+10,0,0x503D,Mortal Shock
+10,1,0x503E,Venom Shock
+10,2,0x503F,Mute Shock
+10,3,0x5040,System Shock
+10,4,0x5041,Paralyzing Shock
+10,5,0x5042,Safety Bit
+10,6,0x5043,Star Pendant
+10,7,0x5044,White Cape
+10,8,0x5045,Gris-Gris Bag
+10,9,0x5046,Headband
+10,10,0x5047,Sprint Shoes
+10,11,0x5048,Pearl Necklace
+11,0,0xC0A2,Chocobo Stomp (1* AP+2)
+11,1,0xC0A3,"1,000 Needles (1* AP+2)"
+11,2,0xC0A4,Murderous Thrust (1* HP+2)
+11,3,0xC0A5,Courage Boost! (1* MP+2)
+11,4,0xC0A6,Moogle Power (1* MP+2)
+11,5,0xC0A7,Item Mugger (1* HP+2)
+12,0,0xC09D,Hellfire (1* ATK+1)
+12,1,0xC09E,Megaflare (1* MAG+1)
+12,2,0xC09F,Zantetsuken (1* VIT+1)
+12,3,0xC0A0,Rebirth Flame (1* SPR+1)
+12,4,0xC0A1,Exaflare (1* MAG+1)
+12,5,0xC042,Graviga (1* MAG+1)
+13,0,0x504C,Moon Bracer
+13,1,0x504D,Shining Bracer
+13,2,0x504E,Protect Ring
+13,3,0x504F,Faerie Ring
+13,4,0x5050,Twisted Headband
+14,0,0x502F,Blaze Armlet
+14,1,0x5033,Snow Armlet
+14,2,0x5037,Bolt Armlet
+14,3,0x5039,Escort Guard
+14,4,0x5051,Sniper Eye
+14,5,0x5038,Dragon Armlet
+14,6,0x503A,Wizard Bracelet
+14,7,0x503B,Element Blade
+15,0,0x5052,Precious Watch
+15,1,0x5053,Jeweled Ring
+15,2,0xC09C,Apocalypse (1* MAG+1)
+15,3,0xC08F,Dualcast (1* MP+2)
+15,4,0x5066,Genji Helm
+16,0,0x5052,Precious Watch
+16,1,0x5053,Jeweled Ring
+16,2,0xC09C,Apocalypse (1* MAG+1)
+16,3,0xC08F,Dualcast (1* MP+2)

@@ -1,0 +1,255 @@
+treasure_id,chapter,location,contents,match
+0,,Unused/debug? (not seen in guides),Potion x10,annotated
+1,,Unused/debug? (not seen in guides),100 SP,annotated
+2,,Unused/debug? (not seen in guides),300 Gil,annotated
+3,,Unused/debug? (not seen in guides),Libra,annotated
+4,,Unused/debug? (not seen in guides),Curaga,annotated
+5,,Unused/debug? (not seen in guides),Drain,annotated
+6,,Unused/debug? (not seen in guides),Graviga,annotated
+7,,Unused/debug? (not seen in guides),Iron Bangle,annotated
+8,,Unused/debug? (not seen in guides),Titanium Bangle,annotated
+9,,Unused/debug? (not seen in guides),Carbon Bangle,annotated
+10,,Unused/debug? (not seen in guides),Platinum Bangle,annotated
+11,,Unused/debug? (not seen in guides),Kaiser Knuckles,annotated
+12,,Unused/debug? (not seen in guides),Royal Crown,annotated
+13,,Unused/debug? (not seen in guides),Shinra Beta+,annotated
+14,,Unused/debug? (not seen in guides),Crystal Orb,annotated
+15,,Unused/debug? (not seen in guides),Elixir x5,annotated
+16,,Unused/debug? (not seen in guides),Elixir x10,annotated
+17,,Unused/debug? (not seen in guides),Phoenix Down,annotated
+18,,Unused/debug? (not seen in guides),Phoenix Down x3,annotated
+19,,Unused/debug? (not seen in guides),Gold Rolling Pin,annotated
+20,,Unused/debug? (not seen in guides),Gold Rolling Pin x3,annotated
+21,,Unused/debug? (not seen in guides),Gold Rolling Pin x5,annotated
+22,,Unused/debug? (not seen in guides),Ribbon,annotated
+23,1,Briefing Room - Supply Pod 1,Bronze Bangle,matched
+24,1,Briefing Room - Kunsel,Cursed Ring,matched
+25,1,Fort Tamblin - Soldier Reward,Fire Armlet,playtest4
+26,1,(unmatched in IGN list),Phoenix Down,chapter-range
+27,1,(unmatched in IGN list),Bulletproof Vest,chapter-range
+28,1,(unmatched in IGN list),Elixir,chapter-range
+29,1,Fort Tamblin - Corridor - Chest 1,Soma,matched
+30,1,Fort Tamblin - Corridor - Chest 2,Potion,matched
+31,1,Fort Tamblin - Corridor - Chest 4,Ether,matched
+32,1,Fort Tamblin - Corridor - Chest 3,Hi-Potion,matched
+33,1,Fort Tamblin - Corridor - Chest 5,Ether,matched
+34,1,Fort Tamblin - Corridor - Rotating Wall 3,Potion,matched
+35,1,Fort Tamblin - Courtyard – Chest 1,Hi-Potion,matched
+36,1,(unmatched in IGN list),Soma,chapter-range
+37,1,(unmatched in IGN list),Elixir,chapter-range
+38,1,(unmatched in IGN list),Soma,chapter-range
+39,1,Fort Tamblin - Courtyard - Chest 2,Earrings,matched
+47,2,Briefing Room - Supply Pod 2,Thunder,matched
+48,2,Banora - Apple Orchard - Chest 2,X-Potion,matched
+49,2,Banora - Chest 1,Hi-Potion,matched
+50,2,Banora - Chest 2,Remedy,matched
+51,2,Banora - Chest 4,Hi-Potion,matched
+52,2,Banora - Chest 5,MP Up,matched
+53,2,Banora - Chest 7,X-Potion,matched
+54,2,Banora - Chest 6,Bronze Armlet,matched
+55,2,Banora Treasures Prize - Ether,Ether,playtest2
+56,2,Banora Treasures Prize - Soma,Soma,playtest2
+57,2,Banora Treasures Prize - X-Potion,X-Potion,playtest2
+58,2,Banora Treasures Prize - Elixir,Elixir,playtest2
+59,2,Banora Treasures Prize - Phoenix Down,Phoenix Down,playtest2
+60,2,(unmatched in IGN list),Soma,chapter-range
+61,2,(unmatched in IGN list),Ether,chapter-range
+62,2,(unmatched in IGN list),Potion,chapter-range
+63,2,(unmatched in IGN list),Ether x2,chapter-range
+64,2,(unmatched in IGN list),Potion x2,chapter-range
+65,2,Banora - Chest 3,5 Gil,matched
+66,2,Banora - Factory - Chest 1,500 Gil,matched
+67,2,(unmatched in IGN list),Elixir,chapter-range
+68,2,Banora - Factory - Chest 3,Remedy,matched
+85,3,Briefing Room - Supply Pod 3,Star Pendant,matched
+86,3,(unmatched in IGN list),Fire,chapter-range
+87,3,(unmatched in IGN list),Blizzard,chapter-range
+88,3,(unmatched in IGN list),Ether,chapter-range
+89,3,(unmatched in IGN list),500 Gil,chapter-range
+90,3,(unmatched in IGN list),Amulet,chapter-range
+91,3,(unmatched in IGN list),Earrings,chapter-range
+92,3,(unmatched in IGN list),Research Dept. QMC Address,chapter-range
+93,3,Mako Reactor 5 - Chest 2,Shinra Alpha,matched
+94,3,Mako Reactor 5 - Chest 1,Hi-Potion,matched
+95,3,Plate Interior - Outer Section - Chest 1,Circlet,matched
+96,3,Plate Interior - Chest 3,MAG Up,matched
+97,3,Plate Interior - Chest 2,Hi-Potion x2,matched
+144,4,Sector 5 Slums - Church - Chest 1,Ether x2,matched
+145,4,Sample Storage Chamber - Chest 1,X-Potion,matched
+146,4,Sample Storage Chamber - Chest 2,Remedy,matched
+147,4,(unmatched in IGN list),Bronze Bangle,chapter-range
+148,4,(unmatched in IGN list),Bulletproof Vest,chapter-range
+149,4,(unmatched in IGN list),Bronze Armlet,chapter-range
+150,4,(unmatched in IGN list),Tissue,chapter-range
+151,4,(unmatched in IGN list),Soma,chapter-range
+152,4,(unmatched in IGN list),Potion,chapter-range
+153,4,(unmatched in IGN list),Hi-Potion,chapter-range
+154,4,(unmatched in IGN list),X-Potion,chapter-range
+155,4,"Shinra Bldg 67F - Jail Cells (12 cells x3 chests, Jail Cell Key minigame)",Fire,annotated
+156,4,"Shinra Bldg 67F - Jail Cells (12 cells x3 chests, Jail Cell Key minigame)",Blizzard,annotated
+157,4,"Shinra Bldg 67F - Jail Cells (12 cells x3 chests, Jail Cell Key minigame)",Thunder,annotated
+158,4,"Shinra Bldg 67F - Jail Cells (12 cells x3 chests, Jail Cell Key minigame)",HP Up,playtest3
+159,4,"Shinra Bldg 67F - Jail Cells (12 cells x3 chests, Jail Cell Key minigame)",ATK Up,annotated
+160,4,Jail Cells - Chest 1,Silence,playtest3
+161,4,Jail Cells - Chest 2,Ether,playtest3
+162,4,Jail Cells - Chest 3,ATK Up,playtest3
+163,4,Jail Cells - Chest 4,2000 Gil,playtest3
+164,4,Jail Cells - Chest 5,Cure,playtest3
+165,4,Jail Cells - Chest 6,500 Gil,playtest3
+166,4,Jail Cells - Chest 7,Potion,playtest3
+167,4,Jail Cells - Chest 8,Blizzard,playtest3
+168,4,Jail Cells - Chest 9,HP Up,playtest3
+169,4,Jail Cells - Chest 10,2 Gil,playtest3
+170,4,Jail Cells - Chest 11,Hi-Potion,playtest3
+171,4,Jail Cells - Chest 12,Remedy,playtest3
+172,4,Jail Cells - Chest 13,Fire,playtest3
+173,4,Jail Cells - Chest 14,Potion,playtest3
+174,4,Jail Cells - Chest 15,Hi-Potion,playtest3
+175,4,Jail Cells - Chest 16,3000 Gil,playtest3
+176,4,Jail Cells - Chest 17,Thunder,playtest3
+177,4,Jail Cells - Chest 18,Soma,playtest3
+178,4,(unmatched in IGN list),Jail Cell Key,chapter-range
+179,4,(unmatched in IGN list),Soma,chapter-range
+180,4,(unmatched in IGN list),Hi-Potion,chapter-range
+181,4,(unmatched in IGN list),Remedy,chapter-range
+182,4,(unmatched in IGN list),Steal,chapter-range
+183,4,(unmatched in IGN list),Phoenix Down,chapter-range
+184,4,(unmatched in IGN list),Soma x2,chapter-range
+185,4,(unmatched in IGN list),Hi-Potion x3,chapter-range
+227,5,Briefing Room - Supply Pod 4,Fira,matched
+228,5,(unmatched in IGN list),Sec.8 Materia Shop Address,chapter-range
+229,5,Modeo Ravine - North - Chest 1,Power Attack,matched
+230,5,Modeo Ravine - North - Chest 2,Stop,matched
+231,5,Modeo Ravine - North - Chest 3,Dispel,playtest2
+232,5,Modeo Ravine - North - Chest 4,Sprint Shoes,matched
+233,5,Modeo Ravine - North - Chest 5,Pearl Necklace,matched
+234,5,Mako Excavation Facility - Chest 1,X-Potion,matched
+235,5,Modeo Ravine - Southwest - Chest 1,Gris-Gris Bag,matched
+236,5,Modeoheim - Chest 1,3000 Gil,matched
+237,5,Modeoheim - Chest 2,MP Up,matched
+238,5,Modeoheim - Chest 3,Blizzara,matched
+239,5,Bathhouse - Chest 1,Ether,matched
+240,5,Bathhouse - Chest 3,Hi-Potion,playtest2
+241,5,Bathhouse - Entrance - Phone Package,Power Wrist,matched
+242,5,Bathhouse - Chest 2,Dispel,playtest2
+243,5,Bathhouse - Chest 4,Ether,playtest2
+244,5,"Bathhouse, 2nd Floor - Boiler Room - Boiler Item",Lightning Armlet,matched
+245,5,"Bathhouse, 2nd Floor - Boiler Room - Chest 1",Force Bracelet,matched
+316,6,(unmatched in IGN list),Phoenix Down,chapter-range
+317,6,(unmatched in IGN list),MAG Up+,chapter-range
+318,6,(unmatched in IGN list),Sec.5 Materia Shop Address,chapter-range
+319,6,Lower Junon - Level 3 - Chest 1,5000 Gil,matched
+320,6,Lower Junon - Level 3 - Chest 2,Hi-Potion,matched
+321,6,Lower Junon - Level 3 - Chest 3,Bronze Armlet,matched
+322,6,(unmatched in IGN list),X-Potion x5,chapter-range
+323,6,(unmatched in IGN list),Fire Armlet,chapter-range
+324,6,(unmatched in IGN list),Iron Bangle,chapter-range
+325,6,Lower Junon - Level 6 - Chest 1,Drain,matched
+326,6,Lower Junon - Level 6 - Chest 2,Chocobo Armlet,matched
+327,7,Supply Pod (scene 5267),Sprint Shoes,playtest2
+328,6,Shinra HQ Materia Room - Mako Stone Researcher Exchange 1,Esuna,annotated
+329,6,Shinra HQ Materia Room - Mako Stone Researcher Exchange 2,Poison,annotated
+330,6,Shinra HQ Materia Room - Mako Stone Researcher Exchange 3,Silence,annotated
+331,6,Shinra HQ Materia Room - Mako Stone Researcher Exchange 4,Silence Blade,annotated
+332,6,Shinra HQ Materia Room - Mako Stone Researcher Exchange 5,Gravity,annotated
+333,6,Shinra HQ Materia Room - Mako Stone Researcher Exchange 6,Regen,playtest3
+396,,Flower Wagon / Craftsman questline (Ch3-5) + Sec.6 shop,Sec.6 Accessory Shop Address,annotated
+397,2,"Flower Wagon Part - Craftsman Monthly (Shinra Captain, LOVELESS Ave, after 1-2-x)",Craftsman Monthly,matched
+398,5,Flower Wagon Part - Walnut Wood (Wutai's Nemesis),Walnut Wood,matched
+399,3,"Flower Wagon Part - Premium Tires (SOLDIER 3rd Class, Briefing Room, after 7-1-x)",Premium Tires,matched
+400,5,Flower Wagon Part - Mythril Tools (Exhibit Room),Mythril Tools,matched
+401,5,Flower Wagon Part - Shinra Lunch Cart Specs (Training Room squats),Shinra Lunch Cart Specs,matched
+402,5,Flower Wagon Part - Shinra Ceramic (Training Room squats),Shinra Ceramic,matched
+403,5,Flower Wagon Part - Shinra Treads (Training Room squats),Shinra Treads,matched
+404,5,Flower Wagon Part - Shinra Solder (Training Room squats),Shinra Solder,matched
+405,7,Flower Wagon Part - How to Build a Wagon,How to Build a Wagon,matched
+406,7,Flower Wagon Part - Old Lumber,Old Lumber,matched
+407,7,Flower Wagon Part - Worn Tires,Worn Tires,matched
+408,7,Flower Wagon Part - Used Tools,Used Tools,matched
+409,8,Nibelheim Seven Wonders #1 (water tower) - Phoenix materia,Phoenix Materia,matched
+410,8,Nibelheim Seven Wonders #2 - 2000 Gil,2000 Gil,matched
+411,8,Nibelheim Seven Wonders #3 - Safety Bit,Safety Bit,playtest2
+412,8,Nibelheim - Outskirts - Chest 1,Ether,matched
+413,9,Nibelheim Seven Wonders #7 - Wall,Wall,matched
+414,8,Nibelheim Seven Wonders #6 - ATK Up++,ATK Up++,matched
+415,8,Nibelheim - Chest 1,Fire Ring,matched
+416,8,Mt. Nibel - Reactor Entrance - Chest 1,White Cape,matched
+417,8,Mt. Nibel - Trail - Chest 3,HP Stone,playtest2
+418,8,Mt. Nibel - Trail - Chest 2,Elixir,playtest2
+419,8,Mt. Nibel - Trail - Chest 1,Hi-Potion,matched
+420,8,Shinra Manor - Basement Facility - Chest 1,Elixir,playtest2
+421,8,Shinra Manor - Underground Cave - Chest 3,Talisman,matched
+422,8,Shinra Manor - Underground Cave - Chest 2,X-Potion,matched
+423,8,Shinra Manor - Underground Cave - Chest 1,Soma,matched
+424,8,Nibelheim Seven Wonders #4 - Vital Slash,Vital Slash,matched
+425,9,Shinra Manor - Right Wardrobe,5000 Gil,playtest4
+426,8,(unmatched in IGN list),Lightning Ring,chapter-range
+427,8,Shinra Manor - Left Wardrobe (SOLDIER Outfit),SOLDIER Outfit,playtest4
+470,9,Shinra Manor - Basement Facility - Chest 2,1000 Gil,playtest2
+471,9,Shinra Manor - Basement - Scientist (Dresser Key),Dresser Key,playtest4
+472,9,Shinra Manor - Chest 3,Shinra Beta,matched
+473,9,Shinra Manor - Chest 2,Firaga,matched
+474,9,Nibel Plains - Sniper Prize - Dragon Armlet,Dragon Armlet,playtest2
+475,9,Nibel Plains - Sniper Prize - Gravity,Gravity,playtest2
+476,9,Nibel Plains - Sniper Prize - Dash,Dash,playtest2
+477,9,Nibel Plains - Sniper Prize - Thundaga,Thundaga,playtest2
+478,9,(unmatched in IGN list),Thundara,chapter-range
+479,9,(unmatched in IGN list),Blizzara,chapter-range
+503,9,Abandoned Mako Reactor - Chest 1,6000 Gil,playtest2
+504,9,Abandoned Mako Reactor - Chest 2,Hypno Crown,playtest2
+505,9,(unmatched in IGN list),MAG Mako Stone,chapter-range
+506,9,(unmatched in IGN list),2000 Gil,chapter-range
+507,9,Abandoned Mako Reactor - Chest 3,Osmoga,playtest2
+508,9,Abandoned Mako Reactor - Chest 4,Zeio Nut,playtest2
+509,9,Hills - Chest 2,Elixir,matched
+510,9,Hills - Chest 1,Remedy,playtest2
+511,9,Hills - Waterfall Prize - Hi-Potion,Hi-Potion,playtest2
+512,9,Hills - Waterfall Prize - X-Potion,X-Potion,playtest2
+513,9,Hills - Waterfall Prize - Elixir,Elixir,playtest2
+514,9,Hills - Waterfall Minigame (10 chests),Goblin Punch,playtest2
+515,9,Gongaga - Outskirts - Chest 4,Headband,matched
+516,9,Gongaga - Outskirts - Chest 2,Research Dept. QMC+ Address,matched
+517,9,Gongaga - Outskirts - Chest 1,Remedy,guess
+548,10,Cage of Binding - Laboratory Room Chest (Laboratory Key),Laboratory Key,playtest2
+549,10,Howling Fang - Chest 8 (Iron Bars Key),Iron Bars Key,playtest2
+550,10,Banora Underground - Goddess Materia (Light),Light Materia,annotated
+551,10,Banora Underground - Goddess Materia (Heaven),Heaven Materia,annotated
+552,10,Banora Underground - Goddess Materia (Ground),Ground Materia,annotated
+553,10,Banora Underground - Goddess Materia (Star),Star Materia,annotated
+554,10,Banora Underground - Goddess Materia (Life),Life Materia,annotated
+555,10,Banora Underground - Goddess Materia (Being),Being Materia,annotated
+556,10,Banora Underground - Goddess Materia (Sabbath),Sabbath Materia,annotated
+557,10,Cage of Binding - Chest 1,River Chocobo Armlet,matched
+558,10,Cage of Binding - Chest 2,Elixir,matched
+559,10,Cage of Binding - Chest 3,Graviga,matched
+560,10,Cage of Binding - Chest 4,Dispel Blade,matched
+561,10,Cage of Binding - Chest 6,Phoenix Down,matched
+562,10,Cage of Binding - Chest 7,Gris-Gris Bag,matched
+563,10,Howling Fang - Chest 3,ATK Up+,playtest2
+564,10,Howling Fang - Chest 4,HP Up++,playtest2
+565,10,Howling Fang - Chest 6,MAG Up+,matched
+566,10,Howling Fang - Chest 7,Silver Armlet,playtest2
+567,10,Howling Fang - Chest 2,X-Potion,matched
+568,10,Howling Fang - Chest 1,Mug,matched
+587,,Placeholder Potion - likely unused,Potion,annotated
+752,,Placeholder Potion - likely unused,Potion,annotated
+894,,Placeholder Potion - likely unused,Potion,annotated
+895,,Placeholder Potion - likely unused,Potion,annotated
+1303,,Placeholder Potion - likely unused,Potion,annotated
+1304,,Placeholder Potion - likely unused,Potion,annotated
+1305,,Placeholder Potion - likely unused,Potion,annotated
+1306,,Placeholder Potion - likely unused,Potion,annotated
+1307,,Placeholder Potion - likely unused,Potion,annotated
+1308,10,Howling Fang - Chest 10,Flare,playtest2
+1310,1,Fort Tamblin - Courtyard - Chest 3,Soma,matched
+1311,2,Banora - Apple Orchard - Chest 1,Soma,matched
+1312,3,Plate Interior - Chest 1,Soma,matched
+1313,4,Reunion Chest 1 (scene 5155),Ether,playtest3
+1314,4,Reunion Chest 2 (scene 5155),Soma,playtest3
+1315,5,Bathhouse - Reunion Chest,Soma,playtest2
+1316,6,Lower Junon (scene 5253) - Reunion Chest 1,Ether x2,playtest2
+1317,6,Lower Junon (scene 5253) - Reunion Chest 2,Soma x2,playtest2
+1318,8,Shinra Manor - Chest 1,Elixir,playtest2
+1319,9,Gongaga - Outskirts - Chest 3,Elixir,matched
+1320,10,Cage of Binding - Chest 5,Elixir,matched
+1321,3,Plate Interior - Chest 4,Jump,matched

@@ -1,0 +1,301 @@
+mission_index,number,name,missable,unlock_type,unlock_chapter,prereq_by_f5,next_f5,availability_guide,reward_treasure,reward,chest_treasures,chests,rank
+200,1-1-1,Shinra's Basic Training,0,chapter,1,,,After registering for missions in Chapter 1 (required to progress),40,Elixir,,,1
+272,1-1-2,Shinra's Advanced Training,0,chapter,9,,1-1-3,Automatically unlocked at the beginning of Chapter 9,451,Hero Drink,,,5
+6,1-1-3,50 Shinra Troops,0,chain,,1-1-2,1-1-4,Complete Mission 1-1-2,496,Hero Drink x2,,,5
+7,1-1-4,100 Shinra Troops,0,chain,,1-1-3,1-1-5,Complete Mission 1-1-3,518,Black Belt,,,5
+10,1-1-5,200 Shinra Troops,0,chain,,1-1-4,1-1-6,Complete Mission 1-1-4,581,HP Up++ [1* HP+3],,,5
+11,1-1-6,"1,000 Shinra Troops",0,chain,,1-1-5,,Complete Mission 1-1-5,616,Mug [1* AP+2],,,6
+51,1-2-1,Challenge from Security,1,npc,2,,1-2-2,Speak to the Shinra Captain in Sector 8 – LOVELESS Avenue in Chapter 2,71,Shinra Alpha,69 70,X-Potion | Remedy,1
+48,1-2-2,Second Challenge,0,chain,,1-2-1,1-2-3,Complete Mission 1-2-1,73,Silence [1* MAG+1],72,X-Potion,1
+49,1-2-3,Third Challenge,0,chain,,1-2-2,1-2-4,Complete Mission 1-2-2,105,Four Slots,103 104,Elixir | Hi-Potion,1
+50,1-2-4,Getting Serious,0,chain,,1-2-3,1-2-5,Complete Mission 1-2-3,102,Force Bracelet,100 101,Soma | Hi-Potion,2
+52,1-2-5,Armed Challenge,0,chain,,1-2-4,1-2-6,Complete Mission 1-2-4,191,Ice Armlet,190 189 188,Remedy | Potion | Hi-Potion,2
+23,1-2-6,Last Challenge,0,chain,,1-2-5,,Complete Mission 1-2-5,251,Fat Chocobo Feather,249 250,Elixir | Soma,3
+242,1-3-1,Next-Generation Weapons,0,chapter,5,,1-3-2,Automatically unlocked at the beginning of Chapter 5,296,Assault Twister [1* ATK+0],,,3
+12,1-3-2,New Mechanical Weapons,0,chain,,1-3-1,1-3-3,Complete Mission 1-3-1,371,Cura [1* SPR+1],369 370,Elixir | X-Potion,4
+13,1-3-3,To Quash Genesis's Forces,0,chain,,1-3-2,1-3-4,Complete Mission 1-3-2,450,Thundaga [1* MAG+1],449,Blizzaga [1* MAG+1],4
+21,1-3-4,Experiments Gone Wrong,0,chain,,1-3-3,1-3-5,Complete Mission 1-3-3,485,River Chocobo Armlet,484,Soma,5
+163,1-3-5,Robots in the City,0,chain,,1-3-4,1-3-6,Complete Mission 1-3-4,522,Graviga [1* MAG+1],520 521,Hi-Potion | Mountain Chocobo Armlet,5
+17,1-3-6,A Director's Request,0,chain,,1-3-5,1-4-1,Complete Mission 1-3-5,570,Crystal Bracelet,569,Curaga [1* SPR+1],5
+18,1-4-1,Urban Combat Operations,0,chain,,1-3-6,1-4-2,Complete Mission 1-3-6,621,Fat Chocobo Feather x2,618 619 620,Frost Armlet | VIT Up++ [1* VIT+3] | Hyper Wrist,6
+124,1-4-2,Cyber-Sabotage,0,chain,,1-4-1,1-4-3,Complete Mission 1-4-1,666,Drainga [1* HP+1],,,6
+28,1-4-3,Stolen Shinra Weapons,0,chain,,1-4-2,1-4-4,Complete Mission 1-4-2,683,MAG Up++ [1* MAG+3],681 682,SPR Up++ [1* SPR+3] | MP Up++ [1* MP+3],6
+30,1-4-4,Destroy the Mobile Artillery,0,chain,,1-4-3,1-4-5,Complete Mission 1-4-3,723,High Jump [1* ATK+1],722,X-Potion,7
+106,1-4-5,Testing New Weapons,0,chain,,1-4-4,1-4-6,Complete Mission 1-4-4,780,Stop Twister [1* ATK+1],778 779,Crystal Gloves | Wall [1* SPR+0],7
+57,1-4-6,Weapons Comparison Test,0,chain,,1-4-5,1-5-1,Complete Mission 1-4-5,815,Fat Chocobo Feather x2,814,Wall [1* SPR+0],7
+130,1-5-1,Special Ops Weapons,0,chain,,1-4-6,1-5-2,Complete Mission 1-4-6,841,Lunar Harp x4,838 839 840,X-Potion | Carbon Bangle | Elixir,8
+133,1-5-2,Special Ops Weapons Return,0,chain,,1-5-1,1-5-3,Complete Mission 1-5-1,890,Hero Drink x2,888 889,Silence Blade [1* ATK+0] | 5000 SP,8
+61,1-5-3,Tarantula Test,0,chain,,1-5-2,1-5-4,Complete Mission 1-5-2,905,Energy [1* MP+1],,,8
+110,1-5-4,Shinra Machines Unit,0,chain,,1-5-3,1-5-5,Complete Mission 1-5-3,940,Crystal Gloves,938 939,Moon Bracer | Magical Punch [1* MP+5],8
+99,1-5-5,Better Death Machines,0,chain,,1-5-4,1-5-6,Complete Mission 1-5-4,987,Shinra Beta+,986,Mythril,9
+115,1-5-6,Final Versions of the Spider,0,chain,,1-5-5,,Complete Mission 1-5-5,1014,Adamantite x5,,,9
+91,2-1-1,Beginnings,1,npc,3,,,Speak to the Man upstairs in Sector 8 – Fountain in Chapter 3,111,Poison [1* MAG+1],110,Remedy,1
+56,2-1-2,Approaching the Outskirts,1,npc,3,,,Speak to the Employee in Sector 8 – LOVELESS Avenue in Chapter 3,114,Fire Armlet,112 113,Potion | Soma,2
+92,2-1-3,Sightings in Sector 5,1,npc,4,,,Speak to the Girl in Sector 5 Slums – Market in Chapter 4 after getting your wallet back,207,Phoenix Down,205 206,Soma | Chocobo Armlet,2
+93,2-1-4,Defend the Slums,1,npc,4,,,Speak to the Girl in Sector 5 Slums – Street in Chapter 4,222,Fire Ring,,,2
+94,2-1-5,Highway Closed,1,npc,5,,,Speak to the Trooper upstairs in Shinra Building Entrance in Chapter 5,305,SPR Up [1* SPR+1],304,Mystile,2
+96,2-1-6,Truth in Wasteland,1,npc,5,,,"Speak to the Researcher in Shinra HQ Exhibit Room in Chapter 5, after completing Missions 2-1-1 through 2-1-5",299,Ice Ring,297 298,Four Slots | Drain [1* HP+1],2
+241,2-2-1,Slums of Midgar,0,chapter,5,,,Automatically unlocked at the beginning of Chapter 5,215,Assault Twister [1* ATK+0],209,Star Pendant,3
+250,2-2-2,Modeoheim,0,chapter,6,,,Automatically unlocked at the beginning of Chapter 6,306,Venom Shock,,,4
+270,2-2-3,Nibelheim,0,chapter,9,,,Automatically unlocked at the beginning of Chapter 9,459,AP Up+ [1* AP+2],454,ATK Up+ [1* ATK+2],5
+280,2-2-4,Nibelheim II,0,chapter,10,,,Automatically unlocked at the beginning of Chapter 10,502,Elemental Ward [1* SPR+5],500 501,2000 SP | Hi-Potion,5
+291,2-2-5,Gongaga,0,chapter,10,,2-2-6,Automatically unlocked at the beginning of Chapter 10,538,SPR Up+ [1* SPR+2],537,Iron Bangle,5
+64,2-2-6,World of Monsters,0,chain,,2-2-5,2-3-1,Complete Mission 2-2-5,622,Quake [1* MAG+1],,,6
+29,2-3-1,Unidentified Monsters,0,chain,,2-2-6,2-3-2,Complete Mission 2-2-6,641,Gongaga Trading Address,638 639 640,Drainga [1* HP+1] | Tarot Cards | Hell Blizzaga [1* MAG+1],6
+95,2-3-2,Mass Elimination,0,chain,,2-3-1,2-3-3,Complete Mission 2-3-1,694,Mountain Chocobo Armlet,692 693,Elixir | HP Up++ [1* HP+3],6
+139,2-3-3,Aerial Monsters,0,chain,,2-3-2,2-3-4,Complete Mission 2-3-2,712,Silence Aerial [1* ATK+1],710 711,Thundaga Blade [1* MAG+2] | Mythril Gloves,7
+33,2-3-4,Subspecific Movers,0,chain,,2-3-3,2-3-5,Complete Mission 2-3-3,771,Exploder Blade [1* ATK+0],768 769 770,River Chocobo Armlet | Drainga [1* HP+1] | SPR Up++ [1* SPR+3],7
+38,2-3-5,The Sealed Cavern,0,chain,,2-3-4,2-3-6,Complete Mission 2-3-4,805,Platinum Bangle,804,X-Potion,7
+208,2-3-6,Operation: Desert Island,0,chain,,2-3-5,2-4-1,Complete Mission 2-3-5,837,Kaiser Knuckles,834 835 836,Tri-Thundaga [1* MP+2] | Shinra Beta+ | Electrocute [1* MP+2],8
+204,2-4-1,A Solitary Island,0,chain,,2-3-6,2-4-2,Complete Mission 2-3-6,887,Junon Souvenirs Address,885 886,X-Potion | Gysahl Greens x3,8
+239,2-4-2,Wasteland Investigation,0,chain,,2-4-1,2-4-3,Complete Mission 2-4-1,910,Fat Chocobo Feather x3,907 908 909,Elixir | Royal Crown | Flare [1* MP+2],8
+203,2-4-3,An Unknown Island,0,chain,,2-4-2,2-4-4,Complete Mission 2-4-2,934,Phoenix Down x2,933,Exploder Blade [1* ATK+0],8
+243,2-4-4,Excavation Site Survey,0,chain,,2-4-3,2-4-5,Complete Mission 2-4-3,971,Energy [1* MP+1],968 969 970,Elixir | Cursed Ring | Fat Chocobo Feather,9
+53,2-4-5,Cave-In Investigation,0,chain,,2-4-4,2-4-6,Complete Mission 2-4-4,996,Mythril Mine Traders Address,994 995,Crystal Orb | Fat Chocobo Feather,9
+188,2-4-6,Whatever Stands in Your Way,0,chain,,2-4-5,2-5-1,Complete Mission 2-4-5,1017,Energy [1* MP+1],1015 1016,Elixir | River Chocobo Armlet,9
+189,2-5-1,Investigation of the Caverns,0,chain,,2-4-6,2-5-2,Complete Mission 2-4-6,1050,Assault Twister [5* ATK+40],1048 1049,Fat Chocobo Feather | Element Blade,9
+71,2-5-2,New Species Found,0,chain,,2-5-1,2-5-3,Complete Mission 2-5-1,1067,Hell Thundaga [5* MAG+35],1065 1066,Gold Armlet | Ultima [1* MP+2],9
+39,2-5-3,More New Species Found,0,chain,,2-5-2,2-5-4,Complete Mission 2-5-2,1098,Wizard Bracelet,1097,Black Belt,9
+54,2-5-4,New Cavern Found,0,chain,,2-5-3,2-5-5,Complete Mission 2-5-3,1114,SP Turbo Attack [1* ATK+1],1113,Phoenix Down,9
+244,2-5-5,Another Cavern,0,chain,,2-5-4,2-5-6,Complete Mission 2-5-4,1142,Faerie Ring,1137 1138 1139 1140 1141,High Jump [1* ATK+1] | Gysahl Greens | Mythril | Thundaga Blade [1* MAG+2] | Black Cowl,10
+245,2-5-6,The Great Beast,0,chain,,2-5-5,,Complete Mission 2-5-5,1169,Gold Hairpin,1167 1163 1164 1165 1166 1162 1168,Sniper Eye | Blizzaga Blade [1* MAG+2] | Dark Matter x2 | 1000 SP | Fat Chocobo Feather | Gysahl Greens | Mythril Armlet,10
+220,3-1-1,Foes on the Waterfront,0,chapter,3,,3-1-2,Automatically unlocked at the beginning of Chapter 3,84,Bronze Bangle,83 82,Potion | X-Potion,1
+1,3-1-2,Massive Machines,0,chain,,3-1-1,,Complete Mission 3-1-1,77,Iron Bangle,76,Remedy,2
+230,3-1-3,Eliminate the Copies,0,chapter,4,,3-1-4,Automatically unlocked at the beginning of Chapter 4,143,AP Up [1* AP+1],142,Wrist Band,2
+4,3-1-4,Destroy the Death Machines,0,chain,,3-1-3,3-1-5,Complete Mission 3-1-3,136,VIT Up [1* VIT+1],134 135,X-Potion | Hi-Potion,2
+22,3-1-5,Eliminate the Death Machines,0,chain,,3-1-4,,Complete Mission 3-1-4,138,Mythril Gloves,137,Ether,3
+240,3-1-6,Midgar Defense Operations,0,chapter,5,,,Automatically unlocked at the beginning of Chapter 5,214,Mystile,210 211 212 213,Thunder [1* MAG+0] | Remedy | Esuna [1* SPR+0] | Soma,3
+251,3-2-1,Foes in the Slums,0,chapter,6,,,Automatically unlocked at the beginning of Chapter 6,310,Lightning Armlet,309,Soma,4
+262,3-2-2,Take Back the Carrier,0,chapter,7,,3-2-3,Automatically unlocked at the beginning of Chapter 7,340,MP Up++ [1* MP+3],335 337 338 336 339 1309,Zeio Nut | Hi-Potion | Pearl Necklace | Assault Twister [1* ATK+0] | 2000 SP | Phoenix Down,4
+8,3-2-3,Raid the Enemy's Stronghold,0,chain,,3-2-2,3-2-4,Complete Mission 3-2-2,363,Fire Blade [1* MAG+1],360 361 362,Elixir | X-Potion | Thundara [1* MAG+1],4
+9,3-2-4,Enemy Attack Prevention,0,chain,,3-2-3,,Complete Mission 3-2-3,373,Thundara Blade [1* MAG+1],372,Bronze Armlet,4
+271,3-2-5,Pursue the Foes,0,chapter,9,,,Automatically unlocked at the beginning of Chapter 9,435,Gris-Gris Bag,433 434,Phoenix Down | Mind Stone x3,5
+290,3-2-6,Foes in the Wasteland,0,chapter,10,,3-3-1,Automatically unlocked at the beginning of Chapter 10,525,Crystal Gloves,523 524,Stop [1* MAG+1] | Elixir,5
+46,3-3-1,Red Alert!,0,chain,,3-2-6,3-3-2,Complete Mission 3-2-6,588,Silver Armlet,583 584 585 586,X-Potion | Four Slots | ATK Up++ [1* ATK+3] | Titanium Bangle,5
+136,3-3-2,Base in the Caverns,0,chain,,3-3-1,3-3-3,Complete Mission 3-3-1,601,Firaga Blade [1* MAG+2],600,Elixir,6
+202,3-3-3,Surprise Attack on Midgar,0,chain,,3-3-2,3-3-4,Complete Mission 3-3-2,661,Osmoga [1* MP+1],659 660,Silver Armlet | MBarrier [1* SPR+0],6
+135,3-3-4,One Base at a Time,0,chain,,3-3-3,3-3-5,Complete Mission 3-3-3,691,Drain Blade [1* HP+1],688 689 690,Hi-Potion | Gysahl Greens | Aegis Armlet,6
+170,3-3-5,Rumble in Midgar,0,chain,,3-3-4,3-3-6,Complete Mission 3-3-4,721,Assault Twister+ [1* ATK+1],720,Adamantite,7
+47,3-3-6,Regain the Mako Facility,0,chain,,3-3-5,3-4-1,Complete Mission 3-3-5,753,Blast Wave [1* ATK+1],750 751,Diamond Bracelet | Hell Thundaga [1* MAG+1],7
+31,3-4-1,Regain Shinra's Materia,0,chain,,3-3-6,3-4-2,Complete Mission 3-3-6,822,Electrocute [1* MP+2],821,Elixir,7
+32,3-4-2,Powered-Up Copies,0,chain,,3-4-1,3-4-3,Complete Mission 3-4-1,859,Death Jump [1* ATK+1],858 857,Hyper Wrist | Dark Matter,8
+132,3-4-3,Reinforced Copies,0,chain,,3-4-2,3-4-4,Complete Mission 3-4-2,893,Mythril x3,892 891,Tri-Fire [1* MP+2] | Elemental Strike [1* MAG+5],8
+34,3-4-4,Return to Midgar,0,chain,,3-4-3,3-4-5,Complete Mission 3-4-3,925,Flare [1* MP+2],923 924,X-Potion | Vital Slash [1* ATK+0],8
+35,3-4-5,Destroy the Copy Factory,0,chain,,3-4-4,3-4-6,Complete Mission 3-4-4,956,Adamantite x3,954 955,Dark Matter | Mythril,8
+36,3-4-6,Strongest Copies Yet,0,chain,,3-4-5,3-5-1,Complete Mission 3-4-5,977,SP Turbo Magic [1* MAG+1],975 972 976 973 974,Elixir | Sea Chocobo Armlet | Lunar Harp | Phoenix Down | Zeio Nut,9
+37,3-5-1,Intercept the Copies,0,chain,,3-4-6,3-5-2,Complete Mission 3-4-6,1013,Hero Drink x3,1010 1011 1012,Hammer Punch [1* AP+5] | Kaiser Knuckles | X-Potion,9
+82,3-5-2,Attack the Copies' Base,0,chain,,3-5-1,3-5-3,Complete Mission 3-5-1,1040,Hero Drink x2,1038 1039,8000 SP | Platinum Bangle,9
+181,3-5-3,Genesis's Special Ops Unit,0,chain,,3-5-2,3-5-4,Complete Mission 3-5-2,1047,Wall [5* MAG+60],1045 1046,Flare [1* MP+2] | Shinra Beta+,9
+40,3-5-4,Chase the Copies,0,chain,,3-5-3,3-5-5,Complete Mission 3-5-3,1084,Ultima [1* MP+2],1080 1082 1083 1081,Exploder Blade [1* ATK+0] | Elixir | Mythril | Dark Matter,9
+41,3-5-5,Defeat the Copies,0,chain,,3-5-4,3-5-6,Complete Mission 3-5-4,1106,Fat Chocobo Feather x3,1105,Phoenix Down,9
+201,3-5-6,The Last of the Genesis Troops,0,chain,,3-5-5,,Complete Mission 3-5-5,1127,SP Turbo Attack [1* ATK+1],1124 1126 1125,Dark Matter | Phoenix Down | 2000 Gil,9
+210,4-1-1,Wutai Units Found,0,chapter,2,,4-1-2,Automatically unlocked at the beginning of Chapter 2,42,Elixir,41,X-Potion,1
+20,4-1-2,Anti-SOLDIER Monsters,0,chain,,4-1-1,4-1-3,Complete Mission 4-1-1,44,Bulletproof Vest,43,X-Potion,1
+137,4-1-3,Pursue the Deserters,0,chain,,4-1-2,4-1-4,Complete Mission 4-1-2,123,Libra [1* ATK+1],120 121 122,X-Potion | Ether | Potion,2
+169,4-1-4,Wutai Remnants in the Slums,0,chain,,4-1-3,4-1-5,Complete Mission 4-1-3,203,Muscle Belt,202,Thunder [1* MAG+0],2
+194,4-1-5,Stop the Intruders,0,chain,,4-1-4,4-1-6,Complete Mission 4-1-4,291,Mute Shock,288 289 290,Barrier [1* SPR+0] | Elixir | Potion,3
+55,4-1-6,Search for the Wutai Remnants,0,chain,,4-1-5,4-2-1,Complete Mission 4-1-5,395,Poison Blade [1* ATK+0],393 394,Hi-Potion | Potion,4
+153,4-2-1,Foes in the Corel Mines,0,chain,,4-1-6,4-2-2,Complete Mission 4-1-6,462,Lightning Armlet,460 461,Muscle Belt | Titanium Bangle,4
+104,4-2-2,Remnants in the Slums,0,chain,,4-2-1,4-2-3,Complete Mission 4-2-1,499,Gold Armlet,497 498,X-Potion | AP Up+ [1* AP+2],5
+171,4-2-3,Foes inside Shinra Building,0,chain,,4-2-2,4-2-4,Complete Mission 4-2-2,536,Blaze Armlet,533 534 535,Mind Stone x2 | Guard Stone x3 | Power Stone x2,5
+107,4-2-4,March into Wutai,0,chain,,4-2-3,4-2-5,Complete Mission 4-2-3,596,AP Up++ [1* AP+3],593 594 595,SPR Up+ [1* SPR+2] | Muscle Belt | Hi-Potion,5
+190,4-2-5,Stubborn Remnants,0,chain,,4-2-4,4-2-6,Complete Mission 4-2-4,633,Sprint Shoes,631 632,Elixir | Gravity [1* MAG+0],6
+59,4-2-6,The Five Saints of Wutai,0,chain,,4-2-5,4-4-1,Complete Mission 4-2-5,676,Wutai Secret Shop Address,674 675,5000 Gil | Drain Blade [1* HP+1],6
+102,4-3-1,Defeat the Scout Units,1,npc,5,,,"Speak to the SOLDIER 2nd Class in Sector 8 – LOVELESS Avenue in Chapter 5, then agree to help him locate Wutai spies. Unlike other people to talk to, the Wutai spies will not be marked on the map. Speak to the man roaming around in front of the LOVELESS theatre 3 times to catch the 1st Wutai spy.",268,Poison Twister [1* ATK+1],266 267,X-Potion | Champion Belt,2
+14,4-3-2,Obliterate Advance Elements,1,npc,,,,Speak to the Shinra Trooper roaming around Sector 5 – Market 3 times to catch the 2nd Wutai spy,287,System Shock,285 286,Feather Cap | Remedy,3
+103,4-3-3,Foes in the Wutai Base,1,npc,,,,"Speak to the Shinra Employee in Shinra Building Entrance, outside the elevator upstairs, 3 times to catch the 3rd Wutai spy",303,Power Wrist,300 301 302,Elixir | Ether | Thunder [1* MAG+0],3
+63,4-3-4,Mobile Units,1,npc,,,,"Speak to the Woman upstairs in Sector 8 – Fountain, outside the entrance to the train station, 3 times to catch the 4th Wutai spy",381,Diamond Bracelet,,,4
+58,4-3-5,The Enemy's Stronghold,1,npc,,,,"Speak to the Shinra Employee in Shinra HQ Exhibit Room, standing in front of the Rocket Exhibit, 3 times to catch the 5th Wutai spy",355,Death [1* MAG+0],354 352 353,Phoenix Down | Hi-Potion | X-Potion,4
+97,4-3-6,Stop Assailants,1,npc,,,,Speak to the Boy wearing a cap in Sector 6 Slums – Park 3 times to catch the 6th Wutai spy,385,The Happy Turtle Address,382 383 384,X-Potion | Mountain Chocobo Armlet | Elixir,4
+65,4-4-1,A New Threat,0,chain,,4-2-6,4-4-2,Complete Mission 4-2-6,680,Hero Drink x2,677 678 679,River Chocobo Armlet | Gold Rolling Pin | Gold Rolling Pin,6
+141,4-4-2,Death Wish for Zack,0,chain,,4-4-1,4-4-3,Complete Mission 4-4-1,739,Darkness [1* HP+2],737 738,Hell Blizzaga [1* MAG+1] | Blizzaga Blade [1* MAG+2],7
+142,4-4-3,Infiltration,0,chain,,4-4-2,4-4-4,Complete Mission 4-4-2,777,Sec.7 Shop Address,772 773 775 774 776,Gold Rolling Pin | Adamantite x5 | Stop Blade [1* ATK+0] | Bolt Armlet | Dark Matter x3,7
+143,4-4-4,Wutai in the Slums,0,chain,,4-4-3,4-4-5,Complete Mission 4-4-3,797,Gil Toss [1* ATK+1],794 795 796,Elixir | Flame Armlet | Tri-Thundaga [1* MP+2],7
+16,4-4-5,Anti-Shinra Base,0,chain,,4-4-4,4-4-6,Complete Mission 4-4-4,813,Hero Drink x3,812 810 811,Death Blade [1* ATK+1] | X-Potion | Diamond Bracelet,7
+196,4-4-6,Anti-SOLDIER Weapons,0,chain,,4-4-5,4-5-1,Complete Mission 4-4-5,833,Moon Bracer,831 832,SPR Up++ [1* SPR+3] | Gold Rolling Pin,7
+197,4-5-1,Neutralize the Commander,0,chain,,4-4-6,4-5-2,Complete Mission 4-4-6,719,Tri-Thundaga [1* MP+2],717 718,Blaze Armlet | Wall [1* SPR+0],8
+144,4-5-2,Last of the Wutai,0,chain,,4-5-1,4-5-3,Complete Mission 4-5-1,784,Platinum Bangle,782 783,Regen [1* SPR+1] | AP Up++ [1* AP+3],8
+98,4-5-3,Crush the Crescent Unit,0,chain,,4-5-2,4-5-4,Complete Mission 4-5-2,820,Dispel Blade [1* MAG+3],819 817 818,Adamantite | Diamond Gloves | X-Potion,8
+149,4-5-4,Crescent Unit Annihilation,0,chain,,4-5-3,4-5-5,Complete Mission 4-5-3,862,Goblin Punch [1* ATK+1],860 861,Elixir | Stop Twister [1* ATK+1],8
+151,4-5-5,Before the Regroup,0,chain,,4-5-4,4-5-6,Complete Mission 4-5-4,880,Royal Crown,878 879,8000 SP | Electrocute [1* MP+2],9
+150,4-5-6,Wutai Suppression,0,chain,,4-5-5,,Complete Mission 4-5-5,928,Magical Punch [1* MP+5],926 927,Gold Rolling Pin | Stop Twister [1* ATK+1],9
+261,5-1-1,Experiment No. 101,0,chapter,2,,,Automatically unlocked at the beginning of Chapter 2,45,Fire [2* MAG+3],,,1
+207,5-1-2,Experiment No. 102,0,chapter,3,,,Automatically unlocked at the beginning of Chapter 3,81,Amulet,,,2
+216,5-1-3,Experiment No. 103,0,chapter,4,,,Automatically unlocked at the beginning of Chapter 4,128,Lightning Ring,,,2
+209,5-1-4,Experiment No. 104,0,chapter,5,,,Automatically unlocked at the beginning of Chapter 5,204,Drain [1* HP+1],,,3
+212,5-1-5,Experiment No. 105,0,chapter,6,,,Automatically unlocked at the beginning of Chapter 6,295,Venom Shock,,,4
+44,5-1-6,Experiment No. 106,0,chapter,6,,,Automatically unlocked at the beginning of Chapter 6,294,Drainra [1* HP+1],292 293,Elixir | Adamantite,4
+213,5-2-1,Experiment No. 107,0,chapter,9,,,Automatically unlocked at the beginning of Chapter 9,453,Curaga [1* SPR+1],,,5
+214,5-2-2,Experiment No. 108,0,chapter,9,,,Automatically unlocked at the beginning of Chapter 9,452,Firaga [1* MAG+1],,,5
+215,5-2-3,Experiment No. 109,0,chapter,10,,5-2-4,Automatically unlocked at the beginning of Chapter 10,519,Mortal Shock,,,5
+217,5-2-4,Experiment No. 110,0,chain,,5-2-3,5-2-5,Complete Mission 5-2-3,617,Wall [1* SPR+0],,,6
+218,5-2-5,Experiment No. 111,0,chain,,5-2-4,5-2-6,Complete Mission 5-2-4,652,Fat Chocobo Feather x4,,,6
+219,5-2-6,Experiment No. 112,0,chain,,5-2-5,5-3-1,Complete Mission 5-2-5,684,Osmose Blade [1* MP+1],,,6
+222,5-3-1,Experiment No. 113,0,chain,,5-2-6,5-3-2,Complete Mission 5-2-6,716,Poison Aerial [1* ATK+1],,,7
+223,5-3-2,Experiment No. 114,0,chain,,5-3-1,5-3-3,Complete Mission 5-3-1,767,Death Twister [1* ATK+1],,,7
+224,5-3-3,Experiment No. 115,0,chain,,5-3-2,5-3-4,Complete Mission 5-3-2,793,Iron Fist [1* ATK+1],,,7
+225,5-3-4,Experiment No. 116,0,chain,,5-3-3,5-3-5,Complete Mission 5-3-3,816,Platinum Bangle,,,7
+226,5-3-5,Experiment No. 117,0,chain,,5-3-4,5-3-6,Complete Mission 5-3-4,853,Crystal Orb,,,8
+227,5-3-6,Experiment No. 118,0,chain,,5-3-5,5-4-1,Complete Mission 5-3-5,877,Dark Matter x5,,,8
+228,5-4-1,Experiment No. 119,0,chain,,5-3-6,5-4-2,Complete Mission 5-3-6,906,Element Blade,,,8
+229,5-4-2,Experiment No. 120,0,chain,,5-4-1,5-4-3,Complete Mission 5-4-1,941,Magical Punch [1* MP+5],,,8
+233,5-4-3,Experiment No. 121,0,chain,,5-4-2,5-4-4,Complete Mission 5-4-2,967,Flare [1* MP+2],,,9
+234,5-4-4,Experiment No. 122,0,chain,,5-4-3,5-4-5,Complete Mission 5-4-3,1000,Fat Chocobo Feather x5,,,9
+232,5-4-5,Experiment No. 123,0,chain,,5-4-4,5-4-6,Complete Mission 5-4-4,1018,Quake [5* MAG+45],,,9
+235,5-4-6,Experiment No. 124,0,chain,,5-4-5,,Complete Mission 5-4-5,1051,Ribbon,,,9
+211,6-1-1,Closed Coal Mines,0,chapter,2,,6-1-2,Automatically unlocked at the beginning of Chapter 2,75,Phoenix Down,74,Hi-Potion,1
+67,6-1-2,Desert Island Delights,0,chain,,6-1-1,6-1-3,Complete Mission 6-1-1,99,Chocobo Armlet,98,Elixir,2
+19,6-1-3,Scavenger Hunt,0,chain,,6-1-2,6-1-4,Complete Mission 6-1-2,221,Jump [1* ATK+0],218 219 220,ATK Up [1* ATK+1] | Hi-Potion | Dash [1* AP+2],2
+138,6-1-4,In the Depths of the Caverns,0,chain,,6-1-3,6-1-5,Complete Mission 6-1-3,265,Dark Matter x2,264,Silver Armlet,3
+45,6-1-5,Buried in the Caverns,0,chain,,6-1-4,6-1-6,Complete Mission 6-1-4,343,Lunar Harp x2,341 342,Bronze Armlet | Fira [1* MAG+1],4
+125,6-1-6,Item in the Coal Mines II,0,chain,,6-1-5,6-3-1,Complete Mission 6-1-5,443,Hero Drink x2,441 442,Dark Matter | Mythril,4
+27,6-2-1,Slum Development Plan 1,1,npc,5,,6-2-2,Speak to the City Planning Executive in Shinra Building Entrance in Chapter 5,284,Fat Chocobo Feather x2,281 282 283,Hi-Potion | Ether | White Cape,2
+123,6-2-2,Slum Development Plan 2,0,chain,,6-2-1,6-2-3,Complete Mission 6-2-1,280,Hero Drink x2,277 278 279,X-Potion | Silence [1* MAG+1] | Adamantite,3
+113,6-2-3,Mako Excavation Site,0,chain,,6-2-2,6-2-4,Complete Mission 6-2-2,351,Lunar Harp x2,349 350,HP Up+ [1* HP+2] | Elixir,3
+122,6-2-4,Ingredient for Soma,0,chain,,6-2-3,6-2-5,Complete Mission 6-2-3,377,Elixir x20,374 375 376,Silver Armlet | Fira [1* MAG+1] | Soma,4
+62,6-2-5,Making Phoenix Down,0,chain,,6-2-4,6-2-6,Complete Mission 6-2-4,456,Doc's Code,,,4
+108,6-2-6,Underground City,0,chain,,6-2-5,6-4-1,Complete Mission 6-2-5,440,Lunar Harp x2,436 437 438 439,Power Wrist | Elixir | Titanium Bangle | MP Up+ [1* MP+2],4
+114,6-3-1,Items in the Plains,0,chain,,6-1-6,6-3-2,Complete Mission 6-1-6,495,Fat Chocobo Feather x2,,,5
+252,6-3-2,Desert Island Surprise,0,chain,,6-3-1,6-3-3,Complete Mission 6-3-1,532,Adamantite x2,531 529 530,Bronze Armlet | Hi-Potion | MAG Up+ [1* MAG+2],5
+157,6-3-3,An Item for Fusion,0,chain,,6-3-2,6-3-4,Complete Mission 6-3-2,582,Dark Matter x3,,,5
+180,6-3-4,An Item in the Caverns,0,chain,,6-3-3,6-3-5,Complete Mission 6-3-3,605,Fat Chocobo Feather x2,603 604 602,Mythril | Crystal Gloves | Blizzaga Blade [1* MAG+2],6
+152,6-3-5,Item in the Coal Mines,0,chain,,6-3-4,6-3-6,Complete Mission 6-3-4,651,Hero Drink x2,646 648 650 649 647,Fat Chocobo Feather | Flame Armlet | Mythril | Adamantite | Gold Armlet,6
+167,6-3-6,Items in the Wasteland,0,chain,,6-3-5,,Complete Mission 6-3-5,687,Mythril x3,685 686,Hypno Crown | Hero Drink,6
+101,6-4-1,Monsters in the Caverns,0,chain,,6-2-6,6-4-2,Complete Mission 6-3-6,715,Mythril x3,713 714,Sprint Shoes | Hero Drink,7
+128,6-4-2,In the Closed Coal Mines,0,chain,,6-4-1,6-4-3,Complete Mission 6-4-1,760,Lunar Harp x2,758 759,Hell Blizzaga [1* MAG+1] | Rune Armlet,7
+175,6-4-3,In the Secret Facility,0,chain,,6-4-2,6-4-4,Complete Mission 6-4-2,809,Fat Chocobo Feather x3,807 808 806,5000 SP | Tri-Fire [1* MP+2] | Hero Drink,7
+105,6-4-4,Hiding in the Wasteland,0,chain,,6-4-3,6-4-5,Complete Mission 6-4-3,856,Nibel Accessories Address,854 855,Mythril x3 | Silver Armlet,8
+116,6-4-5,Buried in the Plains,0,chain,,6-4-4,6-4-6,Complete Mission 6-4-4,870,Shining Bracer,,,8
+168,6-4-6,Ancient and Hidden,0,chain,,6-4-5,6-5-1,Complete Mission 6-4-5,922,Fat Chocobo Feather x3,921 919 918 920,Mythril Armlet | Dark Matter x2 | Adamantite | Bolt Armlet,8
+176,6-5-1,City Planning Dept.,0,chain,,6-4-6,6-5-2,Complete Mission 6-4-6,937,Hero Drink x3,935 936,Hero Drink | Energy [1* MP+1],8
+158,6-5-2,Space Development Dept.,0,chain,,6-5-1,6-5-3,Complete Mission 6-5-1,985,Fat Chocobo Feather x3,978 979 984 980 981 982 983,Gold Armlet | Smart Consumer [1* AP+5] | Mythril | Fat Chocobo Feather | Silver Armlet | Gysahl Greens | Crystal Orb,9
+121,6-5-3,The Reporting Department,0,chain,,6-5-2,6-5-4,Complete Mission 6-5-2,999,Mythril x3,998 997,Blaze Armlet | Royal Crown,9
+161,6-5-4,Security Department,0,chain,,6-5-3,6-5-5,Complete Mission 6-5-3,1023,Mythril x3,1021 1019 1022 1020,Royal Crown | Adamantite | Mountain Chocobo Armlet | Dispel Blade [1* MAG+3],9
+179,6-5-5,Arms Development Dept.,0,chain,,6-5-4,6-5-6,Complete Mission 6-5-4,1044,Drainga [5* HP+50],1042 1041 1043,Fat Chocobo Feather | Magical Punch [1* MP+5] | Gysahl Greens,9
+154,6-5-6,Science Department,0,chain,,6-5-5,6-6-1,Complete Mission 6-5-5,1074,High Jump [5* ATK+40],1068 1069 1070 1071 1072 1073,Gysahl Greens | X-Potion | Mythril | Hyper Wrist | SP Turbo Magic [1* MAG+1] | Lunar Harp,9
+24,6-6-1,The Don's Secret,0,chain,,6-5-6,6-6-2,Complete Mission 6-5-6,1096,Fat Chocobo Feather x4,1094 1093 1095,Dark Matter | Element Blade | Vital Slash [1* ATK+0],9
+25,6-6-2,The Don's Second Secret,0,chain,,6-6-1,6-6-3,Complete Mission 6-6-1,1117,Mythril x5,1115 1116,Graviga [1* MAG+1] | Status Ward [1* SPR+5],9
+164,6-6-3,Secret in the Caverns,0,chain,,6-6-2,6-6-4,Complete Mission 6-6-2,1148,Adamantite x5,1143 1147 1144 1145 1146,Ultima [1* MP+2] | Dark Matter | Crystal Orb | Fat Chocobo Feather | Sky Chocobo Armlet,10
+165,6-6-4,Secret on the Plains,0,chain,,6-6-3,6-6-5,Complete Mission 6-6-3,1176,Gold Rolling Pin,,,10
+249,6-6-5,The Melancholy Don,0,chain,,6-6-4,6-6-6,Complete Mission 6-6-4,1190,Dark Matter x10,1184 1185 1188 1186 1187 1189,Adamantite | Electrocute [1* MP+2] | Ultima [1* MP+2] | High Jump [1* ATK+1] | Curaga [1* SPR+1] | Firaga Blade [1* MAG+2],10
+195,6-6-6,The Don's Twilight,0,chain,,6-6-5,,Complete Mission 6-6-5,1195,Hero Drink x10,1191 1192 1194 1193,Power Suit | Mythril | Adamantite | Gysahl Greens,10
+60,7-1-1,Freight Recall,1,npc,3,,7-1-2,Speak to the SOLDIER 3rd Class in the Shinra HQ Briefing Room in Chapter 3,127,Headband,125 126,Ether | X-Potion,2
+111,7-1-2,Black Market Recall,0,chain,,7-1-1,7-1-3,Complete Mission 7-1-1,109,Star Pendant,106 107 108,Soma | Elixir | Hi-Potion,2
+273,7-1-3,Cargo Recall,0,chain,,7-1-2,7-1-4,Complete Mission 7-1-2,254,Diamond Gloves,252 253,Power Wrist | Sprint Shoes,2
+126,7-1-4,Supplies Recall,0,chain,,7-1-3,7-1-5,Complete Mission 7-1-3,248,Pearl Necklace,246 247,X-Potion | Ice Armlet,3
+129,7-1-5,Deputy Assignment,0,chain,,7-1-4,7-1-6,Complete Mission 7-1-4,368,Frost Armlet,365 366 367 364,Blizzara [1* MAG+1] | Elixir | Mythril Gloves | X-Potion,4
+131,7-1-6,Second Deputy Assignment,0,chain,,7-1-5,,Complete Mission 7-1-5,469,Sprint Shoes,465 466 467 468,Mystile | X-Potion | Blizzara [1* MAG+1] | Hi-Potion,4
+231,7-2-1,Search and Destroy,0,chapter,4,,7-2-2,Automatically unlocked at the beginning of Chapter 4,201,Item Fusion Tome,198 199 200 196 197,Hi-Potion | Soma | Remedy | Blizzard [1* MAG+0] | Hi-Potion,3
+100,7-2-2,Search and Destroy II,0,chain,,7-2-1,7-2-3,Complete Mission 7-2-1,276,Keychain,270 271 272 273 274 275,MAG Up [1* MAG+1] | Gris-Gris Bag | Elixir | Hi-Potion | X-Potion | Mythril Gloves,3
+134,7-2-3,Operation: Mako Reactor I,0,chain,,7-2-2,7-2-4,Complete Mission 7-2-2,348,Thunder Armlet,344 345 346 347,Hi-Potion | Four Slots | Thundara [1* MAG+1] | Elixir,4
+156,7-2-4,Operation: Mako Reactor II,0,chain,,7-2-3,7-2-5,Complete Mission 7-2-3,448,Dragon Armlet,444 445 446 447,AP Stone x8 | Magic Stone x8 | MP Stone x8 | Mind Stone x8,5
+155,7-2-5,Operation: Mako Reactor III,0,chain,,7-2-4,7-2-6,Complete Mission 7-2-4,494,Backpack,492 493 490 491,Luck Stone x8 | Mythril Gloves | HP Stone x8 | Guard Stone x8,5
+118,7-2-6,Accessories Recall,0,chain,,7-2-5,7-3-1,Complete Mission 7-2-5,547,Paralyzing Shock,544 545 546,Ice Ring | Champion Belt | Elixir,5
+15,7-3-1,P's Precognition Lv.1,0,chain,,7-2-6,7-3-2,Complete Mission 7-2-6,599,Black Cowl,597 598,Force Bracelet | X-Potion,5
+191,7-3-2,P's Precognition Lv.2,0,chain,,7-3-1,7-3-3,Complete Mission 7-3-1,637,Snow Armlet,635 636 634,Elixir | X-Potion | Champion Belt,6
+146,7-3-3,P's Precognition Lv.3,0,chain,,7-3-2,7-3-4,Complete Mission 7-3-2,673,Sea Chocobo Armlet,671 672,Iron Bangle | X-Potion,6
+145,7-3-4,P's Precognition Lv.4,0,chain,,7-3-3,7-3-5,Complete Mission 7-3-3,709,Gold Hairpin,707 708,Mythril | Champion Belt,6
+183,7-3-5,P's Precognition Lv.5,0,chain,,7-3-4,7-3-6,Complete Mission 7-3-4,749,Snow Armlet,746 747 748,Shinra Beta | Hypno Crown | Tarot Cards,7
+26,7-3-6,P's Precognition Lv.6,0,chain,,7-3-5,7-4-1,Complete Mission 7-3-5,792,Adaman Bangle,790 791,Graviga [1* MAG+1] | Champion Belt,7
+178,7-4-1,First Contact,0,chain,,7-3-6,7-4-2,Complete Mission 7-3-6,626,Twisted Headband,624 625 623,Steal [1* AP+1] | Mystile | Death [1* MAG+0],6
+140,7-4-2,Second Contact,0,chain,,7-4-1,7-4-3,Complete Mission 7-4-1,665,Brigand's Gloves,664 662 663,MP Up++ [1* MP+3] | Gris-Gris Bag | Hi-Potion,6
+112,7-4-3,Third Contact,0,chain,,7-4-2,7-4-4,Complete Mission 7-4-2,701,Headband,,,6
+119,7-4-4,Fourth Contact,0,chain,,7-4-3,7-4-5,Complete Mission 7-4-3,727,Mythril Armlet,724 725 726,Sea Chocobo Armlet | Thunder Armlet | Hell Thundaga [1* MAG+1],7
+147,7-4-5,Signs of Growth,0,chain,,7-4-4,7-4-6,Complete Mission 7-4-4,757,Blaze Armlet,754 755 756,Poison Blade [1* ATK+0] | Hi-Potion | Vital Slash [1* ATK+0],7
+148,7-4-6,Breakthrough,0,chain,,7-4-5,7-5-1,Complete Mission 7-4-4,826,Brutal,823 824 825,X-Potion | Tri-Fire [1* MP+2] | Gil Toss [1* ATK+1],7
+109,7-5-1,Boy in the Caverns,0,chain,,7-4-6,7-5-2,Complete Mission 7-4-6,846,Sky Chocobo Armlet,842 843 844 845,X-Potion | Diamond Bracelet | Iron Fist [1* ATK+1] | Sprint Shoes,8
+3,7-5-2,Eldest in the Wasteland,0,chain,,7-5-1,7-5-3,Complete Mission 7-5-1,884,Gold Armlet,881 882 883,X-Potion | 1000 Gil | Protect Ring,8
+185,7-5-3,Girl on the Desert Island,0,chain,,7-5-2,7-5-4,Complete Mission 7-5-2,904,Bone Village Outlet Address,903 901 902,Champion Belt | Sky Chocobo Armlet | Hi-Potion,8
+120,7-5-4,Second Son in the Wasteland,0,chain,,7-5-3,7-5-5,Complete Mission 7-5-3,944,Power Suit,942 943,Hero Drink | Headband,8
+192,7-5-5,Twins in the Caverns,0,chain,,7-5-4,7-5-6,Complete Mission 7-5-4,966,Energy Suit,963 964 965,Magical Punch [1* MP+5] | Elixir | Blast Wave [1* ATK+1],9
+127,7-5-6,Youngest in the Wasteland,0,chain,,7-5-5,7-6-1,Complete Mission 7-5-5,1003,Wizard Bracelet,1001 1002,Shining Bracer | Elixir,9
+246,7-6-1,A Recruiter's Departure,0,chain,,7-5-6,7-6-2,Complete Mission 7-5-6,1030,Good-Luck Charm,1026 1027 1028 1024 1025 1029,X-Potion | Death Twister [1* ATK+1] | Fat Chocobo Feather | Bolt Armlet | Elixir | Adamantite,9
+247,7-6-2,A Recruiter's Close Call,0,chain,,7-6-1,7-6-3,Complete Mission 7-6-1,1057,Faerie Ring,1055 1056 1052 1053 1054,Fat Chocobo Feather | X-Potion | Sky Chocobo Armlet | Energy [1* MP+1] | Mythril,9
+221,7-6-3,A Recruiter in a Slump,0,chain,,7-6-2,7-6-4,Complete Mission 7-6-2,1079,Protect Ring,1075 1076 1077 1078,Fat Chocobo Feather | Electrocute [1* MP+2] | Power Suit | Moon Bracer,9
+172,7-6-4,The Irritated Recruiter,0,chain,,7-6-3,7-6-5,Complete Mission 7-6-3,1104,Mog's Amulet,1099 1100 1101 1102 1103,Mythril | Mythril Armlet | Elixir | Fat Chocobo Feather x2 | Blast Wave [1* ATK+1],9
+187,7-6-5,The Frustrated Recruiter,0,chain,,7-6-4,7-6-6,Complete Mission 7-6-4,1123,Twisted Headband,1118 1119 1120 1121 1122,Shining Bracer | Mythril Armlet | Elixir | Shinra Beta+ | Mythril,9
+248,7-6-6,The Determined Recruiter,0,chain,,7-6-5,,Complete Mission 7-6-5,1152,Energy Suit,1149 1151 1150,Assault Twister+ [1* ATK+1] | Fat Chocobo Feather x3 | Graviga [1* MAG+1],10
+198,8-1-1,Rematch with Ifrit,0,chapter,2,,8-1-2,Automatically unlocked at the beginning of Chapter 2,46,Ifrit Materia,,,1
+117,8-1-2,Rajincho,0,chain,,8-1-1,,Complete Mission 8-1-1,79,Thunder [2* MAG+3],78,Hi-Potion,1
+159,8-1-3,Clash with Genesis Troops,0,chapter,3,,8-1-4,Automatically unlocked at the beginning of Chapter 3,130,HP Up [1* HP+1],129,Ether,2
+205,8-1-4,Rematch with Bahamut,0,chain,,8-1-3,8-1-5,Complete Mission 8-1-3,208,Bahamut Materia,,,2
+160,8-1-5,Escape from Hojo's Lab,0,chain,,8-1-4,8-1-6,Complete Mission 8-1-4,269,Regen [1* SPR+1],,,3
+162,8-1-6,Mysteria Materia,0,chain,,8-1-5,8-3-1,Complete Mission 8-1-5,380,Odin Materia,378 379,Fire Armlet | Hi-Potion,3
+66,8-2-1,SPR Mako Stone,1,npc,2,,8-2-2,Speak to the Researcher in the Shinra HQ Materia Room in Chapter 2 before speaking to Tseng,80,SPR Mako Stone,141,Potion,1
+87,8-2-2,VIT Mako Stone,0,chain,,8-2-1,8-2-3,Complete Mission 8-2-1,124,VIT Mako Stone,140 139,Potion | Soma,2
+42,8-2-3,MAG Mako Stone,0,chain,,8-2-2,8-2-4,Complete Mission 8-2-2,187,MAG Mako Stone,186,Hi-Potion,2
+88,8-2-4,HP Mako Stone,0,chain,,8-2-3,8-2-5,Complete Mission 8-2-3,315,HP Mako Stone,311 312 313 314,MAG Up [1* MAG+1] | X-Potion | Ether | Hi-Potion,3
+89,8-2-5,ATK Mako Stone,0,chain,,8-2-4,8-2-6,Complete Mission 8-2-4,334,ATK Mako Stone,391 392,Phoenix Down | X-Potion,4
+90,8-2-6,LCK Mako Stone,0,chain,,8-2-5,,Complete Mission 8-2-5,455,LCK Mako Stone,463 464,Fira [1* MAG+1] | Esuna [1* SPR+0],4
+182,8-3-1,EM Hell in the Building,0,chain,,8-1-6,8-3-2,Complete Mission 8-2-6,458,Stop Blade [1* ATK+0],457,Dispel [1* SPR+0],5
+206,8-3-2,EM Hell on the Island,0,chain,,8-3-1,8-3-3,Complete Mission 8-3-1,483,Status Ward [1* SPR+5],480 481 482,Hi-Potion | Gravity [1* MAG+0] | Diamond Gloves,5
+186,8-3-3,EM Hell in the Wasteland,0,chain,,8-3-2,8-3-4,Complete Mission 8-3-2,528,Elemental Strike [1* MAG+5],527 526,X-Potion | Elixir,5
+43,8-3-4,EM Hell in the Mines,0,chain,,8-3-3,8-3-5,Complete Mission 8-3-3,580,MAG Up++ [1* MAG+3],576 577 578 579,Diamond Gloves | Gravity [1* MAG+0] | Shinra Beta | Twisted Headband,5
+166,8-3-5,EM Hell in the Plains,0,chain,,8-3-4,8-3-6,Complete Mission 8-3-4,615,Status Strike [1* MAG+5],611 612 613 614,AP Up++ [1* AP+3] | Iron Bangle | Dash [1* AP+2] | X-Potion,6
+174,8-3-6,EM Hell in the Caverns,0,chain,,8-3-5,,Complete Mission 8-3-5,645,Hell Thundaga [1* MAG+1],644 642 643,Steal [1* AP+1] | Dark Matter | VIT Up++ [1* VIT+3],6
+69,8-4-1,Suspicious Mail 1,0,special,,,8-4-2,Automatically unlocked after the cutscene with Sephiroth in Mako Reactor 5 in Chapter 3,119,Chocobo Feather,115 116 117 118,MBarrier [1* SPR+0] | Potion | Soma | Hi-Potion,2
+68,8-4-2,Suspicious Mail 2,0,chain,,8-4-1,8-4-3,Complete Mission 8-4-1,195,Barrier [1* SPR+0],193 194 192,Circlet | HP Up [1* HP+1] | Jump [1* ATK+0],2
+70,8-4-3,Suspicious Mail 3,0,chain,,8-4-2,8-4-4,Complete Mission 8-4-2,263,Cait Sith's Megaphone,262 259 260 261,HP Up+ [1* HP+2] | Stop [1* MAG+1] | Osmose [1* MP+1] | Ether,3
+72,8-4-4,Suspicious Mail 4,0,chain,,8-4-3,8-4-5,Complete Mission 8-4-3,359,Moogle's Amulet,356 357 358,Drainra [1* HP+1] | Elixir | Vital Slash [1* ATK+0],4
+173,8-4-5,Suspicious Mail 5,0,chain,,8-4-4,8-4-6,Complete Mission 8-4-4,432,MAG Up+ [1* MAG+2],428 429 430 431,Elixir | Silver Armlet | Mountain Chocobo Armlet | Firaga [1* MAG+1],4
+74,8-4-6,Suspicious Mail 6,0,chain,,8-4-5,8-5-1,Complete Mission 8-4-5,489,Darkness [1* HP+2],487 486 488,VIT Up+ [1* VIT+2] | Diamond Bracelet | X-Potion,5
+75,8-5-1,Treasure Info 1,0,chain,,8-4-6,8-5-2,Complete Mission 8-4-6,543,Assault Twister+ [1* ATK+1],541 539 542 540,Ice Armlet | Curaga [1* SPR+1] | Hyper Wrist | Hi-Potion,5
+77,8-5-2,Treasure Info 2,0,chain,,8-5-1,8-5-3,Complete Mission 8-5-1,592,VIT Up++ [1* VIT+3],590 589 591,Blizzaga [1* MAG+1] | Death Blade [1* ATK+1] | Hi-Potion,5
+177,8-5-3,Treasure Info 3,0,chain,,8-5-2,8-5-4,Complete Mission 8-5-2,630,SPR Up++ [1* SPR+3],627 628 629,Drainga [1* HP+1] | Diamond Bracelet | Gold Armlet,6
+78,8-5-4,Treasure Info 4,0,chain,,8-5-3,8-5-5,Complete Mission 8-5-3,670,Exploder Blade [1* ATK+0],667 668 669,River Chocobo Armlet | X-Potion | Bolt Armlet,6
+79,8-5-5,Treasure Info 5,0,chain,,8-5-4,8-5-6,Complete Mission 8-5-4,706,Hell Firaga [1* MAG+1],702 703 704 705,ATK Up++ [1* ATK+3] | Elixir | Force Bracelet | X-Potion,6
+80,8-5-6,Treasure Info 6,0,chain,,8-5-5,8-6-1,Complete Mission 8-5-5,745,Bahamut Fury Materia,740 741 743 742 744,Hell Firaga [1* MAG+1] | Silver Armlet | Graviga [1* MAG+1] | Firaga Blade [1* MAG+2] | Carbon Bangle,7
+81,8-6-1,Notice,0,chain,,8-5-6,8-6-2,Complete Mission 8-5-6,789,Tri-Fire [1* MP+2],785 787 788 786,Gold Rolling Pin | Elixir | Power Attack [1* ATK+0] | Status Strike [1* MAG+5],7
+83,8-6-2,Another Notice,0,chain,,8-6-1,8-6-3,Complete Mission 8-6-1,830,Death Jump [1* ATK+1],827 828 829,Dash [1* AP+2] | Silence Blade [1* ATK+0] | Sea Chocobo Armlet,7
+84,8-6-3,Final Notice,0,chain,,8-6-2,8-6-4,Complete Mission 8-6-2,869,Electrocute [1* MP+2],864 867 868 863 865 866,Flame Armlet | Wall [1* SPR+0] | X-Potion | Hyper Wrist | Fat Chocobo Feather | Gil Toss [1* ATK+1],8
+184,8-6-4,S.O.S.?,0,chain,,8-6-3,8-6-5,Complete Mission 8-6-3,900,Flare [1* MP+2],896 897 898 899,Sky Chocobo Armlet | Quake [1* MAG+1] | Tarot Cards | Blaze Armlet,8
+85,8-6-5,S.O.S.,0,chain,,8-6-4,8-6-6,Complete Mission 8-6-4,932,Smart Consumer [1* AP+5],930 929 931,Mountain Chocobo Armlet | Elixir | Hero Drink,8
+86,8-6-6,S.O.S....?,0,chain,,8-6-5,,Complete Mission 8-6-5,962,Stop Blade [5* ATK+60],959 957 961 958 960,X-Potion | Hi-Potion | Poison Blade [1* ATK+0] | Dispel Blade [1* MAG+3] | Diamond Bracelet,8
+253,9-1-1,Underground Caves,0,chain,,,9-1-2,Complete Mission 8-5-6,575,Aegis Armlet,573 574 571 572,Graviga [1* MAG+1] | Fire Ring | Hypno Crown | Bronze Armlet,5
+254,9-1-2,Deeper in the Caves,0,chain,,9-1-1,9-1-3,Complete Mission 9-1-1,610,Thundaga Blade [1* MAG+2],607 608 606 609,Fat Chocobo Feather | Diamond Gloves | MBarrier [1* SPR+0] | Gysahl Greens,6
+255,9-1-3,Marks of an Intruder,0,chain,,9-1-2,9-1-4,Complete Mission 9-1-2,658,Rune Armlet,653 654 655 656 657,Lightning Ring | Assault Twister [1* ATK+0] | Barrier [1* SPR+0] | Mountain Chocobo Armlet | Drainga [1* HP+1],6
+256,9-1-4,Genesis's Interception,0,chain,,9-1-3,9-1-5,Complete Mission 9-1-3,700,High Jump [1* ATK+1],698 699 695 696 697,Phoenix Down | Crystal Bracelet | Mythril | Shinra Beta | Adamantite,6
+257,9-1-5,Behind the Scenes,0,chain,,9-1-4,9-1-6,Complete Mission 9-1-4,736,Wall [1* SPR+0],735 728 729 730 731 732 733 734,Quake [1* MAG+1] | Osmoga [1* MP+1] | MBarrier [1* SPR+0] | Quake [1* MAG+1] | River Chocobo Armlet | Barrier [1* SPR+0] | Drainga [1* HP+1] | Frost Armlet,7
+258,9-1-6,Genesis's Threat,0,chain,,9-1-5,9-2-1,Complete Mission 9-1-5,781,Elixir,947 948 949,Dark Matter | Lunar Harp | Stop Blade [1* ATK+0],7
+259,9-2-1,The Third Power,0,chain,,9-1-6,9-2-2,Complete Mission 9-1-6,766,Poison Twister [1* ATK+1],763 764 765 761 762,Black Belt | Gysahl Greens | Hell Firaga [1* MAG+1] | MAG Up++ [1* MAG+3] | Graviga [1* MAG+1],7
+260,9-2-2,Weapons Out of Control,0,chain,,9-2-1,9-2-3,Complete Mission 9-2-1,803,Hero Drink x2,800 801 798 799 802,Hypno Crown | Elixir | X-Potion | Phoenix Down | River Chocobo Armlet,7
+263,9-2-3,Continuing in the Caves,0,chain,,9-2-2,9-2-4,Complete Mission 9-2-2,852,Element Blade,849 847 848 850 851,Fat Chocobo Feather | Phoenix Down | Snow Armlet | River Chocobo Armlet | X-Potion,8
+264,9-2-4,A New Path Discovered,0,chain,,9-2-3,9-2-5,Complete Mission 9-2-3,876,Energy [1* MP+1],872 875 871 873 874,Crystal Bracelet | X-Potion | Adaman Bangle | Gysahl Greens | Lunar Harp,8
+265,9-2-5,To the Lower Levels,0,chain,,9-2-4,9-2-6,Complete Mission 9-2-4,917,Iron Fist [1* ATK+1],914 915 916 911 912 913,X-Potion | 1000 Gil | Gold Hairpin | Death Twister [1* ATK+1] | Death Jump [1* ATK+1] | Snow Armlet,8
+266,9-2-6,Signs of Materia,0,chain,,9-2-5,9-3-1,Complete Mission 9-2-5,953,SP Turbo [1* HP+1],945 952 946 950 951,Zeio Nut | Hero Drink | Fat Chocobo Feather | Gysahl Greens | Diamond Gloves,8
+267,9-3-1,To the End,0,chain,,9-2-6,9-3-2,Complete Mission 9-2-6,993,Hammer Punch [1* AP+5],988 989 990 991 992,Adamantite | Lunar Harp | Aegis Armlet | X-Potion | Mythril,9
+268,9-3-2,Genesis's Challenge,0,chain,,9-3-1,9-3-3,Complete Mission 9-3-1,1009,Protect Ring,1004 1005 1006 1007 1008,Phoenix Down | Poison Blade [1* ATK+0] | Crystal Orb | Fat Chocobo Feather | Elixir,9
+269,9-3-3,Genesis's New Weapon,0,chain,,9-3-2,9-3-4,Complete Mission 9-3-2,1037,Online Shop Duo Address,1031 1032 1033 1034 1035 1036,Black Cowl | Adamantite | Crystal Bracelet | Energy [1* MP+1] | Fat Chocobo Feather | Gravity [5* MAG+38],9
+274,9-3-4,Genesis's Super Weapon,0,chain,,9-3-3,9-3-5,Complete Mission 9-3-3,1064,Magical Punch [1* MP+5],1061 1062 1058 1059 1060 1063,8000 SP | Mythril | Gysahl Greens | Crystal Orb | Blizzara | Fat Chocobo Feather,9
+275,9-3-5,Wutai's Best,0,chain,,9-3-4,9-3-6,Complete Mission 9-3-4,1092,Escort Guard,1091 1085 1086 1087 1088 1089 1090,Brigand's Gloves | X-Potion | Mythril | Status Ward [1* SPR+5] | Fat Chocobo Feather | Phoenix Down | Shining Bracer,9
+276,9-3-6,No More Wutai,0,chain,,9-3-5,9-4-1,Complete Mission 9-3-5,1112,Flare [5* MAG+30],1108 1109 1110 1111 1107,Silver Armlet | Mythril | Elixir | Lunar Harp | Rune Armlet,9
+277,9-4-1,Genesis's Ambition,0,chain,,9-3-6,9-4-2,Complete Mission 9-3-6,1136,Kaiser Knuckles x4,1131 1128 1134 1135 1132 1129 1130 1133,Gysahl Greens | Phoenix Down | Dualcast [1* MP+2] | Assault Twister+ [1* ATK+1] | Tarot Cards | High Jump [1* ATK+1] | Platinum Bangle | Hero Drink,9
+278,9-4-2,Genesis's Passion,0,chain,,9-4-1,9-4-3,Complete Mission 9-4-1,1161,Fat Chocobo Feather,1157 1158 1153 1154 1159 1160 1155 1156,Gravity | Headband | Sky Chocobo Armlet | Rune Armlet | Mythril Armlet | Crystal Gloves | Dark Matter | Wall [1* SPR+0],10
+279,9-4-3,A Fresh Start,0,chain,,9-4-2,9-4-4,Complete Mission 9-4-2,1175,1 [1* AP+2],1170 1171 1172 1174 1173,Sea Chocobo Armlet | Assault Twister+ [1* ATK+1] | Moon Bracer | SP Barrier [1* VIT+1] | Kaiser Knuckles,10
+281,9-4-4,Machines Gone Haywire,0,chain,,9-4-3,9-4-5,Complete Mission 9-4-3,1183,Precious Watch,1179 1180 1177 1178 1181 1182,Soul of Thamasa | Kaiser Knuckles | Royal Crown | Wall [1* SPR+0] | Flare [1* MP+2] | Black Garb,10
+282,9-4-5,Only for SOLDIER,0,chain,,9-4-4,9-4-6,Complete Mission 9-4-4,1202,Murderous Thrust [1* HP+2],1198 1199 1200 1196 1201 1197,SP Turbo Attack [1* ATK+1] | Adamantite | Curaga [1* SPR+1] | Magic Master | Fat Chocobo Feather | Flare [1* MP+2],10
+283,9-4-6,Only for 1st Class,0,chain,,9-4-5,9-5-1,Complete Mission 9-4-6,1208,Sniper Eye,1205 1203 1204 1206 1207,Flare [1* MP+2] | Shining Bracer | Hero Drink | Drainga [1* HP+1] | Electrocute [1* MP+2],10
+284,9-5-1,Hojo's Monsters,0,chain,,9-4-6,9-5-2,Complete Mission 9-4-6,1215,Brutal,1209 1210 1211 1212 1213 1214,Fat Chocobo Feather x10 | Mountain Chocobo Armlet | Gysahl Greens | Wall [1* SPR+0] | Flare [1* MP+2] | Phoenix Down,10
+285,9-5-2,Further Below,0,chain,,9-5-1,9-5-3,Complete Mission 9-5-1,1223,SP Barrier [1* VIT+1],1220 1216 1217 1218 1222 1219 1221,Aegis Armlet | Silver Armlet | Hero Drink | Elemental Ward [1* SPR+5] | Doc's Code | Mythril | Flare [1* MP+2],10
+286,9-5-3,Unusually Strong Monsters,0,chain,,9-5-2,9-5-4,Complete Mission 9-5-2,1230,Protect Ring,1226 1227 1228 1224 1225 1229,Rune Armlet | Gil Toss [1* ATK+1] | Dark Matter | Tri-Thundaga [1* MP+2] | Elemental Strike [1* MAG+5] | Escort Guard,10
+287,9-5-4,Abnormal Power,0,chain,,9-5-3,9-5-5,Complete Mission 9-5-3,1240,Online Shop Shade Address,1234 1233 1231 1232 1235 1236 1237 1238 1239,Royal Crown | Dark Matter | Phoenix Down | Platinum Bangle | Laurel Crown | Adaman Bangle | Costly Punch [1* ATK+5] | Osmoga [1* MP+1] | Jeweled Ring,10
+288,9-5-5,A Lonely Journey,0,chain,,9-5-4,9-5-6,Complete Mission 9-5-4,1245,Hellfire [5* MAG+40],1241 1242 1243 1244,Hero Drink | Tri-Fire [1* MP+2] | Elixir | Fat Chocobo Feather,10
+289,9-5-6,Even Deeper,0,chain,,9-5-5,9-6-1,Complete Mission 9-5-5,1253,Megaflare [5* MAG+50],1248 1249 1250 1246 1247 1251 1252,Mythril Armlet | Curaga [1* SPR+1] | Zeio Nut | Sky Chocobo Armlet | Electrocute [1* MP+2] | Good-Luck Charm | Ziedrich,10
+292,9-6-1,Toughest Monsters,0,chain,,9-5-6,9-6-2,Complete Mission 9-5-6,1263,Zantetsuken [5* MAG+60],1254 1256 1257 1258 1259 1255 1260 1261 1262,Curaga [1* SPR+1] | Mythril | Osmoga [1* MP+1] | Elixir | Wall [1* SPR+0] | Status Strike [1* MAG+5] | Hero Drink | Flare [1* MP+2] | Elixir,10
+293,9-6-2,The Lowest Tier,0,chain,,9-6-1,9-6-3,Complete Mission 9-6-1,1271,Super Ribbon,1264 1269 1267 1268 1265 1266 1270,Phoenix Down | Elixir | Energy [1* MP+1] | Laurel Crown | Ultima [1* MP+2] | Fat Chocobo Feather | Phoenix Down,10
+5,9-6-3,Weapons Gone Haywire,0,chain,,9-6-2,9-6-4,Complete Mission 9-6-2,1281,Rebirth Flame [5* MAG+80],1275 1276 1272 1278 1274 1273 1279 1280 1277,Dark Matter | Brutal | Phoenix Down | Gysahl Greens | Adamantite | Hero Drink | 1000 SP | Elixir | Energy [1* MP+1],10
+2,9-6-4,Biomechanical Threats,0,chain,,9-6-3,9-6-5,Complete Mission 9-6-3,1288,Exaflare [5* MAG+100],1287 1282 1284 1285 1283 1286,Genji Glove | Flare [1* MP+2] | Fat Chocobo Feather | Gold Hairpin | Kaiser Knuckles | Gysahl Greens,10
+0,9-6-5,Life Form of Energy,0,chain,,9-6-4,9-6-6,Complete Mission 9-6-4,1295,SP Master [1* HP+1],1289 1290 1293 1294 1291 1292,Energy Suit | Phoenix Down | Soul of Thamasa | Rune Armlet | Ultima [1* MP+2] | Platinum Bangle,10
+199,9-6-6,The Reigning Deity,0,chain,,9-6-5,,Complete Mission 9-6-5,1296,Divine Slayer,,,10
+73,10-1-1,Where's the Cactuar?,0,special,,,10-1-2,Defeat the Kactuar in Mission 3-1-3: Eliminate the Copies,133,Muscle Belt,131 132,Elixir | Potion,2
+76,10-1-2,Kactuar?,0,chain,,10-1-1,10-1-3,Complete Mission 10-1-1,226,Champion Belt,223 224 225,Remedy | AP Up [1* AP+1] | Cursed Ring,2
+236,10-1-3,Cactuar Found?,0,chain,,10-1-2,,Complete Mission 10-1-2,258,Cactus Thorn,255 256 257,Safety Bit | X-Potion | White Cape,3
+193,10-2-1,Find the Tonberry!,0,special,,,10-2-2,Defeat the Tonberry in Mission 6-1-5: Buried in the Caverns,217,Silver Armlet,216,Blizzard [1* MAG+0],2
+237,10-2-2,Tonberries Everywhere,0,chain,,10-2-1,10-2-3,Complete Mission 10-2-1,308,Gysahl Greens,307,X-Potion,3
+238,10-2-3,Master Tonberry,0,chain,,10-2-2,,Complete Mission 10-2-2,390,Tonberry's Knife,388 389 387 386,X-Potion | Phoenix Down | Mystile | X-Potion,3
+294,10-3-1,Vacation Time,0,chain,,,10-3-2,Complete Mission 3-2-2,1297,Dark Matter,,,4
+295,10-3-2,Vacation for Real,0,chain,,10-3-1,10-3-3,Complete Mission 10-3-1,1298,Gysahl Greens,,,4
+296,10-3-3,Please Make it a Vacation,0,chain,,10-3-2,10-4-1,Complete Mission 10-3-2,1299,Hero Drink,,,5
+297,10-4-1,You Need a Vacation,0,chain,,10-3-3,10-4-2,Complete Mission 10-3-3,1300,Phoenix Down,,,5
+298,10-4-2,We Hope it's a Vacation,0,chain,,10-4-1,10-4-3,Complete Mission 10-4-1,1301,Mythril,,,5
+299,10-4-3,Is it a Vacation Yet?,0,chain,,10-4-2,,Complete Mission 10-4-2,1302,Adamantite,,,6

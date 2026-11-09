@@ -1,0 +1,53 @@
+{ CCFF7R shop logger (Auto Assembler). No debugger.
+  Hooks GiveItem (exe+13957E0) and logs EVERY call into a 512-entry ring buffer:
+    +00 u32 item id   +04 i32 count   +08 return address
+    +10 rbx  +18 rbp  +20 rsi  +28 rdi  +30 r12  +38 r13  +40 r14  +48 r15   (the caller's saved registers)
+  Shop purchases return to exe+12B9222 (sales use the same path with a negative count).
+  The callee-saved registers usually hold the caller's pointers (shop object, stock list, slot index),
+  which is what we need to find the shop tables.
+  Dump with shop_dump.lua. Turn OFF then ON again to reset.
+  Do not enable together with giveitem_hook.cea (same hook site). }
+[ENABLE]
+alloc(sl_cave,$200,"CCFF7R-Win64-Shipping.exe"+13957E0)
+alloc(sl_buf,$C020)
+registersymbol(sl_buf)
+label(sl_ret)
+
+sl_cave:
+  push rax
+  push r9
+  push r10
+  mov r9,sl_buf
+  mov eax,[r9]
+  and eax,1FF
+  imul eax,eax,60
+  lea rax,[r9+rax+20]
+  mov [rax],ecx
+  mov [rax+4],edx
+  mov r10,[rsp+18]
+  mov [rax+8],r10
+  mov [rax+10],rbx
+  mov [rax+18],rbp
+  mov [rax+20],rsi
+  mov [rax+28],rdi
+  mov [rax+30],r12
+  mov [rax+38],r13
+  mov [rax+40],r14
+  mov [rax+48],r15
+  inc dword ptr [r9]
+  pop r10
+  pop r9
+  pop rax
+  mov [rsp+08],rbx
+  jmp sl_ret
+
+"CCFF7R-Win64-Shipping.exe"+13957E0:
+  jmp sl_cave
+sl_ret:
+
+[DISABLE]
+"CCFF7R-Win64-Shipping.exe"+13957E0:
+  db 48 89 5C 24 08
+unregistersymbol(sl_buf)
+dealloc(sl_cave)
+dealloc(sl_buf)

@@ -1,0 +1,83 @@
+{ CCFF7R treasure-read logger (Auto Assembler). No debugger.
+  Goal: find out how minigame batch rewards (Banora 55-59, sniper 474-477, Mako Stone exchange 333)
+  read the treasure table. Chests call TreasureEnable (251), which sets the opened bit. The batch
+  rewards seem to read the record (252/253/254) and give the item without ever setting the bit.
+
+  Logs only these natives, with the top two VM stack slots (the arguments):
+    24A AddItem   24C AddGil   24E AddSP
+    250 TreasureIsEnable  251 TreasureEnable  252 TreasureGetType  253 TreasureGetAmount  254 TreasureGetId
+    2A1 AddMultipleMes (the lines of the "X x1 obtained!" box)   29F MultipleMes (shows the box)
+  Ring buffer of 4096 entries of 0x20 bytes: +0 native, +8 arg1 (top slot), +10 arg2.
+  Same hook site as native_trace.cea (exe+13BEF86), so do NOT enable both at once.
+  Dump it with treasure_read_dump.lua. Turn OFF then ON again to reset. }
+[ENABLE]
+alloc(tr_cave,$200,"CCFF7R-Win64-Shipping.exe"+13BEF86)
+alloc(tr_buf,$20020)
+registersymbol(tr_buf)
+label(tr_ret)
+label(tr_log)
+label(tr_one)
+label(tr_count)
+label(tr_orig)
+
+tr_cave:
+  cmp edx,24A
+  je tr_log
+  cmp edx,24C
+  je tr_log
+  cmp edx,24E
+  je tr_log
+  cmp edx,29F
+  je tr_log
+  cmp edx,2A1
+  je tr_log
+  cmp edx,250
+  jb tr_orig
+  cmp edx,254
+  ja tr_orig
+tr_log:
+  push rcx
+  push r9
+  push r10
+  push r11
+  mov rcx,tr_buf
+  mov r9d,[rcx]
+  and r9d,FFF
+  shl r9,5
+  lea r9,[rcx+r9+20]
+  mov [r9],edx
+  mov qword ptr [r9+8],0
+  mov qword ptr [r9+10],0
+  mov r10,[rbx+18]
+  movsxd rax,dword ptr [rbx+24]
+  test eax,eax
+  jle tr_count
+  mov r11,[r10+rax*8-8]
+  mov [r9+8],r11
+  cmp eax,1
+  jle tr_one
+  mov r11,[r10+rax*8-10]
+  mov [r9+10],r11
+tr_one:
+tr_count:
+  inc dword ptr [rcx]
+  pop r11
+  pop r10
+  pop r9
+  pop rcx
+tr_orig:
+  movsxd rax,edx
+  mov rax,[r8+rax*8]
+  jmp tr_ret
+
+"CCFF7R-Win64-Shipping.exe"+13BEF86:
+  jmp tr_cave
+  nop 2
+tr_ret:
+
+[DISABLE]
+"CCFF7R-Win64-Shipping.exe"+13BEF86:
+  db 48 63 C2 49 8B 04 C0
+unregistersymbol(tr_buf)
+dealloc(tr_cave)
+dealloc(tr_buf)

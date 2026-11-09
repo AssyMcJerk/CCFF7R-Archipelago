@@ -1,0 +1,355 @@
+id_hex,category,name,confidence
+0x2000,consumable,"Potion",verified
+0x2001,consumable,"Hi-Potion",verified
+0x2002,consumable,"X-Potion",verified
+0x2003,consumable,"Ether",verified
+0x2004,consumable,"Soma",verified
+0x2005,consumable,"Remedy",verified
+0x2006,consumable,"Elixir",verified
+0x2007,consumable,"Phoenix Down",verified
+0x3000,key/other,"ATK Mako Stone",verified
+0x3001,key/other,"VIT Mako Stone",verified
+0x3002,key/other,"MAG Mako Stone",verified
+0x3003,key/other,"SPR Mako Stone",verified
+0x3004,key/other,"LCK Mako Stone",verified
+0x3005,key/other,"HP Mako Stone",verified
+0x3006,key/other,"MP Mako Stone",verified
+0x3007,key/other,"AP Mako Stone",verified
+0x3008,key/other,"Power Stone",verified
+0x3009,key/other,"Guard Stone",verified
+0x300A,key/other,"Magic Stone",verified
+0x300B,key/other,"Mind Stone",verified
+0x300C,key/other,"Luck Stone",verified
+0x300D,key/other,"HP Stone",verified
+0x300E,key/other,"MP Stone",verified
+0x300F,key/other,"AP Stone",verified
+0x3010,key/other,"Hero Drink",verified
+0x3011,key/other,"Adamantite",verified
+0x3012,key/other,"Dark Matter",verified
+0x3013,key/other,"Mythril",verified
+0x3014,key/other,"Gysahl Greens",verified
+0x3015,key/other,"Fat Chocobo Feather",verified
+0x3016,key/other,"Lunar Harp",verified
+0x3017,key/other,"Zeio Nut",verified
+0x3018,key/other,"Coffin Key",verified
+0x3019,key/other,"Tissue",verified
+0x301A,key/other,"Gold Rolling Pin",verified
+0x301B,key/other,"Ifrit Materia",verified
+0x301C,key/other,"Bahamut Materia",verified
+0x301D,key/other,"Bahamut Fury Materia",verified
+0x301E,key/other,"Odin Materia",verified
+0x301F,key/other,"Phoenix Materia",verified
+0x3020,key/other,"Chocobo Feather",verified
+0x3021,key/other,"Cactus Thorn",verified
+0x3022,key/other,"Tonberry's Knife",verified
+0x3023,key/other,"Cait Sith's Megaphone",verified
+0x3024,key/other,"Moogle's Amulet",verified
+0x3025,key/other,"Magic Pot Tricks",verified
+0x3026,key/other,"Sec.8 Materia Shop Address",verified
+0x3027,key/other,"Sec.5 Materia Shop Address",verified
+0x3028,key/other,"Sec.6 Accessory Shop Address",verified
+0x3029,key/other,"Sec.7 Shop Address",verified
+0x302A,key/other,"Research Dept. QMC Address",verified
+0x302B,key/other,"Research Dept. QMC+ Address",verified
+0x302C,key/other,"The Happy Turtle Address",verified
+0x302D,key/other,"Wutai Secret Shop Address",verified
+0x302E,key/other,"Gongaga Trading Address",verified
+0x302F,key/other,"Nibel Accessories Address",verified
+0x3030,key/other,"Junon Souvenirs Address",verified
+0x3031,key/other,"Bone Village Outlet Address",verified
+0x3032,key/other,"Mythril Mine Traders Address",verified
+0x3033,key/other,"Online Shop Duo Address",verified
+0x3034,key/other,"Online Shop Shade Address",verified
+0x3035,key/other,"Keychain",verified
+0x3036,key/other,"Backpack",verified
+0x3037,key/other,"Item Fusion Tome",verified
+0x3038,key/other,"Craftsman Monthly",verified
+0x3039,key/other,"Walnut Wood",verified
+0x303A,key/other,"Premium Tires",verified
+0x303B,key/other,"Mythril Tools",verified
+0x303C,key/other,"Shinra Lunch Cart Specs",verified
+0x303D,key/other,"Shinra Ceramic",verified
+0x303E,key/other,"Shinra Treads",verified
+0x303F,key/other,"Shinra Solder",verified
+0x3040,key/other,"How to Build a Wagon",verified
+0x3041,key/other,"Old Lumber",verified
+0x3042,key/other,"Worn Tires",verified
+0x3043,key/other,"Used Tools",verified
+0x3044,key/other,"Jail Cell Key",verified
+0x3045,key/other,"Boiler Handle",verified
+0x3046,key/other,"Gold Shard",verified
+0x3047,key/other,"Dresser Key",verified
+0x3048,key/other,"SOLDIER Outfit",verified
+0x3049,key/other,"Goddess Base Key",verified
+0x304A,key/other,"Goddess Sacral Key",verified
+0x304B,key/other,"Goddess Solar Key",verified
+0x304C,key/other,"Goddess Heart Key",verified
+0x304D,key/other,"Goddess Throat Key",verified
+0x304E,key/other,"Goddess Third Eye Key",verified
+0x304F,key/other,"Goddess Crown Key",verified
+0x3050,key/other,"Goddess Wing Key",verified
+0x3051,key/other,"Laboratory Key",verified
+0x3052,key/other,"Iron Bars Key",verified
+0x3053,key/other,"Light Materia",verified
+0x3054,key/other,"Heaven Materia",verified
+0x3055,key/other,"Ground Materia",verified
+0x3056,key/other,"Star Materia",verified
+0x3057,key/other,"Life Materia",verified
+0x3058,key/other,"Being Materia",verified
+0x3059,key/other,"Sabbath Materia",verified
+0x305A,key/other,"???",verified
+0x5000,accessory,"Bronze Bangle",verified
+0x5001,accessory,"Iron Bangle",verified
+0x5002,accessory,"Titanium Bangle",verified
+0x5003,accessory,"Carbon Bangle",verified
+0x5004,accessory,"Platinum Bangle",verified
+0x5005,accessory,"Bronze Armlet",verified
+0x5006,accessory,"Silver Armlet",verified
+0x5007,accessory,"Gold Armlet",verified
+0x5008,accessory,"Rune Armlet",verified
+0x5009,accessory,"Mythril Armlet",verified
+0x500A,accessory,"Chocobo Armlet",verified
+0x500B,accessory,"Mountain Chocobo Armlet",verified
+0x500C,accessory,"River Chocobo Armlet",verified
+0x500D,accessory,"Sea Chocobo Armlet",verified
+0x500E,accessory,"Sky Chocobo Armlet",verified
+0x500F,accessory,"Wrist Band",verified
+0x5010,accessory,"Power Wrist",verified
+0x5011,accessory,"Hyper Wrist",verified
+0x5012,accessory,"Kaiser Knuckles",verified
+0x5013,accessory,"Bulletproof Vest",verified
+0x5014,accessory,"Shinra Alpha",verified
+0x5015,accessory,"Shinra Beta",verified
+0x5016,accessory,"Shinra Beta+",verified
+0x5017,accessory,"Earrings",verified
+0x5018,accessory,"Circlet",verified
+0x5019,accessory,"Hypno Crown",verified
+0x501A,accessory,"Royal Crown",verified
+0x501B,accessory,"Amulet",verified
+0x501C,accessory,"Talisman",verified
+0x501D,accessory,"Tarot Cards",verified
+0x501E,accessory,"Crystal Orb",verified
+0x501F,accessory,"Muscle Belt",verified
+0x5020,accessory,"Champion Belt",verified
+0x5021,accessory,"Black Belt",verified
+0x5022,accessory,"Mythril Gloves",verified
+0x5023,accessory,"Diamond Gloves",verified
+0x5024,accessory,"Crystal Gloves",verified
+0x5025,accessory,"Force Bracelet",verified
+0x5026,accessory,"Diamond Bracelet",verified
+0x5027,accessory,"Crystal Bracelet",verified
+0x5028,accessory,"Four Slots",verified
+0x5029,accessory,"Mystile",verified
+0x502A,accessory,"Aegis Armlet",verified
+0x502B,accessory,"Good-Luck Charm",verified
+0x502C,accessory,"Fire Ring",verified
+0x502D,accessory,"Fire Armlet",verified
+0x502E,accessory,"Flame Armlet",verified
+0x502F,accessory,"Blaze Armlet",verified
+0x5030,accessory,"Ice Ring",verified
+0x5031,accessory,"Ice Armlet",verified
+0x5032,accessory,"Frost Armlet",verified
+0x5033,accessory,"Snow Armlet",verified
+0x5034,accessory,"Lightning Ring",verified
+0x5035,accessory,"Lightning Armlet",verified
+0x5036,accessory,"Thunder Armlet",verified
+0x5037,accessory,"Bolt Armlet",verified
+0x5038,accessory,"Dragon Armlet",verified
+0x5039,accessory,"Escort Guard",verified
+0x503A,accessory,"Wizard Bracelet",verified
+0x503B,accessory,"Element Blade",verified
+0x503C,accessory,"Force of Nature",verified
+0x503D,accessory,"Mortal Shock",verified
+0x503E,accessory,"Venom Shock",verified
+0x503F,accessory,"Mute Shock",verified
+0x5040,accessory,"System Shock",verified
+0x5041,accessory,"Paralyzing Shock",verified
+0x5042,accessory,"Safety Bit",verified
+0x5043,accessory,"Star Pendant",verified
+0x5044,accessory,"White Cape",verified
+0x5045,accessory,"Gris-Gris Bag",verified
+0x5046,accessory,"Headband",verified
+0x5047,accessory,"Sprint Shoes",verified
+0x5048,accessory,"Pearl Necklace",verified
+0x5049,accessory,"Ribbon",verified
+0x504A,accessory,"Super Ribbon",verified
+0x504B,accessory,"Cursed Ring",verified
+0x504C,accessory,"Moon Bracer",verified
+0x504D,accessory,"Shining Bracer",verified
+0x504E,accessory,"Protect Ring",verified
+0x504F,accessory,"Faerie Ring",verified
+0x5050,accessory,"Twisted Headband",verified
+0x5051,accessory,"Sniper Eye",verified
+0x5052,accessory,"Precious Watch",verified
+0x5053,accessory,"Jeweled Ring",verified
+0x5054,accessory,"Mog's Amulet",verified
+0x5055,accessory,"Brigand's Gloves",verified
+0x5056,accessory,"Doc's Code",verified
+0x5057,accessory,"Feather Cap",verified
+0x5058,accessory,"Fury Ring",verified
+0x5059,accessory,"Power Suit",verified
+0x505A,accessory,"Energy Suit",verified
+0x505B,accessory,"Assault Targe",verified
+0x505C,accessory,"Impervious",verified
+0x505D,accessory,"Gold Hairpin",verified
+0x505E,accessory,"Black Cowl",verified
+0x505F,accessory,"Soul of Thamasa",verified
+0x5060,accessory,"Laurel Crown",verified
+0x5061,accessory,"Magic Master",verified
+0x5062,accessory,"Black Garb",verified
+0x5063,accessory,"Adaman Bangle",verified
+0x5064,accessory,"Brutal",verified
+0x5065,accessory,"Ziedrich",verified
+0x5066,accessory,"Genji Helm",verified
+0x5067,accessory,"Genji Armor",verified
+0x5068,accessory,"Genji Shield",verified
+0x5069,accessory,"Genji Glove",verified
+0x506A,accessory,"Divine Slayer",verified
+0x506B,accessory,"Heike Soul",verified
+0x4000,materia,"Fire",verified
+0x4001,materia,"Blizzard",verified
+0x4002,materia,"Thunder",verified
+0x4003,materia,"Fira",verified
+0x4004,materia,"Blizzara",verified
+0x4005,materia,"Thundara",verified
+0x4006,materia,"Firaga",verified
+0x4007,materia,"Blizzaga",verified
+0x4008,materia,"Thundaga",verified
+0x4009,materia,"Cure",verified
+0x400A,materia,"Cura",verified
+0x400B,materia,"Curaga",verified
+0x400C,materia,"Full Cure",verified
+0x400D,materia,"Regen",verified
+0x400E,materia,"Esuna",verified
+0x400F,materia,"Dispel",verified
+0x4010,materia,"Barrier",verified
+0x4011,materia,"MBarrier",verified
+0x4012,materia,"Wall",verified
+0x4013,materia,"Drain",verified
+0x4014,materia,"Drainra",verified
+0x4015,materia,"Drainga",verified
+0x4016,materia,"Osmose",verified
+0x4017,materia,"Osmoga",verified
+0x4018,materia,"Poison",verified
+0x4019,materia,"Silence",verified
+0x401A,materia,"Stop",verified
+0x401B,materia,"Death",verified
+0x401C,materia,"Dark Fire",verified
+0x401D,materia,"Dark Blizzard",verified
+0x401E,materia,"Dark Thunder",verified
+0x401F,materia,"Dark Fira",verified
+0x4020,materia,"Dark Blizzara",verified
+0x4021,materia,"Dark Thundara",verified
+0x4022,materia,"Dark Firaga",verified
+0x4023,materia,"Dark Blizzaga",verified
+0x4024,materia,"Dark Thundaga",verified
+0x4025,materia,"Hell Firaga",verified
+0x4026,materia,"Hell Blizzaga",verified
+0x4027,materia,"Hell Thundaga",verified
+0x4028,materia,"Gravity",verified
+0x4029,materia,"Graviga",verified
+0x402A,materia,"Quake",verified
+0x402B,materia,"Tri-Thundaga",verified
+0x402C,materia,"Tri-Fire",verified
+0x402D,materia,"Electrocute",verified
+0x402E,materia,"Flare",verified
+0x402F,materia,"Energy",verified
+0x4030,materia,"Ultima",verified
+0x4031,materia,"Darkness",verified
+0x4032,materia,"Jump",verified
+0x4033,materia,"High Jump",verified
+0x4034,materia,"Poison Aerial",verified
+0x4035,materia,"Silence Aerial",verified
+0x4036,materia,"Death Jump",verified
+0x4037,materia,"Assault Twister",verified
+0x4038,materia,"Assault Twister+",verified
+0x4039,materia,"Poison Twister",verified
+0x403A,materia,"Stop Twister",verified
+0x403B,materia,"Death Twister",verified
+0x403C,materia,"Power Attack",verified
+0x403D,materia,"Vital Slash",verified
+0x403E,materia,"Exploder Blade",verified
+0x403F,materia,"Blast Wave",verified
+0x4040,materia,"Poison Blade",verified
+0x4041,materia,"Silence Blade",verified
+0x4042,materia,"Stop Blade",verified
+0x4043,materia,"Death Blade",verified
+0x4044,materia,"Dispel Blade",verified
+0x4045,materia,"Fire Blade",verified
+0x4046,materia,"Blizzard Blade",verified
+0x4047,materia,"Thunder Blade",verified
+0x4048,materia,"Fira Blade",verified
+0x4049,materia,"Blizzara Blade",verified
+0x404A,materia,"Thundara Blade",verified
+0x404B,materia,"Firaga Blade",verified
+0x404C,materia,"Blizzaga Blade",verified
+0x404D,materia,"Thundaga Blade",verified
+0x404E,materia,"Drain Blade",verified
+0x404F,materia,"Power Drain",verified
+0x4050,materia,"Aerial Drain",verified
+0x4051,materia,"Osmose Blade",verified
+0x4052,materia,"Power Osmose",verified
+0x4053,materia,"Steal",verified
+0x4054,materia,"Mug",verified
+0x4055,materia,"Gil Toss",verified
+0x4056,materia,"Iron Fist",verified
+0x4057,materia,"Goblin Punch",verified
+0x4058,materia,"Magical Punch",verified
+0x4059,materia,"Hammer Punch",verified
+0x405A,materia,"Costly Punch",verified
+0x405B,materia,"HP Up",verified
+0x405C,materia,"HP Up+",verified
+0x405D,materia,"HP Up++",verified
+0x405E,materia,"MP Up",verified
+0x405F,materia,"MP Up+",verified
+0x4060,materia,"MP Up++",verified
+0x4061,materia,"AP Up",verified
+0x4062,materia,"AP Up+",verified
+0x4063,materia,"AP Up++",verified
+0x4064,materia,"ATK Up",verified
+0x4065,materia,"ATK Up+",verified
+0x4066,materia,"ATK Up++",verified
+0x4067,materia,"VIT Up",verified
+0x4068,materia,"VIT Up+",verified
+0x4069,materia,"VIT Up++",verified
+0x406A,materia,"MAG Up",verified
+0x406B,materia,"MAG Up+",verified
+0x406C,materia,"MAG Up++",verified
+0x406D,materia,"SPR Up",verified
+0x406E,materia,"SPR Up+",verified
+0x406F,materia,"SPR Up++",verified
+0x4070,materia,"Libra",verified
+0x4071,materia,"Status Strike",verified
+0x4072,materia,"Status Ward",verified
+0x4073,materia,"Elemental Strike",verified
+0x4074,materia,"Elemental Ward",verified
+0x4075,materia,"Dash",verified
+0x4076,materia,"Dualcast",verified
+0x4077,materia,"Smart Consumer",verified
+0x4078,materia,"SP Turbo Magic",verified
+0x4079,materia,"SP Turbo Attack",verified
+0x407A,materia,"SP Turbo",verified
+0x407B,materia,"SP Barrier",verified
+0x407C,materia,"SP Master",verified
+0x407D,materia,"Octaslash",verified
+0x407E,materia,"Rush Assault",verified
+0x407F,materia,"Air Strike",verified
+0x4080,materia,"Meteor Shots",verified
+0x4081,materia,"Healing Wave",verified
+0x4082,materia,"Lucky Stars",verified
+0x4083,materia,"Apocalypse",verified
+0x4084,materia,"Hellfire",verified
+0x4085,materia,"Megaflare",verified
+0x4086,materia,"Zantetsuken",verified
+0x4087,materia,"Rebirth Flame",verified
+0x4088,materia,"Exaflare",verified
+0x4089,materia,"Chocobo Stomp",verified
+0x408A,materia,"1,000 Needles",verified
+0x408B,materia,"Murderous Thrust",verified
+0x408C,materia,"Courage Boost!",verified
+0x408D,materia,"Moogle Power",verified
+0x408E,materia,"Item Mugger",verified
+0x408F,materia,"Proto Spellblade",verified
+0x4090,materia,"HP Turbo",verified
+0x4091,materia,"MP Turbo",verified
+0x4092,materia,"AP Turbo",verified

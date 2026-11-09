@@ -1,0 +1,18 @@
+shop,name,address_item,note
+0,Shinra Shop,,always open
+1,Sec.8 Materia Shop,Sec.8 Materia Shop Address,"index order = shop-address key items 0x3026.. (inferred from stock, verify in game)"
+2,Sec.5 Materia Shop,Sec.5 Materia Shop Address,"index order = shop-address key items 0x3026.. (inferred from stock, verify in game)"
+3,Sec.6 Accessory Shop,Sec.6 Accessory Shop Address,"index order = shop-address key items 0x3026.. (inferred from stock, verify in game)"
+4,Sec.7 Shop,Sec.7 Shop Address,"index order = shop-address key items 0x3026.. (inferred from stock, verify in game)"
+5,Research Dept. QMC,Research Dept. QMC Address,"index order = shop-address key items 0x3026.. (inferred from stock, verify in game)"
+6,Research Dept. QMC+,Research Dept. QMC+ Address,"index order = shop-address key items 0x3026.. (inferred from stock, verify in game)"
+7,The Happy Turtle,The Happy Turtle Address,"index order = shop-address key items 0x3026.. (inferred from stock, verify in game)"
+8,Wutai Secret Shop,Wutai Secret Shop Address,"index order = shop-address key items 0x3026.. (inferred from stock, verify in game)"
+9,Gongaga Trading,Gongaga Trading Address,"index order = shop-address key items 0x3026.. (inferred from stock, verify in game)"
+10,Nibel Accessories,Nibel Accessories Address,"index order = shop-address key items 0x3026.. (inferred from stock, verify in game)"
+11,Junon Souvenirs,Junon Souvenirs Address,"index order = shop-address key items 0x3026.. (inferred from stock, verify in game)"
+12,Bone Village Outlet,Bone Village Outlet Address,"index order = shop-address key items 0x3026.. (inferred from stock, verify in game)"
+13,Mythril Mine Trading,Mythril Mine Traders Address,"index order = shop-address key items 0x3026.. (inferred from stock, verify in game)"
+14,Online Shop Duo,Online Shop Duo Address,"index order = shop-address key items 0x3026.. (inferred from stock, verify in game)"
+15,Online Shop Shade,Online Shop Shade Address,"index order = shop-address key items 0x3026.. (inferred from stock, verify in game)"
+16,Online Shop Shade (variant),Online Shop Shade Address,"index order = shop-address key items 0x3026.. (inferred from stock, verify in game)"

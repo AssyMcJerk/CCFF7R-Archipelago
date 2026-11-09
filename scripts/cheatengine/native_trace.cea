@@ -1,0 +1,73 @@
+{ CCFF7R native-call tracer v2 (Auto Assembler).
+  Logs every script native the event VM calls into a 65536-entry ring buffer
+  (u32 native index, u32 pad, top two VM stack slots). Back-to-back repeats are skipped,
+  and so are the per-frame polling natives 002 WaitFrame, 288 FairGetMenuOpened,
+  309 SetFairLogEnable, 31A FairWaitRealFrame (v1 overflowed on these).
+  Hook site: VM call-native routine exe+13BEF86. No debugger involved.
+  Turn OFF then ON again to reset the log. }
+[ENABLE]
+alloc(nt_cave,$200,"CCFF7R-Win64-Shipping.exe"+13BEF86)
+alloc(nt_buf,$200020)
+registersymbol(nt_buf)
+label(nt_ret)
+label(nt_skip)
+label(nt_count)
+label(nt_one)
+label(nt_orig)
+
+nt_cave:
+  cmp edx,002
+  je nt_orig
+  cmp edx,288
+  je nt_orig
+  cmp edx,309
+  je nt_orig
+  cmp edx,31A
+  je nt_orig
+  push rcx
+  push r9
+  push r10
+  mov rcx,nt_buf
+  cmp edx,[rcx+4]
+  je nt_skip
+  mov [rcx+4],edx
+  mov r9d,[rcx]
+  and r9d,FFFF
+  shl r9,5
+  lea r9,[rcx+r9+20]
+  mov [r9],edx
+  mov r10,[rbx+18]
+  movsxd rax,dword ptr [rbx+24]
+  test eax,eax
+  jle nt_count
+  push r11
+  mov r11,[r10+rax*8-8]
+  mov [r9+8],r11
+  cmp eax,1
+  jle nt_one
+  mov r11,[r10+rax*8-10]
+  mov [r9+10],r11
+nt_one:
+  pop r11
+nt_count:
+  inc dword ptr [rcx]
+nt_skip:
+  pop r10
+  pop r9
+  pop rcx
+nt_orig:
+  movsxd rax,edx
+  mov rax,[r8+rax*8]
+  jmp nt_ret
+
+"CCFF7R-Win64-Shipping.exe"+13BEF86:
+  jmp nt_cave
+  nop 2
+nt_ret:
+
+[DISABLE]
+"CCFF7R-Win64-Shipping.exe"+13BEF86:
+  db 48 63 C2 49 8B 04 C0
+unregistersymbol(nt_buf)
+dealloc(nt_cave)
+dealloc(nt_buf)

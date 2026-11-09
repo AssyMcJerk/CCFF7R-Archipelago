@@ -1,0 +1,11 @@
+__pycache__/
+*.pyc
+*.apworld
+# build outputs (attached to releases instead)
+poptracker/
+ccff7r_poptracker*.zip
+apworld/ccff7r/data/build_report.txt
+# game files and memory dumps never go in the repo
+fmode_export/
+dumps/
+*.bin

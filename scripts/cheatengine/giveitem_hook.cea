@@ -1,0 +1,61 @@
+{ CCFF7R Reunion - GiveItem logger hook (no debugger needed)
+  GiveItem(u16 itemId, int count) = exe+13957E0
+  Records last call; when called from the event-script VM (ret = exe+13BEF9F)
+  also records VM context (rbx) and current script instruction ptr ([rbx+2C8]).
+  Watch: gi_lastId (2B hex), gi_lastCnt (4B signed), gi_calls (4B),
+         gi_lastRet / gi_ctx / gi_ip (8B hex)
+}
+[ENABLE]
+alloc(newmem,$1000,"CCFF7R-Win64-Shipping.exe"+13957E0)
+label(return)
+label(gi_lastRet)
+label(gi_ctx)
+label(gi_ip)
+label(gi_lastId)
+label(gi_lastCnt)
+label(gi_calls)
+registersymbol(gi_lastRet gi_ctx gi_ip gi_lastId gi_lastCnt gi_calls)
+
+newmem:
+  mov [gi_lastId],cx
+  mov [gi_lastCnt],edx
+  push rax
+  push r9
+  mov rax,[rsp+10]                 // return address
+  mov [gi_lastRet],rax
+  mov r9,"CCFF7R-Win64-Shipping.exe"+13BEF9F
+  cmp rax,r9
+  jne @f
+  mov [gi_ctx],rbx                 // script VM context
+  mov rax,[rbx+2C8]
+  mov [gi_ip],rax                  // current script instruction
+@@:
+  pop r9
+  pop rax
+  inc dword ptr [gi_calls]
+  mov [rsp+08],rbx                 // original instruction
+  jmp return
+align 10 cc
+gi_lastRet:
+  dq 0
+gi_ctx:
+  dq 0
+gi_ip:
+  dq 0
+gi_lastId:
+  dw 0
+  dw 0
+gi_lastCnt:
+  dd 0
+gi_calls:
+  dd 0
+
+"CCFF7R-Win64-Shipping.exe"+13957E0:
+  jmp newmem
+return:
+
+[DISABLE]
+"CCFF7R-Win64-Shipping.exe"+13957E0:
+  db 48 89 5C 24 08
+unregistersymbol(gi_lastRet gi_ctx gi_ip gi_lastId gi_lastCnt gi_calls)
+dealloc(newmem)

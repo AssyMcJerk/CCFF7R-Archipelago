@@ -1,0 +1,41 @@
+minigame,treasure_id,confidence,note
+squats,401,known,Shinra Lunch Cart Specs (beat Trooper)
+squats,402,known,Shinra Ceramic (beat Captain)
+squats,403,known,Shinra Treads (beat SOLDIER 3rd)
+squats,404,known,Shinra Solder (beat SOLDIER 2nd)
+wutai_spies,398,known,Walnut Wood (all 6 spies found)
+flower_wagon,397,known,Craftsman Monthly (Shinra Captain after 1-2-x)
+flower_wagon,399,known,Premium Tires (SOLDIER 3rd after 7-1-x)
+flower_wagon,400,known,"Mythril Tools (Exhibit Room researcher: only between clearing 2-1-5 and clearing 2-1-6; missable)"
+seven_wonders,409,known,#1 water tower
+seven_wonders,410,known,#2
+seven_wonders,413,known,#7 (Ch9)
+seven_wonders,414,known,#6
+seven_wonders,424,known,#4
+seven_wonders,411,known,"#3 (3 Bombs on Mt. Nibel, gold shard to the kid at the town entrance): playtest 2, scene 5300. 425 (seen in playtest 1 after the trail) is NOT #3"
+waterfall,514,known,10-chest prize (Goblin Punch); sets its opened bit. Batch reward 511-513 is kept vanilla
+banora_treasures,55,known,Collect the items on the way to Angeal's house (Ch2); prize popup at the house
+banora_treasures,56,known,Collect the items on the way to Angeal's house (Ch2); prize popup at the house
+banora_treasures,57,known,Collect the items on the way to Angeal's house (Ch2); prize popup at the house
+banora_treasures,58,known,Collect the items on the way to Angeal's house (Ch2); prize popup at the house
+banora_treasures,59,known,Collect the items on the way to Angeal's house (Ch2); prize popup at the house
+sniper_zack,474,known,"prize popup, read-detected"
+sniper_zack,475,known,"prize popup, read-detected"
+sniper_zack,476,known,"prize popup, read-detected"
+sniper_zack,477,known,"prize popup, read-detected"
+waterfall,511,known,"prize popup, read-detected"
+waterfall,512,known,"prize popup, read-detected"
+waterfall,513,known,"prize popup, read-detected"
+kids_guessing,147,known,"Sector 5 market guessing game (13 rewards 147-159, 150 = Tissue for a loss); playtest 4"
+kids_guessing,148,known,"Sector 5 market guessing game (13 rewards 147-159, 150 = Tissue for a loss); playtest 4"
+kids_guessing,149,known,"Sector 5 market guessing game (13 rewards 147-159, 150 = Tissue for a loss); playtest 4"
+kids_guessing,150,known,"Sector 5 market guessing game (13 rewards 147-159, 150 = Tissue for a loss); playtest 4"
+kids_guessing,151,known,"Sector 5 market guessing game (13 rewards 147-159, 150 = Tissue for a loss); playtest 4"
+kids_guessing,152,known,"Sector 5 market guessing game (13 rewards 147-159, 150 = Tissue for a loss); playtest 4"
+kids_guessing,153,known,"Sector 5 market guessing game (13 rewards 147-159, 150 = Tissue for a loss); playtest 4"
+kids_guessing,154,known,"Sector 5 market guessing game (13 rewards 147-159, 150 = Tissue for a loss); playtest 4"
+kids_guessing,155,known,"Sector 5 market guessing game (13 rewards 147-159, 150 = Tissue for a loss); playtest 4"
+kids_guessing,156,known,"Sector 5 market guessing game (13 rewards 147-159, 150 = Tissue for a loss); playtest 4"
+kids_guessing,157,known,"Sector 5 market guessing game (13 rewards 147-159, 150 = Tissue for a loss); playtest 4"
+kids_guessing,158,known,"Sector 5 market guessing game (13 rewards 147-159, 150 = Tissue for a loss); playtest 4"
+kids_guessing,159,known,"Sector 5 market guessing game (13 rewards 147-159, 150 = Tissue for a loss); playtest 4"
